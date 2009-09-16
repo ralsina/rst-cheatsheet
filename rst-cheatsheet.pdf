@@ -4,10 +4,10 @@
 1 0 obj
 % The standard fonts dictionary
 << /F1 2 0 R
- /F2+0 56 0 R
- /F3+0 60 0 R
- /F4 3 0 R
- /F5+0 64 0 R >>
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4+0 60 0 R
+ /F5 5 0 R >>
 endobj
 % 'F1': class PDFType1Font 
 2 0 obj
@@ -18,46 +18,34 @@ endobj
  /Subtype /Type1
  /Type /Font >>
 endobj
-% 'F4': class PDFType1Font 
+% 'F2': class PDFType1Font 
 3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
 % Font Times-Roman
 << /BaseFont /Times-Roman
  /Encoding /WinAnsiEncoding
- /Name /F4
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F5': class PDFType1Font 
+5 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F5
  /Subtype /Type1
  /Type /Font >>
 endobj
 % 'Annot.NUMBER1': class PDFDictionary 
-4 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://docutils.sourceforge.net/docs/user/rst/quickref.html#hyperlink-targets) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 212.263
- 499.9348
- 258.2825
- 507.9348 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER2': class PDFDictionary 
-5 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://docutils.sourceforge.net/docs/user/rst/quickref.html#hyperlink-targets) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 212.263
- 489.9348
- 258.2825
- 497.9348 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER3': class PDFDictionary 
 6 0 obj
 << /A << /S /URI
  /Type /Action
@@ -66,50 +54,80 @@ endobj
  0
  0 ]
  /Rect [ 212.263
- 479.9348
- 243.9886
- 487.9348 ]
+ 500.2176
+ 257.617
+ 508.2176 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://docutils.sourceforge.net/docs/user/rst/quickref.html#hyperlink-targets) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 212.263
+ 490.2176
+ 257.617
+ 498.2176 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://docutils.sourceforge.net/docs/user/rst/quickref.html#hyperlink-targets) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 212.263
+ 480.2176
+ 243.277
+ 488.2176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER4': class LinkAnnotation 
-7 0 obj
+9 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
  441.3638
- 95.4454
+ 95.72822
  0 ]
- /Rect [ 264.47
- 449.9348
- 266.6731
- 457.9348 ]
+ /Rect [ 262.627
+ 450.2176
+ 264.851
+ 458.2176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER5': class LinkAnnotation 
-8 0 obj
+10 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
  441.3638
- 41.4454
+ 41.72822
  0 ]
- /Rect [ 263.2454
- 439.9348
- 285.2298
- 447.9348 ]
+ /Rect [ 261.619
+ 440.2176
+ 284.629
+ 448.2176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER6': class PDFDictionary 
-9 0 obj
+11 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://docutils.sf.net/) >>
@@ -117,21 +135,21 @@ endobj
  0
  0 ]
  /Rect [ 212.263
- 429.9348
- 269.512
- 437.9348 ]
+ 430.2176
+ 265.627
+ 438.2176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'FormXob.23ec01b5926120c2ac8f7d3203df8a61': class PDFImageXObject 
-10 0 obj
+12 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceRGB
  /Filter [ /ASCII85Decode
  /FlateDecode ]
  /Height 213
  /Length 2150
- /SMask 11 0 R
+ /SMask 13 0 R
  /Subtype /Image
  /Type /XObject
  /Width 213 >>
@@ -140,7 +158,7 @@ Gb"0V95[up&4Fq&s/'/@-pWm;Egb-Y,anCCTGTWF5U/E&hYid.4UW8VI;F:mplY&mq`nEj\^]Ng#'DE6
 
 endobj
 % 'FormXob.93b26a0f20f4a8c2f9e5c333d0b7df3e': class PDFImageXObject 
-11 0 obj
+13 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceGray
  /Decode [ 0
@@ -157,14 +175,14 @@ Gb!SqHVd__);bh##XM:dY>f83&`:nO.a^p0D.dt12TFr_!KE7%+>J`JXD"^H.]J\H7$:Xo1E%>[P+Z9Z
 
 endobj
 % 'FormXob.dc18cc4d2a9c353a3afb5106eba8aaef': class PDFImageXObject 
-12 0 obj
+14 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceRGB
  /Filter [ /ASCII85Decode
  /FlateDecode ]
  /Height 213
  /Length 2426
- /SMask 13 0 R
+ /SMask 15 0 R
  /Subtype /Image
  /Type /XObject
  /Width 213 >>
@@ -173,7 +191,7 @@ Gb"0V6#Kp^$j4l3s3agK!SSenAo*ALAVk?_q''N`fuM"EHcr+CAJHLS2Esb0Omp%ITl.hiWSc;3F]F0i
 
 endobj
 % 'FormXob.5ed7a76d734683c4d29b6c36a1b2f82d': class PDFImageXObject 
-13 0 obj
+15 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceGray
  /Decode [ 0
@@ -190,14 +208,14 @@ Gb!#aH!FA"(-WO2&S+_bOpiiG:ijDq&g*D#o;++_Ed/q()%Id'MP@g4VP49+dZ5Y1F!qXnGpQ<adj.Y9
 
 endobj
 % 'FormXob.11ef1b810312a287afd25554121e3b6a': class PDFImageXObject 
-14 0 obj
+16 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceRGB
  /Filter [ /ASCII85Decode
  /FlateDecode ]
  /Height 213
  /Length 2404
- /SMask 15 0 R
+ /SMask 17 0 R
  /Subtype /Image
  /Type /XObject
  /Width 213 >>
@@ -206,7 +224,7 @@ Gb"/lbAnOn$j?>)Ip*cu3uk[ScB(Gf*baV?m**?%p$o;7jhDkd=c4M!+5;7+bDuqD[gU]d/A8!sY8:#2
 
 endobj
 % 'FormXob.ba81fa0b7fa4065c8a00e3d971d5cf03': class PDFImageXObject 
-15 0 obj
+17 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceGray
  /Decode [ 0
@@ -223,262 +241,236 @@ Gb!#aH!Jm"(B6N_6P)Q&[6i&Vb?Zoe[)l+pN(u3iAN:s'6TH8lM4t]_\WE%IR:o3lV7@j\QC(<_WT?I)
 
 endobj
 % 'Page1': class PDFPage 
-16 0 obj
+18 0 obj
 % Page dictionary
-<< /Annots [ 4 0 R
- 5 0 R
- 6 0 R
+<< /Annots [ 6 0 R
  7 0 R
  8 0 R
- 9 0 R ]
- /Contents 77 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R ]
+ /Contents 73 0 R
  /MediaBox [ 0
  0
  841.8898
  595.2756 ]
- /Parent 76 0 R
+ /Parent 72 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
  /ImageB
  /ImageC
  /ImageI ]
- /XObject << /FormXob.11ef1b810312a287afd25554121e3b6a 14 0 R
- /FormXob.23ec01b5926120c2ac8f7d3203df8a61 10 0 R
- /FormXob.dc18cc4d2a9c353a3afb5106eba8aaef 12 0 R >> >>
+ /XObject << /FormXob.11ef1b810312a287afd25554121e3b6a 16 0 R
+ /FormXob.23ec01b5926120c2ac8f7d3203df8a61 12 0 R
+ /FormXob.dc18cc4d2a9c353a3afb5106eba8aaef 14 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+19 0 obj
+% Page dictionary
+<< /Contents 74 0 R
+ /MediaBox [ 0
+ 0
+ 841.8898
+ 595.2756 ]
+ /Parent 72 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.11ef1b810312a287afd25554121e3b6a 16 0 R
+ /FormXob.23ec01b5926120c2ac8f7d3203df8a61 12 0 R
+ /FormXob.dc18cc4d2a9c353a3afb5106eba8aaef 14 0 R >> >>
  /Rotate 0
  /Trans <<  >>
  /Type /Page >>
 endobj
 % 'Annot.NUMBER7': class LinkAnnotation 
-17 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 52 0 R
- /XYZ
- 441.3638
- 104.4454
- 0 ]
- /Rect [ 280.5013
- 351.5348
- 282.7044
- 359.5348 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER8': class LinkAnnotation 
-18 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 52 0 R
- /XYZ
- 441.3638
- 95.4454
- 0 ]
- /Rect [ 344.7024
- 300.3348
- 346.9056
- 308.3348 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER9': class LinkAnnotation 
-19 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 52 0 R
- /XYZ
- 441.3638
- 86.4454
- 0 ]
- /Rect [ 360.2562
- 300.3348
- 362.4593
- 308.3348 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER10': class LinkAnnotation 
 20 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
  441.3638
- 68.4454
+ 104.7282
  0 ]
- /Rect [ 366.8274
- 289.3348
- 369.0306
- 297.3348 ]
+ /Rect [ 279.961
+ 351.8176
+ 282.185
+ 359.8176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER11': class LinkAnnotation 
+% 'Annot.NUMBER8': class LinkAnnotation 
 21 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
  441.3638
- 77.4454
+ 95.72822
  0 ]
- /Rect [ 382.3812
- 289.3348
- 384.5843
- 297.3348 ]
+ /Rect [ 341.995
+ 300.6176
+ 344.219
+ 308.6176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER12': class LinkAnnotation 
+% 'Annot.NUMBER9': class LinkAnnotation 
 22 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
  441.3638
- 59.4454
+ 86.72822
  0 ]
- /Rect [ 347.3567
- 207.1348
- 349.5599
- 215.1348 ]
+ /Rect [ 357.563
+ 300.6176
+ 359.787
+ 308.6176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER13': class LinkAnnotation 
+% 'Annot.NUMBER10': class LinkAnnotation 
 23 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
  441.3638
- 50.4454
+ 68.72822
  0 ]
- /Rect [ 362.9105
- 207.1348
- 364.8538
- 215.1348 ]
+ /Rect [ 365.623
+ 289.6176
+ 367.847
+ 297.6176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER14': class LinkAnnotation 
+% 'Annot.NUMBER11': class LinkAnnotation 
 24 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
  441.3638
- 41.4454
+ 77.72822
  0 ]
- /Rect [ 279.1448
- 169.9348
- 301.1292
- 177.9348 ]
+ /Rect [ 381.191
+ 289.6176
+ 383.415
+ 297.6176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER15': class LinkAnnotation 
+% 'Annot.NUMBER12': class LinkAnnotation 
 25 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
  441.3638
- 32.4454
+ 59.72822
  0 ]
- /Rect [ 268.2347
- 131.9348
- 278.0608
- 139.9348 ]
+ /Rect [ 345.319
+ 207.4176
+ 346.875
+ 215.4176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER16': class LinkAnnotation 
+% 'Annot.NUMBER13': class LinkAnnotation 
 26 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
  441.3638
- 32.4454
+ 50.72822
  0 ]
- /Rect [ 356.0169
- 131.9348
- 365.8431
- 139.9348 ]
+ /Rect [ 360.219
+ 207.4176
+ 362.443
+ 215.4176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER17': class PDFDictionary 
+% 'Annot.NUMBER14': class LinkAnnotation 
 27 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.python.org/) >>
- /Border [ 0
+<< /Border [ 0
  0
  0 ]
- /Rect [ 277.7151
- 55.73477
- 296.6673
- 63.73477 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 441.3638
+ 41.72822
+ 0 ]
+ /Rect [ 278.287
+ 170.2176
+ 301.297
+ 178.2176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER18': class PDFDictionary 
+% 'Annot.NUMBER15': class LinkAnnotation 
 28 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.python.org/) >>
- /Border [ 0
+<< /Border [ 0
  0
  0 ]
- /Rect [ 277.7151
- 32.53477
- 296.6673
- 40.53477 ]
+ /Contents ()
+ /Dest [ 56 0 R
+ /XYZ
+ 12
+ 580.9676
+ 0 ]
+ /Rect [ 267.619
+ 132.2176
+ 276.955
+ 140.2176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER19': class LinkAnnotation 
+% 'Annot.NUMBER16': class LinkAnnotation 
 29 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 56 0 R
  /XYZ
- 641.6268
- 567.6848
+ 12
+ 580.9676
  0 ]
- /Rect [ 721.241
- 569.9348
- 744.2918
- 577.9348 ]
+ /Rect [ 353.659
+ 132.2176
+ 362.995
+ 140.2176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER20': class PDFDictionary 
+% 'Annot.NUMBER17': class PDFDictionary 
 30 0 obj
 << /A << /S /URI
  /Type /Action
@@ -486,14 +478,14 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 641.6268
- 532.7348
- 660.5789
- 540.7348 ]
+ /Rect [ 276.949
+ 56.01759
+ 295.627
+ 64.01759 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER21': class PDFDictionary 
+% 'Annot.NUMBER18': class PDFDictionary 
 31 0 obj
 << /A << /S /URI
  /Type /Action
@@ -501,48 +493,96 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 667.9559
- 532.7348
- 766.5809
- 540.7348 ]
+ /Rect [ 276.949
+ 32.81759
+ 295.627
+ 40.81759 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER22': class LinkAnnotation 
+% 'Annot.NUMBER19': class LinkAnnotation 
 32 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
  641.6268
- 497.3956
+ 567.9676
  0 ]
- /Rect [ 704.5594
- 474.9348
- 761.325
- 482.9348 ]
+ /Rect [ 719.9868
+ 570.2176
+ 742.6608
+ 578.2176 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class PDFDictionary 
+33 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.python.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 641.6268
+ 533.0176
+ 660.3048
+ 541.0176 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class PDFDictionary 
+34 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.python.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 667.9728
+ 533.0176
+ 764.0088
+ 541.0176 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class LinkAnnotation 
+35 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 641.6268
+ 497.7316
+ 0 ]
+ /Rect [ 702.9768
+ 475.2176
+ 759.3348
+ 483.2176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER23': class PDFDictionary 
-33 0 obj
+36 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://is.gd/2Ecqh) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 630.062
- 450.3348
- 678.2905
- 458.3348 ]
+ /Rect [ 597.0818
+ 450.6176
+ 643.4438
+ 458.6176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'FormXob.a2501ff5ecbd8000d66147efe5db6c77': class PDFImageXObject 
-34 0 obj
+37 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceRGB
  /Filter [ /ASCII85Decode
@@ -557,7 +597,7 @@ s4IA0!"_al8O`[\!<E0k!([(is4[N@!!**$!<E3%!<E3%!<E6'!s/N*!WiK,!s/Q."9er4"9\i2"pY>9
 
 endobj
 % 'FormXob.c8d097da4771654d12a9611e9af76669': class PDFImageXObject 
-35 0 obj
+38 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceRGB
  /Filter [ /ASCII85Decode
@@ -578,7 +618,7 @@ Gatmt9+h4I#XZ*%V/<(u@uBmr=V8?K0\Z^q/;*/(FTbVb3Ll+WIX_`d$OKqrhCOVS4K[m&h"\hN?W/1;
 
 endobj
 % 'Annot.NUMBER24': class PDFDictionary 
-36 0 obj
+39 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.liquitype.com/workshop/type_design/cp-mono) >>
@@ -586,14 +626,14 @@ endobj
  0
  0 ]
  /Rect [ 641.6268
- 213.7348
- 799.5779
- 221.7348 ]
+ 214.0176
+ 792.6828
+ 222.0176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER25': class PDFDictionary 
-37 0 obj
+40 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.flickr.com/photos/fdecomite/2926556794/) >>
@@ -601,14 +641,14 @@ endobj
  0
  0 ]
  /Rect [ 641.6268
- 205.7348
- 788.1463
- 213.7348 ]
+ 206.0176
+ 780.6888
+ 214.0176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER26': class PDFDictionary 
-38 0 obj
+41 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.netmanagers.com.ar) >>
@@ -616,14 +656,14 @@ endobj
  0
  0 ]
  /Rect [ 641.6268
- 197.7348
- 729.7518
- 205.7348 ]
+ 198.0176
+ 726.3228
+ 206.0176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER27': class PDFDictionary 
-39 0 obj
+42 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://rst2pdf.googlecode.com) >>
@@ -631,235 +671,214 @@ endobj
  0
  0 ]
  /Rect [ 641.6268
- 189.7348
- 723.9774
- 197.7348 ]
+ 190.0176
+ 720.6708
+ 198.0176 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER28': class LinkAnnotation 
-40 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 52 0 R
- /XYZ
- 280.5013
- 360.2848
- 0 ]
- /Rect [ 441.3638
- 95.6954
- 444.6685
- 103.6954 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER29': class LinkAnnotation 
-41 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 52 0 R
- /XYZ
- 344.7024
- 309.0848
- 0 ]
- /Rect [ 441.3638
- 86.6954
- 444.6685
- 94.6954 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER30': class LinkAnnotation 
-42 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 52 0 R
- /XYZ
- 360.2562
- 309.0848
- 0 ]
- /Rect [ 441.3638
- 77.6954
- 444.6685
- 85.6954 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER31': class LinkAnnotation 
 43 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
- 382.3812
- 298.0848
+ 279.961
+ 360.5676
  0 ]
  /Rect [ 441.3638
- 68.6954
- 444.6685
- 76.6954 ]
+ 95.97822
+ 444.6998
+ 103.9782 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER32': class LinkAnnotation 
+% 'Annot.NUMBER29': class LinkAnnotation 
 44 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
- 489.3638
- 77.4454
+ 341.995
+ 309.3676
  0 ]
- /Rect [ 505.0933
- 68.6954
- 518.1216
- 76.6954 ]
+ /Rect [ 441.3638
+ 86.97822
+ 444.6998
+ 94.97822 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER33': class LinkAnnotation 
+% 'Annot.NUMBER30': class LinkAnnotation 
 45 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
- 366.8274
- 298.0848
+ 357.563
+ 309.3676
  0 ]
  /Rect [ 441.3638
- 59.6954
- 444.6685
- 67.6954 ]
+ 77.97822
+ 444.6998
+ 85.97822 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER34': class LinkAnnotation 
+% 'Annot.NUMBER31': class LinkAnnotation 
 46 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
- 489.3638
- 68.4454
+ 381.191
+ 298.3676
  0 ]
- /Rect [ 505.0933
- 59.6954
- 522.0239
- 67.6954 ]
+ /Rect [ 441.3638
+ 68.97822
+ 444.6998
+ 76.97822 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER35': class LinkAnnotation 
+% 'Annot.NUMBER32': class LinkAnnotation 
 47 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
- 347.3567
- 215.8848
+ 489.3638
+ 77.72822
  0 ]
- /Rect [ 441.3638
- 50.6954
- 444.6685
- 58.6954 ]
+ /Rect [ 505.7078
+ 68.97822
+ 517.3778
+ 76.97822 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER36': class LinkAnnotation 
+% 'Annot.NUMBER33': class LinkAnnotation 
 48 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
- 362.9105
- 215.8848
+ 365.623
+ 298.3676
  0 ]
  /Rect [ 441.3638
- 41.6954
- 444.2788
- 49.6954 ]
+ 59.97822
+ 444.6998
+ 67.97822 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER37': class LinkAnnotation 
+% 'Annot.NUMBER34': class LinkAnnotation 
 49 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 16 0 R
+ /Dest [ 54 0 R
  /XYZ
- 261.4261
- 448.6848
+ 489.3638
+ 68.72822
  0 ]
- /Rect [ 465.1528
- 32.6954
- 468.4575
- 40.6954 ]
+ /Rect [ 505.7078
+ 59.97822
+ 521.0498
+ 67.97822 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER38': class LinkAnnotation 
+% 'Annot.NUMBER35': class LinkAnnotation 
 50 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
- 277.3255
- 178.6848
+ 345.319
+ 216.1676
  0 ]
- /Rect [ 471.5161
- 32.6954
- 474.8208
- 40.6954 ]
+ /Rect [ 441.3638
+ 50.97822
+ 443.6978
+ 58.97822 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER39': class LinkAnnotation 
+% 'Annot.NUMBER36': class LinkAnnotation 
 51 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 54 0 R
  /XYZ
- 266.4153
- 140.6848
+ 360.219
+ 216.1676
  0 ]
  /Rect [ 441.3638
- 23.6954
- 451.19
- 31.6954 ]
+ 41.97822
+ 444.6998
+ 49.97822 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page2': class PDFPage 
+% 'Annot.NUMBER37': class LinkAnnotation 
 52 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 18 0 R
+ /XYZ
+ 259.951
+ 448.9676
+ 0 ]
+ /Rect [ 466.3718
+ 32.97822
+ 469.7078
+ 40.97822 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER38': class LinkAnnotation 
+53 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 276.619
+ 178.9676
+ 0 ]
+ /Rect [ 441.3638
+ 24.97822
+ 444.6998
+ 32.97822 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+54 0 obj
 % Page dictionary
-<< /Annots [ 17 0 R
- 18 0 R
- 19 0 R
- 20 0 R
+<< /Annots [ 20 0 R
  21 0 R
  22 0 R
  23 0 R
@@ -873,9 +892,9 @@ endobj
  31 0 R
  32 0 R
  33 0 R
+ 34 0 R
+ 35 0 R
  36 0 R
- 37 0 R
- 38 0 R
  39 0 R
  40 0 R
  41 0 R
@@ -888,30 +907,73 @@ endobj
  48 0 R
  49 0 R
  50 0 R
- 51 0 R ]
- /Contents 78 0 R
+ 51 0 R
+ 52 0 R
+ 53 0 R ]
+ /Contents 75 0 R
  /MediaBox [ 0
  0
  841.8898
  595.2756 ]
- /Parent 76 0 R
+ /Parent 72 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
  /ImageB
  /ImageC
  /ImageI ]
- /XObject << /FormXob.11ef1b810312a287afd25554121e3b6a 14 0 R
- /FormXob.23ec01b5926120c2ac8f7d3203df8a61 10 0 R
- /FormXob.a2501ff5ecbd8000d66147efe5db6c77 34 0 R
- /FormXob.c8d097da4771654d12a9611e9af76669 35 0 R
- /FormXob.dc18cc4d2a9c353a3afb5106eba8aaef 12 0 R >> >>
+ /XObject << /FormXob.11ef1b810312a287afd25554121e3b6a 16 0 R
+ /FormXob.23ec01b5926120c2ac8f7d3203df8a61 12 0 R
+ /FormXob.a2501ff5ecbd8000d66147efe5db6c77 37 0 R
+ /FormXob.c8d097da4771654d12a9611e9af76669 38 0 R
+ /FormXob.dc18cc4d2a9c353a3afb5106eba8aaef 14 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER39': class LinkAnnotation 
+55 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 54 0 R
+ /XYZ
+ 265.951
+ 140.9676
+ 0 ]
+ /Rect [ 12
+ 572.2176
+ 21.336
+ 580.2176 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page4': class PDFPage 
+56 0 obj
+% Page dictionary
+<< /Annots [ 55 0 R ]
+ /Contents 76 0 R
+ /MediaBox [ 0
+ 0
+ 841.8898
+ 595.2756 ]
+ /Parent 72 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.11ef1b810312a287afd25554121e3b6a 16 0 R
+ /FormXob.23ec01b5926120c2ac8f7d3203df8a61 12 0 R
+ /FormXob.dc18cc4d2a9c353a3afb5106eba8aaef 14 0 R >> >>
  /Rotate 0
  /Trans <<  >>
  /Type /Page >>
 endobj
 % 'toUnicodeCMap:AAAAAA+CPMono_v07Plain': class PDFStream 
-53 0 obj
+57 0 obj
 << /Length 1897 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -1064,7 +1126,7 @@ endendstream
 
 endobj
 % 'fontFile:/home/ralsina/.fonts/c/cpmono_v07_plain.ttf(AAAAAA+CPMono_v07Plain)': class PDFStream 
-54 0 obj
+58 0 obj
 << /Length 9408
  /Length1 9408 >>
 stream
@@ -1092,7 +1154,7 @@ r
 
 endobj
 % 'fontDescriptor:AAAAAA+CPMono_v07Plain': class PDFDictionary 
-55 0 obj
+59 0 obj
 << /Ascent 760
  /CapHeight 684
  /Descent -240
@@ -1101,22 +1163,22 @@ endobj
  -240
  877
  907 ]
- /FontFile2 54 0 R
+ /FontFile2 58 0 R
  /FontName /AAAAAA+CPMono_v07Plain
  /ItalicAngle 0
  /StemV 72
  /Type /FontDescriptor >>
 endobj
-% 'F2+0': class PDFTrueTypeFont 
-56 0 obj
+% 'F4+0': class PDFTrueTypeFont 
+60 0 obj
 % Font cpmono_v07_plain subset 0
 << /BaseFont /AAAAAA+CPMono_v07Plain
  /FirstChar 0
- /FontDescriptor 55 0 R
+ /FontDescriptor 59 0 R
  /LastChar 127
- /Name /F2+0
+ /Name /F4+0
  /Subtype /TrueType
- /ToUnicode 53 0 R
+ /ToUnicode 57 0 R
  /Type /Font
  /Widths [ 650
  650
@@ -1247,1050 +1309,114 @@ endobj
  650
  650 ] >>
 endobj
-% 'toUnicodeCMap:AAAAAA+DroidSans': class PDFStream 
-57 0 obj
-<< /Length 1915 >>
-stream
-/CIDInit /ProcSet findresource begin
-12 dict begin
-begincmap
-/CIDSystemInfo
-<< /Registry (AAAAAA+DroidSans)
-/Ordering (AAAAAA+DroidSans)
-/Supplement 0
->> def
-/CMapName /AAAAAA+DroidSans def
-/CMapType 2 def
-1 begincodespacerange
-<00> <82>
-endcodespacerange
-131 beginbfchar
-<00> <0000>
-<01> <0001>
-<02> <0002>
-<03> <0003>
-<04> <0004>
-<05> <0005>
-<06> <0006>
-<07> <0007>
-<08> <0008>
-<09> <0009>
-<0A> <000A>
-<0B> <000B>
-<0C> <000C>
-<0D> <000D>
-<0E> <000E>
-<0F> <000F>
-<10> <0010>
-<11> <0011>
-<12> <0012>
-<13> <0013>
-<14> <0014>
-<15> <0015>
-<16> <0016>
-<17> <0017>
-<18> <0018>
-<19> <0019>
-<1A> <001A>
-<1B> <001B>
-<1C> <001C>
-<1D> <001D>
-<1E> <001E>
-<1F> <001F>
-<20> <0020>
-<21> <0021>
-<22> <0022>
-<23> <0023>
-<24> <0024>
-<25> <0025>
-<26> <0026>
-<27> <0027>
-<28> <0028>
-<29> <0029>
-<2A> <002A>
-<2B> <002B>
-<2C> <002C>
-<2D> <002D>
-<2E> <002E>
-<2F> <002F>
-<30> <0030>
-<31> <0031>
-<32> <0032>
-<33> <0033>
-<34> <0034>
-<35> <0035>
-<36> <0036>
-<37> <0037>
-<38> <0038>
-<39> <0039>
-<3A> <003A>
-<3B> <003B>
-<3C> <003C>
-<3D> <003D>
-<3E> <003E>
-<3F> <003F>
-<40> <0040>
-<41> <0041>
-<42> <0042>
-<43> <0043>
-<44> <0044>
-<45> <0045>
-<46> <0046>
-<47> <0047>
-<48> <0048>
-<49> <0049>
-<4A> <004A>
-<4B> <004B>
-<4C> <004C>
-<4D> <004D>
-<4E> <004E>
-<4F> <004F>
-<50> <0050>
-<51> <0051>
-<52> <0052>
-<53> <0053>
-<54> <0054>
-<55> <0055>
-<56> <0056>
-<57> <0057>
-<58> <0058>
-<59> <0059>
-<5A> <005A>
-<5B> <005B>
-<5C> <005C>
-<5D> <005D>
-<5E> <005E>
-<5F> <005F>
-<60> <0060>
-<61> <0061>
-<62> <0062>
-<63> <0063>
-<64> <0064>
-<65> <0065>
-<66> <0066>
-<67> <0067>
-<68> <0068>
-<69> <0069>
-<6A> <006A>
-<6B> <006B>
-<6C> <006C>
-<6D> <006D>
-<6E> <006E>
-<6F> <006F>
-<70> <0070>
-<71> <0071>
-<72> <0072>
-<73> <0073>
-<74> <0074>
-<75> <0075>
-<76> <0076>
-<77> <0077>
-<78> <0078>
-<79> <0079>
-<7A> <007A>
-<7B> <007B>
-<7C> <007C>
-<7D> <007D>
-<7E> <007E>
-<7F> <007F>
-<80> <2022>
-<81> <00A9>
-<82> <2020>
-endbfchar
-endcmap
-CMapName currentdict /CMap defineresource pop
-end
-endendstream
-
-endobj
-% 'fontFile:/usr/share/fonts/TTF/DroidSans.ttf(AAAAAA+DroidSans)': class PDFStream 
-58 0 obj
-<< /Length 22892
- /Length1 22892 >>
-stream
-     Ä  POS/2†Àïã   ‹   `cmap	ª
-ﬂ  <  cvt 9~>L  X  ¸fpgms”#∞  T  glyf¯]ñ6  \  AêheadÍ˝áo  LÏ   6hheaSá  M$   $hmtxò˘)À  MH  ålocae(b  N‘   »maxpÖ  Oú    nameµXêV  Oº  ¢postˇi f  V`    prepÇ‹!  VÄ  Ï ôê  ö3  ö3  – fÚ  ‡ Ô@  [   (    1ASC @  ˇ˝˛ Ñm„  ü    J∂                    É                                                                         	 
-                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _   ` a b  N∂  u∂Õ              J  è  ˇÏ    ˇÏ    ˇÏ  ˛˛                                                                                   ¨ ∂ º   ’       U É ó ü } Â Æ Æ q q     ∫ ≈ ∫     § ü å     « « } }             ∞ π ä     õ ¶ è w           ñ           i n ê ¥ ¡ ’         f o x ñ ¿ ’G       ˛: ≈ x ˛ˆ                       Ó   ñ à Æ ñ â ñ   îZ Çñ   ® å    y Ÿ ¥
-  É m  †     m à                 ì †   Ç â          ∂¸î ˇÔ É è     m {           º™T     º ∂◊ï   ñ  Æ∂˛º˛o˛É o≠@EYXUTSRQPONMLKJIHGFEDCBA@?>=<;:9876510/.-,('&%$#"!
-	 ,E#F` ∞&`∞&#HH-,E#F#a ∞&a∞&#HH-,E#F`∞ a ∞F`∞&#HH-,E#F#a∞ ` ∞&a∞ a∞&#HH-,E#F`∞@a ∞f`∞&#HH-,E#F#a∞@` ∞&a∞@a∞&#HH-, < <-, E# ∞ÕD# ∏ZQX# ∞çD#Y ∞ÌQX# ∞MD#Y ∞&QX# ∞D#Y!!-,  EhD ∞` E∞FvhäE`D-,±
-C#Ce
--, ±
-C#C-, ∞(#p±(>∞(#p±(E:± -, E∞%Ead∞PQXED!!Y-,I∞#D-, E∞ C`D-,∞C∞Ce
--, i∞@a∞ ã ±,¿äå∏ b`+d#da\X∞aY-,äEääá∞+∞)#D∞)z‰-,Ee∞,#DE∞+#D-,KRXED!!Y-,KQXED!!Y-,∞%# äı ∞`#ÌÏ-,∞%# äı ∞a#ÌÏ-,∞%ı ÌÏ-,F#F`ääF# Fä`äa∏ˇÄb# #ä±äpE` ∞ PX∞a∏ˇ∫ã∞FåY∞`h:-, E∞%FRK∞Q[X∞%F ha∞%∞%?#!8!Y-, E∞%FPX∞%F ha∞%∞%?#!8!Y-, ∞C∞C-,!!d#dã∏@ b-,!∞ÄQXd#dã∏  b≤ @/+Y∞`-,!∞¿QXd#dã∏Ub≤ Ä/+Y∞`-,d#dã∏@ b`#!-,KSXä∞%Id#Ei∞@ãa∞Äb∞ aj∞#D#∞ˆ!#ä 9/Y-,KSX ∞%Idi ∞&∞%Id#a∞Äb∞ aj∞#D∞&∞ˆä∞#D∞ˆ∞#D∞Ìä∞& 9# 9//Y-,E#E`#E`#E`#vh∞Äb -,∞H+-, E∞ TX∞@D E∞@aD!!Y-,E±0/E#Ea`∞`iD-,KQX∞/#p∞#B!!Y-,KQX ∞%EiSXD!!Y!!Y-,E∞C∞ `c∞`iD-,∞/ED-,E# Eä`D-,E#E`D-,K#QXπ 3ˇ‡±4 ≥3 4 YDD-,∞CX∞&EäXdf∞`d∞ `f X!∞@Y∞aY#XeY∞)#D#∞)‡!!!!!Y-,∞CTXKS#KQZX8!!Y!!!!Y-,∞CX∞%Ed∞ `f X!∞@Y∞a#XeY∞)#D∞%∞% XY∞%∞% F∞%#B<∞%∞%∞%∞% F∞%∞`#B< X Y∞%∞%∞)‡∞) EeD∞%∞%∞)‡∞%∞% XY∞%∞%CH∞%∞%∞%∞%∞`CH!Y!!!!!!!-,∞%  F∞%#B∞%∞%EH!!!!-,∞% ∞%∞%CH!!!-,E# E ∞ P X#e#Y#h ∞@PX!∞@Y#XeYä`D-,KS#KQZX Eä`D!!Y-,KTX Eä`D!!Y-,KS#KQZX8!!Y-,∞ !KTX8!!Y-,∞CTX∞F+!!!!Y-,∞CTX∞G+!!!Y-,∞CTX∞H+!!!!Y-,∞CTX∞I+!!!Y-, ä#KSäKQZX#8!!Y-, ∞%I∞ SX ∞@8!Y-,F#F`#Fa#  Fäa∏ˇÄbä±@@äpE`h:-, ä#Idä#SX<!Y-,KRX}zY-,∞ KKTB-,± B±#àQ±@àSZXπ   àTX≤C`BY±$àQXπ   @àTX≤C`B±$àTX≤ C`B KKRX≤C`BYπ@  ÄàTX≤C`BYπ@  Äc∏ àTX≤C`BYπ@  c∏ àTX≤C`BYπ@  c∏ àTX≤@C`BYYYYY-,Eh#KQX# E d∞@PX|Yhä`YD-,∞ ∞%∞%∞#> ∞#>±∞
-#eB∞#B∞#? ∞#?±∞#eB∞#B∞-,zäE#ı-     ¡  
-∂   +@	pÄ∏ˇ¿@		H  ?2/3/+]33/310!!7!!¡I¸∑hy˝á∂˙JhÊ  ìˇ„ë∂   :π ˇ@
-HÄê†ö∏ˇ¿@
-
-H	õ ?/ıŒ/+3/·2]10+#34>32#".Py3ﬂ"./""/."û˙π&5!!5&%5""5     Ö¶≤∂   7@#ò	–	‡	/	o		 ò ‡ ?33/3/]·]]9/·10#!#J)s)-)r)∂˝˝   3  ¯∂   ô@X ±!	±
-P	P
-
-HÆ Æ?Oﬂ
- /3?399//]33·2233·]22/]33/3/]‰9293/‰92393/3/10!!#!#!5!!5!3!3!!!◊?˛ÕRìT˛›RêN˛˛A˛Ó+RìR%TêT¸Î#@˛›}˛∏â˛T¨˛T¨âHâ∞˛P∞˛Pâ˛∏H  {ˇâŸ - 6 ? ¥@34/))/!!p/<</ .n$  ˇ    A7n‡∏ˇ¿@0H3)<<.7=(s!%!@HP!!!!4s∏ˇ¿≥
-H /+33/3·2/^]]33/+3·2999333/+]·3/÷^]]q2·9/]33]3]·2]2]210#5".'53.54>753&&'4.'66Ÿ2]ÖTä2f`T !W`e/YÉV*1[ÅOäd©CB8åJXá[.∞+F3][˛(B1YSæFrT7Ê›	¨!≤BUnJCoS5	¥∞*ë)˛ZBSkH!7-&˛ãb£$9/&qY     fˇÏ3À 	  ' ; ? ]≤<>∏ˇ@3<><>(¥2µ#¥(AA¥
-µ ¥ 0?>%∂7∑!∂-∂∑∂ ?·Ù·?·Ù·??/]·Ù·]ﬁ·Ù·99//881032#"#".54>3232#"#".54>32#˙GPúúPG«$JsOIpL&#IqNKqM'¨GPúúPG∆#JsOJpK&#IqNKqL'ˇ ¸’û,••JH£•l¨v??v¨ll™u>>u™˝J•§IH£•l´v??v´ll™u>>u™í˙J∂     mˇÏ}Õ  ! S Ä@M'JI,IH
-G6AGB B6B6B;<GH G ,,,," HHUH" ""AA1QO'JG<;1IP1 /·?99?·9//]·∆]9/^]·999//]··3910>54.#"2>7%4>7.54>32>73#'#".¶!4$;V8/B*Vdá:bTH ˛}4P7#B`˛}(MoG<-2^äXSÉ[02Tm<`+"
-∏)5A'·®1`l|Nißs=ç"AAC%#>@F)$=,Y˚Ø(6ó!?HU86[A$NzdV*$MWc9KwS++SwK@m]O$˛å<DN/BobU)˛€¨-G15gï  Ö¶J∂  *@¿–‡/o ò ‡ ?3//]·]]10#J)s)∂˝   R˛º+∂  @Ú	?  ˘¯ ??/]·‰2104>73#.R$JqN¨åë%GjE™NqJ$1}ÛÂ”]¡˛2ÙwÏ‚‘^ZŒ·     =˛º∂  @Ú∞  ¯˘ ??ﬁ]·‰210#>54'3$KqN™EjH$êç¨NqK$1|·ŒZ^‘‚ÏwÙŒ¡]”ÂÛ   Rw  $@ ò Äê   ?2/]/^]Â]10%'%7ò+ç˛Üı≤∞û∏Ú˛âá+˛wo¡˛∫`f˛ö`F¡oâ   f¢  )@	™Ô   ` †  	 ≠≥ ?3·2/]]2·2]10!5!3!!#È˛}ÉñÉ˛}ñáñÖ˛{ñ˛     ?˛¯y Ó  8@œê†+ó∏ˇ¿@H_ú /Ì/]]+3Ì2]]]10%#>7j'/3äÓ6z|{8=ÑÉ}5     R—By  @	@   π /·/]Œ105!R—®®    ìˇ„ë ˙  5@Äê†
-ñ¿ – 4 D d t  ∏ˇ¿∂
-H õ /Ì/+]]Ì]]1074>32#".ì"./""/."o&5!!5&%5""5    Á∂  ±∏ˇ@	    ?/382/8310#Á˝‡≥!∂˙J∂     bˇÏÕ  ' &@o ))o 
-
-#ss ?·?·/]·]ﬁ·10#"&&54663232>54.#"3q≤vØs93o±~w∞t:˝BkMMlEElMMkB›±˛Ë¬ff¬±±¡fe¡˛Ë≤ñ‡ïKJî·óñ‡îJJî‡   ≤  «∂  5@!@ nøˇ~  @  ??Õ/^]]]·3/3]10!#4>7'3«∞î`ñë+baY"y{+    `  À # <@ #o%%"o! "s"t ?·2?·39/]3/3Ì]3/·310!!5>54.#"'>32!¸p^KvS,"?V5_ôEf(\jvA`õl;5]ÅK˛Á±ú}QÜÄÅL;Z? M<w$?.6eë[UöïñQ˛’     RˇÏÓÀ 9 ]@!0!0o	'o ∏ˇ¿@(H  	; ;O s´!y!!!!/,s5s ?3·?·39/^]]]·9/]]Œ2/+··99//10#"&'532>54.##532>54.#"'>32¡.StG±∏AÑ äm¡UWÀ]\ÜW)5bçYÖÖQ~U,$B\8k£J\&]n}Fl£n8`IxX9µë`†t@"-™.2(JlCDa?ó(Jf=4R9C6}6)6aÖ    ?æ 
-  N@,	V   n wá_	t ??39/3·22/]3]]9/]3333·2/]210##!533!4>7#?’∞˝]óº’˛{	˛eH˛∏Hü◊¸0d8{uf"11.˝†     ÉˇÏˆ∂ * N@&o,,'$$(h#Y###∏ˇ¿@Hs  't$s
- ?3·?·9/·/+]3/]]333]ﬁ·3102#".'532>54&#"'!!66!c´HDÜ≈Ä3c[R!!Ybc*O|V.∞®??9Z7≤˝Ï' iÅ7l†ir∂~C
-¨$%NvQèó	9∞¶˛]     qˇÏ
-À + ? 7@ 1n"AA;o      6u,s's ?·?·9/·/]·2]ﬁ2·104>32&&#"3>32#".2>54.#"q5\é∆Ö./+#X+ZâdC*9L_;_öl;>t§fdØÄJ€<cH'!BcBCoN+%Inqi–ø§yEõ+NlÉîP$?-;r•jr∂DN†Ú˛π)SWFoN*/K`0CÖjC    Z  ∂  +± ∏ˇ@  t  ??·2/]Œ29/8310!!5!3˝¨˝’¶ë˙€  jˇÏ Õ ' : J Ä@S#2n
-(Hn√”µLL(n>n’#Ã#∫### 
-h8ò8Y8(888H88ìC&CVCCC -s;s  ?·?·9/]]¡]]]99/]3/]]]··]Œ2/]]·9·9102#".54>7.54>32>54.''">54&5TïqB(F`8:oW5Cy©fn´u=-Lh:1V?%Crï« DhHFkH$'If?~Äj}#>W30U?$~Õ,XÑXClWEL_vI\ïh86eí\Kx`JIZmBWÉX,˚¶5Y?##A\84TH@<õTje9R@34BT6ej   jˇÏÀ ) = 5@9o ??/n    4u*s%u ?·?·9/·/]3·]ﬁ·210#".'532>7##".54>32"32>54.5\é∆Ö..,#X+áÆf+8L`;_öl;?s•feÆÄJ˛%<cH'!BcBDnN+%InFi—æ•xEú^°÷w$>.;r•jr∑DN†ÛG(TWFoN*/K`0CÖkB     ìˇ„ëf  ' >@)Ä)ê)†)
-ñ¿ – 4 D d t  ∏ˇ¿@
-H #õõ /Ì?Ì/+]]3Â2]1074>32#".4>32#".ì"./""/.""./""/."o&5!!5&%5""5ë'5!!5'%4""4  ?˛¯ëf    a@/"Ä"ê"†"ñ¿–dtPD;/+ó∏ˇ¿@H_õú /Ì?Ì/]]+3Ì2]3/]]]]]]Â]10%#>74>32#".j'/3ä"./""/."Ó6z|{8=ÑÉ}5Ì'5!!5'%4""4    f Ó›  N@0 @@o  0    PpÄ–?  /^]]]q33/]]29=/33/]]Œ10%5¸dú˝!ﬂÓ®f·†˛î˛æ  f∫È   \@=	@	∆ ª © Ü { h B 9  ≠/  ≠o /]]·3/^]]q·/]]]]]]]]3]Œ2105!5!fú¸dúTïï˛fññ   f Ó›  N@0@@ o0 PpÄ–?  /^]]]q33/]]39=/33/]]Œ105f‡˝ ú¸dèBl†˛f˛X  %ˇ„%À ' ; >@!2ö(('F  F=/=   -õ7Q ?·3/Â2/^]9/]ﬁ·9/·3/·1054>7>54.#"'66324>32#".'B20D+9U8SñF?Qºa]ïh86P64B&ª"./""/."û%9\PM*)CEO50O94"ë*;3`ãWCiZT/-C?B,˛—&5!!5&%5""5    mˇJÅ∂ W h o@?X`'''FF'N1   j@j;@NN,[dø @6S@EI /3¡?¡99//^]^]¡3¡22/]¡]ﬁq¡9///]]¡¡10#".'##".54>3232>54.#"32>7#"$&546$3232>77&&#"Å%9La:-I4!6GY5MwR+;oûb-ZRE"+.F/Vò—{©˛˛ØZOô„ì=wod+VÿÇ≥˛Á√fv€7¡úøj¸eU7N2M*Je?€>}qaH)2A#%B18eéVe®zD˛`5D(=håNé›òOo«˛Ô¢óÍ†Rç&,f√≥ºEÓàeΩ˛Ò˛’Öw-SsE˝:^x      ›º   Ñ@$FFII   Äê–∏ˇ¿@
-H/èüﬂ∏ˇ@_ 
-H  ?2?9/9+·/83^]3/8+]q39=/99]]99]]3310!!#3.'†˝ﬂ¢º™˛gîë≈˛;º˙Dj®4<AB=3˛X   «  á∂  " / b@>ZÂı÷$*[pÄg11è11$Zd0#`y $`"`  ?·?·9/^]]·9ˆ·2]]ˆ]·9/]]q·210!2#!32>54&##!2>54.#«èÄ√ÉB'JmEEyZ4A{∞o˛∫ÙTrFö¶ﬂ
-XwI !K|\∂'Wçg>lR7	
--OxVdùm:J;Y;xh˝ó˝(He=8^C%     }ˇÏòÀ # L@Ø@H∫ ` p  ∏ˇ¿@
-H  %Ø%[f$! _
-_ ?·3?·3ˆ·]3/+]]9/+]10"3267#"&&546632&&kÆ{C;v∞vY†N'NUa;§ùLW©˙¢lƒON?î'Qò⁄âç€ñN#¢l∆©¶∆n,*ú .    «  ¸∂   &@[ gZd`` ?·?·ˆ·]ˆ·10#!!24.##3  ¸`∂˛˜®˛íóô¯Æ_≈B~∏u…¢Èπ˛Èª^∂\µ˛Ù∂í’äC˚â$     «  æ∂  B@& g
-Zd	_OØ
-_
-_ ?·?·9/^]q·ˆ·2Ê29/]10!!!!!!!æ˝	˜˝√˝È=∂§˛<¢˝¯    «  æ∂ 	 p@ˇÄê–∏ˇ¿@8
-H/èØ Zd
-	_?oˇ@H@H _  ??·9/++^]q·ˆ·2^]3/+]]q9/10!#!!!!Å∫˜˝√˝È∂§˝¸§     }ˇÏÚÀ + 7@++)Zg--[f,+_  $_$_ ?·?·9/·ˆ·]ˆ2·9/10!#"&&546$32.#"32>7!‰7pvÇKùÚ¶V_∂´oÃXH$SX].zºB7xæÜ,I>7˛’˝3
-i√Æ¨√i,*¢Qò⁄âÇÿúV¥   «  ’∂  =@#	Z e¿ø Zd_
-  ?2?39/^]·ˆ·2]]]ˆ·210!#!#3!3’∫˝f∫∫ö∫™˝V∂˝òh   R  d∂  W@&+{õ´˚T+;K
-Z…∏ˇ¯@H 	
-  ?¡2?¡2/^]+]¡2Ò¡2_]]]]q10!!57'5!d˝Ó¨¨¨¨f)ò)ff)˚h)   ˇH˛{s∂  /@ﬂ`p/Z _  /·?/^]3/·]]]10"&'532>533L"N-%K=&ª;iì˛{†	2XD∂˙^iöe1     «  ¢∂  d@-f 
-      ∞/ZdH∏ˇ@H
-  ?3?399++ˆ·2]]]3/8^]33/839]310!##373¢”˛=ã∫∫yƒ—˝¯∫r˝∏∂˝%®3˝É   «  æ∂  #@ØZ d_  ?·?ˆ·]]31033!«∫=∂˙¶  «  /∂  ã@69 H9Z∏ˇ¯@H H 	eO ∏ˇ¯@H&Z	d	H∏ˇ∂	H  ?22+2?33+3ˆ·22]+^]]]ˆ993+3+·2]+210]]!##!3!#46767##˛E¨úû∫˛A JI?ã9¸ñ∂˚X®˙Jw4Ü=GI˚  «  ∂  Q@)(Z e∞è '	Z
-dH∏ˇ∂H
-  ?22+?3+3ˆ·22]]]]ˆ·2]210!###33&'.53◊˝1¨’ÃÆ∫MLAé9¸Á∂˚LLJ CC>      }ˇÏqÕ  ' 4@ [ g)¿)ø)p)/)_)[
-f(#__ ?·?·ˆ·]]]]ˆ·10#"&&54663232>54.#"qQ†Ìõ£ÔùLLû£õÎ†Q˚—4k•rr•k22j§rr¶l4›©˛Í∆ll∆™™ƒkk≈˛Î´â€ôQQô€âä⁄óQQó⁄     «  3∂   F@,[( 8 H  gœ@Zd`0@`	 ??·9/]·ˆ·2^]]]ˆ]·10###!232>54&##37~œòñ∫jÜ¬~<˝NÅ]ã[.§Æ†
-[®ÅM˝«∂9m†˛g GqQéâ    }˛bqÕ  1 8@"([ g3¿3ø3p3/3_3[f2-_#_	 /?3·?·ˆ·]]]]ˆ·10&&'#"&&54663232>54.#"q1_é]+âZyg≠3)£ÔùLLû£õÎ†Q˚—4k•rr•k22j§rr¶l4›É‚µÑ&^è<éI∆l∆™™ƒkk≈˛Î´â€ôQQô€âä⁄óQQó⁄     «  †∂   Ç@V	˘H	[	È˘H?èüøﬂ Zd`    ` ?3?·9/^]·9ˆ·2]]Œ82+]q2/]·9^]3+]q10#! #'32>54.##Å∫d
-˛1Qh7é€˛°Â§Z~Q%)SW†\˝§∂Œ—WÇ]>˝q\û#EgEHd@    hˇÏ…À 3 B@'Y##Z g5ø5ˇ5`5?5*Z	f4*'_$ `	 ?3·?3·99ˆ2·]]]ˆ·3]10#"&'532654.'.54>32&&#"…EÄ∏so¡A"W`f2†ôIz]YÉU)@t°awæJCA•XzÜFsT[â\/áaôj7#"≤xp6PC?%#ShÑTXä_2-#ú+q`9SC;!$L`~    ∂  ^@2	–	O	œ		 	0	ØÔÑZ@‡Wgw∏ˇ¿@
-H_  ??·2/+]3/^]]·2/]]]]]q10!#!5!!qª˛^˛˛_§§     ∏ˇÏ›∏  /@Ze∞oØZd_  ?2?·ˆ·]]]ˆ·10#".5332>7›BÖ…àÄƒÖDª≠ØYÄR(∏¸LrƒêRMé«zÆ¸HØ¿6bàQ∏     ã∂  l@		 `p∞∏ˇ¿@
-H/ø@	H∏ˇ¥	∏ˇ‡≥
-H	∏ˇ@
-	H	  ?3?33++?3/83+]3/8+]39=/33103#3667≈∆˛ª˛≈'*.∂˙J∂¸a[©JJ©a      ˛∂ * ﬂ∂H∏ˇ¯µH∏ˇ¯@H H H∏ˇ¯@/H%D¥%%$%D%T%%% pÄ¿∏ˇ¿@
-H,o,, ,0,,∏ˇ@ 
-H	H %%∏ˇ‡≥
-H%∏ˇ∂	H% ?33++3?333++/83^]]]3/8+]q39=///]^]q3+3+3+3+3+3+103>73#&&'&'#3>7)≈Â»«˛ëº˛
-Úº˛~≈ﬂ∂¸®8pi^&&Zcg1r˙J™3l/7437/p6¸\∂¸á.cb[&%blo1     `∂  Å@	
-
-
- 78  p Ä ¿  ∏ˇ¿@
-H   /∏ˇ≥∏ˇ@('	  ?2?399]]/822/83^]3/8+]q39=/3]33]3/8310!##33`”˛û˛ëº≈˛Z∆LNæ˛[{˝Ö¸∫˝—/˝L        7∂  s@Ô
-
-@	H´ò@∏ˇ@/ÄO ZwáóO 6   ?3?9]/^]]]·92/8]]]33/8]]]]]3+]103#3T»˛Bª˛BÀ”„¸É˝«/á     R  ˛∂ 	 8@ 		g?Oüf
-__ ?·9?·9Ê2/2^]Ê22/10!!5!5!!˛¸T«˝MÉ˝:€ë¶ë˚Å     §˛º9∂  &@ ÛÒ ∞¿ı¯ı˘ ?·?·/]·Ì210!!#39˛kïﬂﬂ˛º˙ï˙1     È∂  !∑ ∏ˇ¥  ?///8338310#… ≤˝‡∂˙J∂   3˛º…∂  $@ ÛÒ`p	 ı˘ı¯ ?·?·÷]·Ì2103#5!!3ﬂﬂñ˛jÆœï˘   )%¡  ∂   ?Õ/3/103#)Àfø°˛Ø˛£%ú¸dﬂ˝! ˇ¸˛ºNˇH  ∂  ∫ /·/3/10!5!N¸ÆR˛ºå    âŸ!  @
- Ä _   /]Ã/Õ10#.'53x#RM?€+.0ŸSXQ"QQL     ^ˇÏú^ # 2 T@)G#U44o40H∏ˇ–@H	HV3P*R$P  ??3·?9/··2Ê2/++·^]ˆ·2210!'##".5467754.#"'6632%2>55%!BN`?EtU0ÁÏ∏7Q4SèB@J∂dfïa0˛/=hL+èZzI aò-A*'Q{T§∞ECZ70"â(8)Yäb˝&MuOc 9Q3\V     ÆˇÏ?  / 8µ-HW11∏ˇ∏@
-I%GT0 *P
- P  ?2·?3·??ˆ·22+ˆ·102#".'##33>"32654&û^öm<<mö^;`M;%Ö∂:M`PkAAlQá^Hè‘åç’êI+: ã˛à#O"(&#<,ó3húieùk7⁄Ã–Œ    qˇÏo^  *@!_!!!HV Q
-Q  ?·?·ˆ·]]Œ210".54>32.#"3267Re∞ÇJLÖ≤fNï268<:ùêëîQÉ66{?â’ñù€â>"ö
-	…‘”√%¢     qˇÏ  0 4@& GU22.HV1 +P P ?3·?3·??ˆ·]ˆ·2210%##".54>323&'&&53#%2>754.#"T;M`<]ön<<nö];`M<∂ì˛∆LiAAlQáì"=.Hè‘åç’êI,: "7¥˘ÏÉ.^ç^)eùk7⁄Ã—Õ  qˇÏ·^  ' C@(#HW)‡)o)"HV(P"+""""P
-Q  ?·?·9/^]]·ˆ·2]]ˆ2·10".54>32!32>7"!4.`n∂ÉHBxßecûn;˝Lôó3WQL'(MQW`rÖÏ9XJé“áà÷ïNGÅµnq¡∂
-¢€úïDqP,        p@Nœﬂ`Äê†?OøG/Ø  Äê†O P ??·?^]3·2/^]3/]3·22/]9/]]]10###5754>32&&#"3ãı∑¬¬-U|N;c'/I((:&ı¡¸?¡KD`kçT#ç0SAh     %˛¸^ ? R ^ ß@2SG7/`7p7Ä77/7/'HYG∏ˇ¿@M
-H
-˝∞à 0@``ø`ﬂ`†`@'@H'2<VR
-
-"\O<,N<EO"  ?¡?·?9/^]¡9·9/·9/+¡]]q3/]]]]q39/+·¡99//]¡·9910#"&'332#".54>7&&5467.54>3232654.##"32654&#"¸≈&/_å],!)8∞]ÄQ$AÜÕãk†j5'BW/*6@E+G12bía%O˛@;aH∫π7ZA∞#L?)\lcdgidcjJq#mELÅ^5
- (!/Pm=Xåa4*PqG<[B*R5=Y*?Q`3Yåb4	˚%@.sl.:!,M`spow{tx  Æ    2@ GU`Ä
-GTP   ?2??·3ˆ·22]ˆ·10!4&#"#33>32\ipQnC∂∂
-ER\0∑π√ÇÇ4fî`˝«˛2ê+?*ø“˝3     †  uÂ   %@  GTS  ??3/Âˆ2·2]10!#34632#"&d∂∂ƒ=-'?,-=J)<6+:98   ˇº˛uÂ  ! .@# #GT"SP  ?·?3/ÂÊ2/2·2]10"&'532>534632#"&B0?6#.#∂"Hm=-'?,-=˛î
-'A3Ù˚M{W/_<6+:98     Æ    ^@D∏ˇ¿@
-H/	G
-T  ∏ˇ¯@HH 
- ??399++?ˆ·2^]3/8+]333931073##3Vá%”˛o¨—˛∞m¥¥7™i˛%˝ë¯R˛Z˝6˛Ì  Æ  d  @  GT   ??ˆ·]10!#3d∂∂    Æ  á^ , e@?#
-Gπñ¶âgw G,U..œ. .P..GT-#P(  ?22??3·223ˆ·2^]]]]ˆ·9/]]]]·210!4&#"#4&#"#33>323>32—diIfA∑ciMh?∂î
-BOY.xü&IW`2Ø±√ÇÇ/[áX˝¢√ÇÇ4fî`˝«Jî+?*X^/D-ø“˝3    Æ  ^  0@ GU`Ä
-GTP  ?2??·3ˆ·2]ˆ·10!4&#"#33>32\ipQnC∂î
-ER\0∑π√ÇÇ4fî`˝«Jî+?*ø“˝3  qˇÏ-^   0@H W!@!–!‡!!H
-V PP ?·?·ˆ·^]]ˆ·10#".54>3232654&#"-C}≤ogÆGC|≥ogÆG˝ âööáâööá'â’ëLLë’âà”ëKKë”à—””——œœ     Æ˛?^  0 6@.HW22&GT1 P+P  ?2·???3·ˆ·222]ˆ·10".'##33>32"32654&û;`M;∂î:M`<^öm<<möÅLiAAlQá+: "7˛+6î#=-Hè‘åç’êI€.^å_)eùk7⁄Ã–Œ   q˛^  0 6@+ %G$U22HV1$" P, P ?·3?·3??ˆ·]ˆ·22210%2>754.#"".54>32373#46767#5LiAAlQáf]ön<<nö];`L<ì∂;M`É.^ç^)eùk7⁄Ã—ÕóHè‘åç’êI-=#î˘ ’: ""=.    Æ  ^  A@≤¬ê†∏ˇ¿@H0PÄGT  ?¡3??ˆ·2]3/+]]102&&#"#33>âH;?hK)∂î9GX^®3_ÖQ˝∞J…+P=%  ZˇÏ?^ 5 H@-%Gê †  W7?7_7ü77,G	üØV6&)P,"	P ?·2?99·2ˆ]2·]]ˆ]·310#"&'532>54.'.54>32&&#"?:mö`mú;LTY,A[95\HHsP+7dåVa°H?AâGfb8^FHqP*-PxQ(#"¶);$212<JaCFmJ&*"ì+C>#4./<K`   !ˇÏèF  P±∏ˇ¿@/H?OG/  ∞¿–O P ?·?33·2/^]∆]3·2]3/+310%2>7#".5#5773!!˙-*#	(04>jM,õõNi˛Ï?Åä	 NÖe}QNÊ¸â˝Éab    §ˇÏJ  0@GU`ÄGTP  ??3·?3ˆ·]ˆ·210!'##".5332>53u
-ER\0[ä\/∂joQnC∂ì+?).bòiÕ˝=ÇÇ4eî`:˚∂        ’J  mπ ˇ¯@
-H 
-H 		∏ˇ¿≥H∏ˇ¿@HøœÔP/O∏ˇ@
-G		  ??39]/8¡^]]]3/8++¡9=/3+3+10!33>73w˛âº««º˛âJ˝ù!hl``lh!c˚∂    „J / √π /ˇ¯@
-H/ 	H ' ∏ˇ¯@	H 	H	
-H∏ˇ¯@		HT''∏ˇ‡@
-H[ 
-H'		'-.∏ˇ¿≥H.∏ˇ¿@H...1 1011∏ˇ@-			'fv  ?33]3?3]33/83^]]3/8++39=///+]+]3+3+3+3+3+3+10!.'&'##33>733>73®¨”˛ÁøÉ
-
-≥ƒ¨	â∫˛‰h-24:>?:2j%˝úJ˝∏-ig[Wa_!k˝ï"\_XWhm/H˚∂    #  €J  Â@°â	Ü˜Â6ËÁ  		¯Í9k{W:JdtX5E		˜Â6@H@Hk{W:J0ê∞Ÿ
-»
-∫
-	
-
-;K( ??/]]]¡]]]]^]]qﬁ]]]++¡]]]q9=///]]]]]]¡]]]q3]33]¡]]]q10 ]]33##ò˛üœ˙˙œ˛ùuœ˛Ù˛Úœ3˛fö˝È˝Õ¥˛L     
-˛ﬂJ " d∂" ∏ˇ¿≥H∏ˇ¿@H$ø$œ$Ô$P$$/$O$ ∏ˇ@ "#P  ?2?·333/8¡3^]]]3/8++¡9=/331033>73#"&'532>77
-Ω◊«º˛NAVtP4L@#0F4%9J˝õ(XXR#Va^!c˚'QÅZ1ë,@)†     R  5J 	 l@	ó	H∏ˇ¿@
-H?_ò∏ˇ¯µ	H∏ˇ¿∑H?∏ˇ@HOHO ?·2+?·2+/]+33+]]3/+3+]310!!5!5!!5˝˛	∞˝Ù}Dâí¸—     =˛º¢∂ ' @@%˜ 'Ò#ˆ#ıŸ_)ı¯ı˘ ?·?·9/]]·9/]Ê33Ò2‚/210.54&#52654>7Ù-A(MÉ_6É}}É6_ÉM(A-wssw0=#ñ!GnNNgVõVgMNnG!ï#=0˛¥i{zj  È˛  -@ 0@pÄ™ @Ä¿   ??/^]·]q103#Èññ¯    3˛ºò∂ ) @@%$$˜ ÒˆêıÔˇŸ$ı#˘ı¯ ?·?·9/]]·9/]33ÊÒ2‚/2104675&&54.'53"5>5·wssw-A(MÉ_6!A`>}É6_ÉM(A-;jz{iL0=#ï!GnN˛≥4H-õVg˛≤NnG!ñ#=0  fJZ # <@%%
-
-≠
-∏ˇ¿@H≠?Ooè /]3Ò»/+2·/]]Œ10.#"563232>7#".%7-)<;8dî27C/%7/(<;8cï27Cã!,¢l!,¢l    ñÂmÚ  F@$/_oœÔˇ_
-o
-ü
-Ø
-ﬂ
-Ô
-
-–  ∏ˇ¿@
-H  /]≈]/+]≈]]]104>32#".ñ$?V21V@%%@V12V?$ÏGd??dGFd??d    dˇÏDÀ % A U j@C≈"""&L√ 4¿44WB√&
-… …/èü `pÄ-G»;Q»- ?·/·99//]^]··/·ﬁ]q·99//3/·10"32>7#".54>32&&4>32#".732>54.#"{=^@!=_C69815<#fòe36iôd?Ñ;>4a¸æ6aäß¿hh¿ßäa66aäß¿hh¿ßäa6meØÍÖÖÍØeeØÍÖÖÍØe,SxKNxR+	ÉBz™geßxC!˛æh¿ßäa66aäß¿hh¿ßâb55bâß¿hÖÍØeeØÍÖÖÍØeeØÍ     {  h  |@Rê†‡o0@¿‰Ù÷wjTE&¿	
-		6æ † ø
-¬  /?ˆ222·222/]·]233Ê]]]]]]]3/3Ê3]]]10%#53%h˛µ7Ÿ7˛…77Ÿ7K›¸¸¥°˛_         "À_<ı      ¡ö3     ≈S	=˚â˝’	Zb             m˛  	d˚â˛¢	Z                cÕ ¡  ' ì7 Ö+ 3h {ö fû mœ Öh Rh =h Rh f  ?ì R% ì¸ h bh ≤h `h Rh h Éh qh Zh jh j% ì% ?h fh fh fh %Ó m›  ¯ «” }y «9 «Ó «Ö }ú «∂ R+ˇH¢ «Ó «ˆ «’ « }ú «Ó }∏ «' h' ñ ∏ã   `  7  P Rm §¸ m 3B )Jˇ¸ûâ? ^∞ Æ¥ q∞ qH q¢ % %∂ Æ †ˇº¯ Æ Æ+ Æ∂ Æû q∞ Æ∞ q1 Æú Z∂ !∂ §’  ¯   #È 
-á R’ =hÈ’ 3h f ñ® d„ {   * * p ¢*‰t,PÄ∞ÊJbúºHûpÿLtêË	L	à	 
-
-zD∞(Ü∆ N¨‚&`ÆŒBîÓ<¶ÇƒVlæÚ8\zí∏,é‘4íˆ >ä⁄Ùf§ÓP≤¯hæ XòP™Œ*~¬ l »    c †  z    / Z  9     J        4         
- 4        >        E       
- 4        Z       	 f       N o        Ω      
- g —       .8       *f       
- 4  	   hê  	  ¯  	    	  *  	  ¯  	  ,D  	  p  	  úÇ  	  (  	 
- ŒF  	  8  	  \L  	  \®  	  TDigitized data copyright © 2007, Google Corporation.Droid SansRegularAscender - Droid SansVersion 1.00DroidSansDroid is a trademark of Google and may be registered in certain jurisdictions.Ascender CorporationDroid Sans is a humanist sans serif typeface designed for user interfaces and electronic communication.Licensed under the Apache License, Version 2.0http://www.apache.org/licenses/LICENSE-2.0 D i g i t i z e d   d a t a   c o p y r i g h t   ©   2 0 0 7 ,   G o o g l e   C o r p o r a t i o n . D r o i d   S a n s R e g u l a r A s c e n d e r   -   D r o i d   S a n s V e r s i o n   1 . 0 0   b u i l d   1 1 2 D r o i d S a n s D r o i d   i s   a   t r a d e m a r k   o f   G o o g l e   a n d   m a y   b e   r e g i s t e r e d   i n   c e r t a i n   j u r i s d i c t i o n s . A s c e n d e r   C o r p o r a t i o n D r o i d   S a n s   i s   a   h u m a n i s t   s a n s   s e r i f   t y p e f a c e   d e s i g n e d   f o r   u s e r   i n t e r f a c e s   a n d   e l e c t r o n i c   c o m m u n i c a t i o n . h t t p : / / w w w . a s c e n d e r c o r p . c o m / h t t p : / / w w w . a s c e n d e r c o r p . c o m / t y p e d e s i g n e r s . h t m l L i c e n s e d   u n d e r   t h e   A p a c h e   L i c e n s e ,   V e r s i o n   2 . 0 h t t p : / / w w w . a p a c h e . o r g / l i c e n s e s / L I C E N S E - 2 . 0         ˇf f                    @	¯ˇè˜ü˜Û`Ú∏ˇË@+ÎFﬂ3›Uﬁˇ‹U0››U‹˙0¬o¿Ô¿¸∂0∑`∑Ä∑∏ˇ¿@8∑FÁ±Ø/Ø?ØOØ_ØoØ@ØF¨Qú_ú‡õ+ööêö†ösöÉö∏ˇÍ@ö	FØóøó+ññüñØñ|ñ∏ˇÍ@Öñ	F/í?íOí@íF/ëüëáÜ@|P|t t0ttÚt
-oˇo©oóouoÖoKo
-nˇn©nónKnUˇˇˇ?gg/g?gˇg@fPf†f∞f?eeØe†d‡d∏ˇ¿@Od
-Fa_+`_G_P"˜[Ï[T[Ñ[I[;[˘ZÔZkZKZ;Z3UU3U?ØWW/W∏ˇ¿≥VF∏ˇ‡≥VF∏ˇ¿≥TF∏ˇ¿@mTFRP+?POP_P˙HÔHáHeHVH:H˙GÔGáG;Gˇ3UU3U UG U˚˙+˙œˇo  Ø Ô  Ä∏ê±TS++K∏ˇRK∞P[∞à∞%S∞à∞@QZ∞à∞ UZ[X±éYÖçç BK∞2SX∞`YK∞dSX∞@YK∞ÄSX∞± BYss^stu++++++++_ssssssssss s+++++_s st+++_ssssssssss ++++_s^stsst ++++_sssstssssst stt_s+ st+s+_sstt_s+_sstt _ss+ +sts +st+s s++s+++sss +^endstream
-
-endobj
-% 'fontDescriptor:AAAAAA+DroidSans': class PDFDictionary 
-59 0 obj
-<< /Ascent 765.1367
- /CapHeight 713.8672
- /Descent -240.2344
- /Flags 4
- /FontBBox [ -558.1055
- -270.9961
- 1168.945
- 1047.852 ]
- /FontFile2 58 0 R
- /FontName /AAAAAA+DroidSans
- /ItalicAngle 0
- /StemV 87
- /Type /FontDescriptor >>
-endobj
-% 'F3+0': class PDFTrueTypeFont 
-60 0 obj
-% Font DroidSans subset 0
-<< /BaseFont /AAAAAA+DroidSans
- /FirstChar 0
- /FontDescriptor 59 0 R
- /LastChar 130
- /Name /F3+0
- /Subtype /TrueType
- /ToUnicode 57 0 R
- /Type /Font
- /Widths [ 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 259.7656
- 269.043
- 401.8555
- 645.9961
- 550.7812
- 825.1953
- 702.1484
- 226.0742
- 300.7812
- 300.7812
- 550.7812
- 550.7812
- 250
- 321.7773
- 268.0664
- 373.0469
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 268.0664
- 268.0664
- 550.7812
- 550.7812
- 550.7812
- 425.7812
- 866.2109
- 607.9102
- 621.0938
- 603.0273
- 684.082
- 527.832
- 491.2109
- 689.9414
- 701.1719
- 338.8672
- 270.9961
- 579.1016
- 491.2109
- 870.1172
- 729.0039
- 742.1875
- 576.1719
- 741.2109
- 589.8438
- 519.043
- 519.043
- 698.2422
- 567.8711
- 883.7891
- 546.875
- 526.8555
- 539.0625
- 303.2227
- 373.0469
- 303.2227
- 532.2266
- 411.1328
- 577.1484
- 530.7617
- 585.9375
- 462.8906
- 585.9375
- 535.1562
- 329.1016
- 518.0664
- 588.8672
- 258.7891
- 258.7891
- 496.0938
- 258.7891
- 895.9961
- 588.8672
- 577.1484
- 585.9375
- 585.9375
- 398.9258
- 451.1719
- 338.8672
- 588.8672
- 479.0039
- 746.0938
- 500
- 488.7695
- 440.918
- 354.0039
- 550.7812
- 354.0039
- 550.7812
- 600.0977
- 375.9766
- 832.0312
- 485.8398 ] >>
-endobj
-% 'toUnicodeCMap:AAAAAA+DroidSans-Bold': class PDFStream 
+% 'R61': class PDFCatalog 
 61 0 obj
-<< /Length 1894 >>
-stream
-/CIDInit /ProcSet findresource begin
-12 dict begin
-begincmap
-/CIDSystemInfo
-<< /Registry (AAAAAA+DroidSans-Bold)
-/Ordering (AAAAAA+DroidSans-Bold)
-/Supplement 0
->> def
-/CMapName /AAAAAA+DroidSans-Bold def
-/CMapType 2 def
-1 begincodespacerange
-<00> <7F>
-endcodespacerange
-128 beginbfchar
-<00> <0000>
-<01> <0001>
-<02> <0002>
-<03> <0003>
-<04> <0004>
-<05> <0005>
-<06> <0006>
-<07> <0007>
-<08> <0008>
-<09> <0009>
-<0A> <000A>
-<0B> <000B>
-<0C> <000C>
-<0D> <000D>
-<0E> <000E>
-<0F> <000F>
-<10> <0010>
-<11> <0011>
-<12> <0012>
-<13> <0013>
-<14> <0014>
-<15> <0015>
-<16> <0016>
-<17> <0017>
-<18> <0018>
-<19> <0019>
-<1A> <001A>
-<1B> <001B>
-<1C> <001C>
-<1D> <001D>
-<1E> <001E>
-<1F> <001F>
-<20> <0020>
-<21> <0021>
-<22> <0022>
-<23> <0023>
-<24> <0024>
-<25> <0025>
-<26> <0026>
-<27> <0027>
-<28> <0028>
-<29> <0029>
-<2A> <002A>
-<2B> <002B>
-<2C> <002C>
-<2D> <002D>
-<2E> <002E>
-<2F> <002F>
-<30> <0030>
-<31> <0031>
-<32> <0032>
-<33> <0033>
-<34> <0034>
-<35> <0035>
-<36> <0036>
-<37> <0037>
-<38> <0038>
-<39> <0039>
-<3A> <003A>
-<3B> <003B>
-<3C> <003C>
-<3D> <003D>
-<3E> <003E>
-<3F> <003F>
-<40> <0040>
-<41> <0041>
-<42> <0042>
-<43> <0043>
-<44> <0044>
-<45> <0045>
-<46> <0046>
-<47> <0047>
-<48> <0048>
-<49> <0049>
-<4A> <004A>
-<4B> <004B>
-<4C> <004C>
-<4D> <004D>
-<4E> <004E>
-<4F> <004F>
-<50> <0050>
-<51> <0051>
-<52> <0052>
-<53> <0053>
-<54> <0054>
-<55> <0055>
-<56> <0056>
-<57> <0057>
-<58> <0058>
-<59> <0059>
-<5A> <005A>
-<5B> <005B>
-<5C> <005C>
-<5D> <005D>
-<5E> <005E>
-<5F> <005F>
-<60> <0060>
-<61> <0061>
-<62> <0062>
-<63> <0063>
-<64> <0064>
-<65> <0065>
-<66> <0066>
-<67> <0067>
-<68> <0068>
-<69> <0069>
-<6A> <006A>
-<6B> <006B>
-<6C> <006C>
-<6D> <006D>
-<6E> <006E>
-<6F> <006F>
-<70> <0070>
-<71> <0071>
-<72> <0072>
-<73> <0073>
-<74> <0074>
-<75> <0075>
-<76> <0076>
-<77> <0077>
-<78> <0078>
-<79> <0079>
-<7A> <007A>
-<7B> <007B>
-<7C> <007C>
-<7D> <007D>
-<7E> <007E>
-<7F> <007F>
-endbfchar
-endcmap
-CMapName currentdict /CMap defineresource pop
-end
-endendstream
-
-endobj
-% 'fontFile:/usr/share/fonts/TTF/DroidSans-Bold.ttf(AAAAAA+DroidSans-Bold)': class PDFStream 
-62 0 obj
-<< /Length 23104
- /Length1 23104 >>
-stream
-     Ä  POS/2¢ó”   ‹   `cmap	W
-  <  cvt K‚RQ  T  fpgms”#∞  \  glyfÙ»¬  d  B‡headÎ9ád  ND   6hheaé	  N|   $hmtx†"§  N†  Älocaeú  P    ¬maxp∂ü  P‰    nameÍh†  Q  ∑postˇi f  Wº    prepeq÷ä  W‹  b Ìº  ö3  ö3  – f¸  ‡ Ô@  [   (    1ASC    ˇ˝˛ Ñm„  ü    ^∂               
-     Ä                                                                         	 
-                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _      N∂  u∂Õ              ^  {  ˇÏ    ˇÏ    ˇÏ  ˛                                                                                   18L     ı ‚ Ÿ À ≤ ø+ † † f f    6?/! ˆ é     ∏ ∏ w w            6? â     ˙  „ Ÿ                      õ ”           ® ” ç ∑          ^} ı ·Tˆ æ »                       €   € Œ        ¸∂ œñ   å Ê ˙ »û ® µL  y é Ê ® £   é ®                                    ∂J ˇÔ Ó ⁄     ƒ ™ † ñ x    7”  1%‰∂  ‚ Ô ”∂˛º ≤¸ˇÙ ¢° Ë U ö ≤  @EYXUTSRQPONMLKJIHGFEDCBA@?>=<;:9876510/.-,('&%$#"!
-	 ,E#F` ∞&`∞&#HH-,E#F#a ∞&a∞&#HH-,E#F`∞ a ∞F`∞&#HH-,E#F#a∞ ` ∞&a∞ a∞&#HH-,E#F`∞@a ∞f`∞&#HH-,E#F#a∞@` ∞&a∞@a∞&#HH-, < <-, E# ∞ÕD# ∏ZQX# ∞çD#Y ∞ÌQX# ∞MD#Y ∞&QX# ∞D#Y!!-,  EhD ∞` E∞FvhäE`D-,±
-C#Ce
--, ±
-C#C-, ∞(#p±(>∞(#p±(E:± -, E∞%Ead∞PQXED!!Y-,I∞#D-, E∞ C`D-,∞C∞Ce
--, i∞@a∞ ã ±,¿äå∏ b`+d#da\X∞aY-,äEääá∞+∞)#D∞)z‰-,Ee∞,#DE∞+#D-,KRXED!!Y-,KQXED!!Y-,∞%# äı ∞`#ÌÏ-,∞%# äı ∞a#ÌÏ-,∞%ı ÌÏ-,F#F`ääF# Fä`äa∏ˇÄb# #ä±äpE` ∞ PX∞a∏ˇ∫ã∞FåY∞`h:-, E∞%FRK∞Q[X∞%F ha∞%∞%?#!8!Y-, E∞%FPX∞%F ha∞%∞%?#!8!Y-, ∞C∞C-,!!d#dã∏@ b-,!∞ÄQXd#dã∏  b≤ @/+Y∞`-,!∞¿QXd#dã∏Ub≤ Ä/+Y∞`-,d#dã∏@ b`#!-,KSXä∞%Id#Ei∞@ãa∞Äb∞ aj∞#D#∞ˆ!#ä 9/Y-,KSX ∞%Idi ∞&∞%Id#a∞Äb∞ aj∞#D∞&∞ˆä∞#D∞ˆ∞#D∞Ìä∞& 9# 9//Y-,E#E`#E`#E`#vh∞Äb -,∞H+-, E∞ TX∞@D E∞@aD!!Y-,E±0/E#Ea`∞`iD-,KQX∞/#p∞#B!!Y-,KQX ∞%EiSXD!!Y!!Y-,E∞C∞ `c∞`iD-,∞/ED-,E# Eä`D-,E#E`D-,K#QXπ 3ˇ‡±4 ≥3 4 YDD-,∞CX∞&EäXdf∞`d∞ `f X!∞@Y∞aY#XeY∞)#D#∞)‡!!!!!Y-,∞CTXKS#KQZX8!!Y!!!!Y-,∞CX∞%Ed∞ `f X!∞@Y∞a#XeY∞)#D∞%∞% XY∞%∞% F∞%#B<∞%∞%∞%∞% F∞%∞`#B< X Y∞%∞%∞)‡∞) EeD∞%∞%∞)‡∞%∞% XY∞%∞%CH∞%∞%∞%∞%∞`CH!Y!!!!!!!-,∞%  F∞%#B∞%∞%EH!!!!-,∞% ∞%∞%CH!!!-,E# E ∞ P X#e#Y#h ∞@PX!∞@Y#XeYä`D-,KS#KQZX Eä`D!!Y-,KTX Eä`D!!Y-,KS#KQZX8!!Y-,∞ !KTX8!!Y-,∞CTX∞F+!!!!Y-,∞CTX∞G+!!!Y-,∞CTX∞H+!!!!Y-,∞CTX∞I+!!!Y-, ä#KSäKQZX#8!!Y-, ∞%I∞ SX ∞@8!Y-,F#F`#Fa#  Fäa∏ˇÄbä±@@äpE`h:-, ä#Idä#SX<!Y-,KRX}zY-,∞ KKTB-,± B±#àQ±@àSZXπ   àTX≤C`BY±$àQXπ   @àTX≤C`B±$àTX≤ C`B KKRX≤C`BYπ@  ÄàTX≤C`BYπ@  Äc∏ àTX≤C`BYπ@  c∏ àTX≤C`BYπ@  c∏ àTX≤@C`BYYYYY-,Eh#KQX# E d∞@PX|Yhä`YD-,∞ ∞%∞%∞#> ∞#>±∞
-#eB∞#B∞#? ∞#?±∞#eB∞#B∞-,zäE#ı-     ¡  
-∂   +@	pÄ∏ˇ¿@		H  ?2/3/+]33/310!!7!!¡I¸∑hy˝á∂˙JhÊ  uˇÂ”∂   ]@B∞‡/?ü◊∆wfñÿ…xi  `	õ ?/˝Œ/]q3]]]]Ì2]]]]]]]10#!4>32#".†Ù3Z˛¢0@%#?00?#%@0Â—˙Ÿ/A((A/-@**@    Ö¶B∂   /@ò	_	 ò   ?33/]3/^]·]9/·10#!#ú)≈)Ω)≈)∂˝˝   -  ˛¥   Õ@Ä ±ÙP!	±
-`	˚
-`
-p
-
-HÆ ÁÆÙÂíT0@Î˚ù[?O
- /3?399//]]]]]]]]]33È]2233È]22/]]33/3/]Ï9293/]]Ï92393/3/10!!####5!7#5!333337#Á/˛◊M‹N¬L◊JÓ/¸!M€M∆N◊N˝ƒ/ƒLËŒ˛jñ˛jñŒË—ó˛ió˛i—ËË     bˇâ% 3 < C Œ@F&.@#@˚@?@@:ÙÊ 044+4{4ã44) O  E==$=t=Ñ==ê†∏ˇ¿@?H-*AA&9.@∂@â@@&%@H%%# &@&P&Ä&∞&&&:P`@ /]33/]333/]]33/+9]]333333/+]3…]ﬁ]2…]9/]]]3…23]]3…210#5.'&'&&'.54>753&&'4.'665%5iúfâBpbY+*cjm4	[à[-9jò_âW∂deAç>'_é^.˛”+;8˛ó4967…KÄ`>
-Õ…&>#L^rHK{[9	ùó(+Í)˛€#J\rR$¸	<é/?È0     ?ˇÓÕÀ 
-  " - A ùµ1	H?∏ˇË@	H:	H5	H∏ˇË@$	H	H(	H	H#¥8µ.Y""V  !!∏ˇ@#!!)¥.C¥µ ¥+∂=∑&∂3"!∂∑∂ ?È¸È/??È¸È/È¸ÈﬁÈ99//883]3]¸È10 +++ +++ ++32654#"#".54>32#32654#"#".54>32;-21/`2-ª)VÑ[UÅW,(UÇZVÉX-õ¸’Ô+p-21/`2-ª)VÑ[UÄW,(TÇZVÉX- }|Ä˙{}l¨v??v¨ll™u>>u™H˙J∂¸}|Ä˙{}l´v??v´ll™u>>u™   RˇÏ√À - 9 I ü@A'G():â::HG#$- &DÜDDH67Ù–‡;K((
- ∏ˇ¿@"	H  K.G
-67??''3-$#G3 ??3?99/39/È3/+3]9///]]]]9È]9È]È10!!'#".54>7.54>32667!%32674.#"66√˛áaP¡tx√ãL%Da<&5 =móZVëi<-Lg;#5=)6F+¸Î 9M-<f+˛À38H!)-%.(MOd7A<mô]MybP$.USS-N{W.*QwLEsbR#˛ÙBíJ9~~9Ö,F0J*`}+-!4\.,X  Ö¶ú∂  0@ˇ–‡_ ò   ?3/]/^]·]]]q10#ú)≈)∂˝     R˛ºy∂  @Ò	/ ?  ˘¯ ??/]ÈÏ2104>73#.R$JqN˙çê$HjE¯NqJ$1}ÛÂ”]¡˛2ÙwÏ‚‘^ZŒ·   =˛ºd∂  @Ò ¯˘ ??ﬁÈÏ210#>54'3d$JqN¯EjH$êç˙NqJ$1|·ŒZ^‘‚ÏwÙŒ¡]”ÂÛ   ?V  #@@ 1  Ñî   ?2/]/]Õ]]10%'%7∞)u!˛¨ﬂ„úâÏ›˛Æ'm)˛êh¸˛◊y9˛…w)˙hp    X ¯∞   @	™ 	 ≠ /33È22/22È2210!5!3!!#«˛ëo€n˛í€d€q˛è€˛î  ?˛¯À Ó  V@A†∞‡/?´ª<Lyâô
-* ó&6F/?Oú@	H /+Ì/]3]Ì2]]]]]]10%#>7!À'/3‹◊6z|{8=ÑÉ}5   =®V¢  @Ä   ªΩ ?È/]]Œ105!=®˙˙   uˇÂ”9  &@∞‡/?
-ñ   `  õ /Ì/]Ì]]1074>32#".u0@%#?00?#%@0è/A((A/-@**@       D∂  (@	   ∏ˇ≥  ?//833/8210]]!D˝ﬂ˛Î!∂˙J∂  ?ˇÏ)Õ  ! @n #n
-tt ?È?È/ÈﬁÈ10#"&&54663232654&#")7yøáº|=7xæá~º~>˝JVjh[[h5I.€±˛Í¬ff¬±±¬gf¬˛Ë≤˙¸˙¸˚˝@~Ω  \  1∂  %@ nö `  ??/]]È33/310!!4>7'31˛À ®ñ◊˛NIOP!á∫w   N  'À ! /@!n#@P`   ?…2?…39/]33ﬁÈ310!!5>54&#"'>32!'¸+XAjL*YKOíP®-bvéXißv?<hâN∞T◊sFvptCJRNH«)K:#:kò_VùóïM±     9ˇÏÀ ; W@3: ""	)n  n	=2è"wl#:#J###1,t7u ?3È?È39/]]È9/]3ﬁÈ3/È9/910]]#"&'32>54.##532>54&#"'>32Ó1UsC±∂EèŸìv–Z-dda+VrD%SÜbhf\zIai0SG;ú*ctÜLl±~EoLy[=´ë`£xC'($ :Q0-I3Ÿ!9L+NX#Œ4'/YÅ     =∂ 
-  8@	 nö u	 ??39/3·2/29/]]33È2210#!!5!3!54>7#=∞˛”˝§m∞˛#	-Ù/˛—/◊∞¸i¯1>B<-
-*^/˛é   VˇÏ∂ ( b@#%&&&&"$! Hâ!{!]!m!!!n*∏ˇ¿@Ht    
-%s"t
- ?3È?È9/]È/+ﬁÈ9/]]]+933]3102#".'32654&#"'!!66V^¢xDJê’ä7lcY$#\cd-Üåâè;94{7˛ U¶:pßlwΩÉF
-#oylq
-BÈ˛˙˛·    LˇÏ+« ) ; M@/"
-(
-!7/n =7nP `  2u*t%u ?È?È9/]3È/]È2ﬁÈ9/]10]]]4>32&&#"3>32#".2>54&#"L;eõŸë230&U+áÆf+9L_;_òi8C|∞nlºãO¸)C1Y[.L63Kmi–ø§yE˜	Cx®f$?->v¨owºÉEMûÒÂ?`Bk{$:H%3eQ2    7  '¥  -@èü s  ??È9/3]/]Œ2]103!!œ˝`˝Î∞¬˚    HˇÏ!… ' : N ú@j
-
-%
-
-#JJn¸È∆÷00nP@@n‚#Ú#…#Ÿ###((nP`
-
-66ÎE˚E4EDEdEEEE -v;v  ?È?È9/]]]…]99/]È]3/]]È]ﬁÈ]3/]]]È]99]]10]]]]2#".54>7.54>32654.''">54.5[¢zH(F`8:oV4HÇµmv∏~A,Lf:1V?%I|¢v3L2ih#7F#,H3Õ!9)+9 8+*:…,XÑYBkWDL_vI[îh86dí[Kx`JIYlAWÉY,˚º(C0cQ*C903=H8&8#*=/%&1>(#8&   ?ˇÏ« ) ; G@*
-"(' 7n =/n 2u*t%u ?È?È9/]]È/ÈﬁÈ29/]10]]]#".'532>7##".54>32%"32>54.;eõŸí230%U,áÆf+8L`;_òi8C|±nlºäP˛)D1Z[.L63KFi—æ•xE¯
-Cy®e$>.>v¨owºÉFMûÚÂ?aBj|$:H%3eQ2     uˇÂ”s  ' 0@∞)‡))/)?)
-ñ   `  #õõ /Ì?Ì/]3Ì2]]1074>32#".4>32#".u0@%#?00?#%@00@%#?00?#%@0è/A((A/-@**@g/A((A/-A))A    ?˛¯”s    k@P´ª<Lyâô
-*†"∞"‡""/"?"ñ `ó&6F/?Oõú@	H /+Ì?Ì/]3]Ì/]Ì]]3]]]]10%#>74>32#".º'/3‹/0@%#?00?#%@0Ó6z|{8=ÑÉ}5€/A((A/-A))A  X À   `@A4Ddt 5E&/ O  :J)   0@∞ /]q33]]/]2]]9=/33/Œ210]]%5¸H∏˝}ÉÀ∂è˛√˛Á    X¢    2@	 I≠êI  ≠ @Ä‡ /]È]3/]È]/3Œ2105!5!X∏¸H∏'ŸŸ˛{€€     X À   `@A;Kk{	5 E  &  /O:J)  0@∞ /]q33]]/]3]]9=/33/3Œ10]]5XÉ˝}∏¸H∫=˛è˛J    ˇÂuÀ ' ; 8@2ñ(('  H= -õ7M ?È3?˝Œ9/ﬁÈ9/…3/Ì10]54>7>54&#"'>324>32#".+D0*:$MOEüUf+emp6f§r=7S7*5˛◊0A%#?00?#%A0ÂJ3SKG&!438%9J:*›-#1^ÜV?cUO,!1,/ <˛™/A((A/-@**@  fˇfâ… U f U@,V_J-BB- _
-@###7 h7J(Y?OE2QbQ<E /…?9/……9/]3…2/¡Œ9/]3…Ÿ¿/9/]¡10#".'##".54>3232>54.#"32>7#"$&54>3232>77&&#"â-\ã^&C8)2>K,SÅX.>t¶g-`YN#4"Lá∫môÈùQFä Ñ8vuq3^ÂÇµ˛„ƒh6fìº‚Åû
-¡l¸>L?*='6;R3_∫ì[#//$9iìYg¨}E
-
-˛]**66\{EÄ»äHf∑˙ïä’ëK"¿*1g¬≤|„√üq=eΩ˛Ú˛⁄pc'Gc=›2Ri       3º   ç@&6Fv∏ˇ@?H	)9IyH 	    `pê∏ˇ@_  ?2?3]9/È/83]]]3/8]3]933999910+]+]!!!!.'˙d˛e˛«€{›˛^]\˛§º˙D`@Rcd#<CD<.˛¿    ∏  ∂∂  " / v@L&&$Z**Zg11$Zd0#`ª©àgL; $_"_  ?È?È9/]]]]]]]]È9ˆÈ2]ˆÈ]3/È]9]10]]]!2#!32>54&##32>54.#∏¨ä–åG:S67_G)FÉªv˝¸6°:N0irì∂=S35V@∂'Wçg>lR7	
--OxVdùm:s*?*TI˝≈˛É4J-)C0     wˇÏ—À # B@+e
-!!Z!j!∫! g%∞%ü%`%%[f$ _
-_ ?È?ÈˆÈ]]]]Ê210 ]]"3267#"&&546$32&&%Yâ]0+Yã`Y≥i0^bg;©¯¢NZÆ ¶m€ddR¶…EÅπsu∂}A(%˛¸	lƒ©¶»o70¸':    ∏  #∂   &@Z g?Zd__ ?È?ÈˆÈ]ˆÈ10#!!24.##326#eø˛Î±˛¨°∏c˛∆1]áWèrƒ≈Èπ˛Èª^∂\µ˛Ù∏z±t8¸H  ∏  ∂  F@* g
-Zd	_ØàL;
-_
-_  ?È?È9/]]]]]]ÈˆÈ2Ê2210!!!!!!!¸∂J˝ÏÔ˛∂˛˛ø˛˛á    ∏  ˛∂ 	 W@:ügèØ \d
-	_üØøﬂàoL; _  ??È9/]]]]]]]ÈˆÈ2]Ê]210!!!!!!È˛œF˝Î˛∂˛˛á˝     wˇÏ'À ' D@(''%\ê)`)p))[f('_+   "_"_ ?È?È9/]ÈˆÈ]]ﬁ]2È9/10!#"&&546$32&&#"3267!„D:vãN§˝≠Zd√∏u‡]gD´^f£t>+\ëeB[(˛Î5˝
-aø∏¨√i2(¯".GÇ∏ql≥ÇH1   ∏  ∂  G@+	Z eè Zd_àL;
-  ?2?39/]]]]]ÈˆÈ2]]ˆÈ210!!!!!!!˛À˛˛ 6Ò5w˝â∂˝√=     B  €∂  ;@#üˇ@H0
-Z¿	_
-_  ?È2?È2/]33È23]+]10!!57'5!€˝g≤≤ô≤≤∞R≤R∞∞R¸NR   ˇ9˛RÓ∂  4@#ZeoèØ'_  /È]?]ˆ·2/10]"&'32>5!Ab"%Q0.O;!6IÉ∂˛R	1R>ã˙~∂w8  ∏  ∂  r@N9y	
-
-I
-Y
-	9IYy
-d      iEUZd$
- ?3?399]ˆÈ2]]3/8]]33310]] ]]!!!!7!˛†˛∞t˛ 6zNX˛-`V˝ˆ∂˝@œÒ˝m     ∏  ∂  )@/?èØZ d_  ?È?ˆÈ]Œ]103!!∏6∂˚Jˇ   ∏  ñ∂  çµ	H∏ˇ‡@Y	HG6'I ; 	  ) à®¯
-H] eX∏6
-F
-
-
-'
-
-^d  ?2?33/3ˆÈ]]22]ˆ933È+]2210]]]]]]++!#!!3!!4>767#˛ø	˛Î¶<P¶˛ﬂ˛¶{\V%NLF˝X∂˚¢^˙J¥BJL$T[˚á     ∏  ã∂  Ö@, H9I+I	H^e  ∞∏ˇ¿≥H∏ˇ‡@H6F$F		∏ˇ¯@	H	^
-d
-  ?22?33ˆÈ+]22]]++]ˆÈ+]22]]+10!!#!!3&'.5!ã˛w˝¡	˛Îá>RMLAè9˝P∂˚πLJ CC>¥     wˇÏñÕ  ' (@[ g)/)?)[
-f(#__ ?È?ÈˆÈ]ˆÈ10#"&&54663232>54.#"ñO¢˜®®˜°OO¢˜©®ˆ°O¸ (S~WYQ''Q~XWÄS(›©˛Í∆ll∆™™ƒkk≈˛Î´s∑DD∑ss∑ÄDDÄ∑     ∏  m∂   =@&Z	?_èØ Zd _ _ ??È9/]ÈˆÈ2]ﬁÈ10]32654&####!!2Ó=ÉÖwO:ÖŸ†G˛ ñçÕÖ@humh `∞ÜP˝¯∂?u©  w˛§¡Õ  / W@8&6&[ g1/1?1[f0;K[)+_!_ /?È?È9/83]]]ˆÈ]ˆÈ99]]10!""#"&&54663232>54.#"ñ'OwQi˛r˛Ù®˜°OO¢˜©®ˆ°O¸ (S~WYQ''Q~XWÄS(›w—¨Ü,˛mJl∆™™ƒkk≈˛Î´s∑DD∑ss∑ÄDDÄ∑  ∏  
-∂   ~@P		ZD    
-Zdª © à g L ;   `		
-_
- ?3?È9/È]]]]]]]9ˆÈ2]3/8]39/]9]È]310]]]32654&##!! !ÓTÅpx~O˛ ê(CW0oX&G8˛®˛√-gdhX˝y˝œ∂Ÿ›Kz_G≤å<rZ1    ^ˇÏŸÀ 9 I@-
-  	'\ g;;?;ü;0\	f:0-_("_	 ?3È?3È99ˆ2È]˛È3 ]10]]#"&'32>54.'.54>32.#"ŸCÅªyj≈T0bee23I-#?Y7.reDAx´j5ecd5d-NJG$NS7W>K~[2ñbùo<,, +")9")?74Deèdbõk8&Ò SE%924!(SeÄ    )  ;∂  >@'¿	–	o	0	@		Ñ Z@ê_  ??·2/]3/È2/]]]]]10!!!!!Õ˛À˛ë˛í¥˛˛  ÆˇÏ∂  0@		ZeèZd_  ?2?·ˆÈ]ˆÈ10 ]]#".5!3265Eç‘èáœãH5 ?^?Éu∂¸NrƒêRMé«zÆ¸iQsI"òôï        ·∂  X@+		    `pêo∏ˇ@
-  ?2?3]/83]]3/8]3]93310]]!!!>7®9˛8˛Æ˛99¯∂˙J∂¸êP``!!`_P     j∂ 6&@m	5)595I5f%v%'%%i$y$($	$&6Fk{ã
-HdtÑ6FV%k{ã9IY*
-d t Ñ  ∏ˇ@>
-H  -V%Ü%%%Y$â$$$		-55 6`6p6ê666688∏ˇ@&5$è	{	,	<	L		
-		-  ?23]]3?3]]]]]33/83]]3/8]3]9333]]3]]3310]+]]]]]]]]]]]]+]]]]]]]]]!!.'!!>7!>7!
-˛†¥		≤˛ü˛†1¶ÀÀ¶1—6DJF;;EJD8˝1∂¸‚=LTPEDMRG73¸Õ7GRMDEPTL=        ∂  |@8				
-
- 	  ` p ê    Äo∏ˇ@	 ?3?399]]/83]33]]]3/8]3]933333]10!!!!!˛û˛’˛’˛¥º˛cVN˛^)˝◊Úƒ˝Ú˝+     ¨∂  q@
-œ
-0
-∞
-
-?∏ˇ@Îçdt Z0 ∏ˇË@	H  ?3?9/3+3/]È92/8]]]]33/8]3]]]10]]!!!VN˛D˛Ã˛DP\Z¸É˝«/á    1  ∂ 	 t@1iH 	@	`	p	ê	†	∞			ØœÔPOf∏ˇ@HOØø
-__ ?È2?È23/]33]+]]]]3/]33]+]10!!5!!!¸k˝®»˝ñ}…Ì »¸    è˛ºs∂  "@ Ú ˜¯˜˘ ?·?·/]ÈÌ210!!#3s˛‰‡‡˛º˙”˙¨     B∂  (@ 	 ∏ˇ≥  ?//833/8310]]!!!˛Î˝ﬂ∂˙J∂  3˛º∂   @ Ú	 ˜˘˜¯ ?È?È3/ÈÌ2103#5!!3ﬂﬂ‰˛qT”˘   =æ  7@+		
-    ?3//23/39=/3310]]] ]3#∂êÔÔ˛æEèD∂¸JÉ°˛∫ú   ˇ¸˛ºNˇH  ∂  π /È/3/10!5!N¸ÆR˛ºå    LŸP!  *@E_o _   /]2/]/33/]]10.'5!Ö"_\LV+.0ŸSXQ"QQL    VˇÏ˛u  . a@>
-
-
-
-@.FU0O0ø000&G0 Q:N)N  ??È2?·3]9/È/]È]]ˆÈ229/]10]]]!'##".5467754&#"'663232>5);	!BNa@DtU0‰„≤PHHâEcTÃp—ﬂ˛—e=T3D7*H5ò-A*+WÖ[≤©	TEB*# /6ƒ»˝/A(F;9S6     †ˇÏw  0 8@ .GW2&FT1 +M
- M  ?È2?3È??ˆÈ22ˆÈ10]]2#".'##!3>"32654&ÙVéf99híX8WD33È16GZ03G,,I6[UUsJíÿéêŸíJ(3{˛ñ!M!''#<-Ù%JqK!Q~U,≠•••    fˇÏºs  <@&
-
- !∞!/!O!o!GV M
-M  ?È?ÈˆÈ]]3/]310]]".54>32&&#"3267qx¡âIKâ¡vV™KXBz7oddkWéJ%FGMBãŸóß·à:*&Ë%©©®†-#˛	   fˇÏ=  0 8@ 
-
-%HU2.GV1 +M
- M  ?È2?È2??ˆÈˆÈ2210]]".54>323&'&&5!#'#72>754.#"ÈVéf99iíX6ZH9
-1È;6GY76L/.N;`Z[JëÿéêŸìJ-;#'("M!f˘Ïë"=,Û%KpK!Q~U,≠•••     fˇÏDs  ) e@A
-
-è%%%	HW+œ+0+FV*9I(PŸ»| ON	 ?È?È9/]]]È]]ˆÈ]2]]ˆÈ]9/]10]]"!.".54>32!32>7dQkÖ0H	x íQJÖªro≥}C˝V%C_=3[VT,(QZhörz3V?$¸RFç◊ëì‹ìJCÇΩzî@gG&!Ï	     )  H  J@,
-	H  /ØF NM ??È?3·2/]3/3È2]]3/9/10+#!#5754>32&&#"3Â„˛œ®®4`àU\~,HD.<1„y¸áyìRRkçT#‡M<F   ˛=s A R ] º@Å%%%
-##*#
-5
-99*94 	H47YYHSJ_Ø_0_SSH7* 	H*//7BO%_%o%%%7 70774A<VK
-
-
-\<GGGP KNN /…]?·]?…9/]…9/]3/]…3/…9+È]]]3/]…9/È]99+10]]]]]]#"&'332#".54>7.54>7&&54>3232654&##"32654&#"=£6j†j6*8ÆQÄY0Ló‡ìr™r9*FY/)!$6"Xg8l†h21*˛\0N9úûbgç>4#nDEH@?Iâ\¶3"I*Uçd7%%LuQ_ôk9+QrH=Z@(	 *3 4-(&®rZéc4˚/$XJ?* 5f[dd[Zj   †  j  6@!F U 0ÄFTM   ?2??È2ˆÈ2]ˆÈ10]!!4&#"!!36632j˛œKN;P0˛œ11ò`Sá`4çyy0^äY˝Ú˛√*]'.,WM/dõl   ì  ﬂ   /@ø0`ê
-F TSﬂ ??3/]Ìˆ2È2]]104>32#".!!ì-=""<--<""=->˛œ1+9##9+*:##:˙´^  ˇÆ˛ﬂ  ' E@,
-FU)ø)0)`)ê)Sﬂ###'M  ?È]?3/]Ì]]ˆ2·2/210 ]"&'532>5!4>32#".f0f"6"-!1'Wä6-=""<--<""=-˛
-	'A3™˚)Máe:k+9##9+*:##:  †  ∏  n∂
-∏ˇ≥H∏ˇ@6H0$ 	F
-T H 
- ??399]+?ˆÈ23/8]]]33399]++10]]7!!!!≈pX˛lÆ˛†˛w˛œ1`™T˛˝áÆR˛§˝J˛   †  —   @ø0`ê FT   ??ˆÈ]]10!!!—˛œ1    †  s * q@4   FˆôÜy8&#F"U,_,FT+∏ˇË@	H'M#  ?22??3È22+3ˆÈ2]ˆÈ9/]]]]]]]È210]]!!4&#"!33>323>32!4&#"`˛œHM:M.˛œÈ)CPZ.s°+DR[.¥∑˛ŒHMm\çyy0^äY˝Ú^è+>(OU+>(√◊˝'çyy≠°   †  js  ;@$EF U 0ÄFTM  ?2??È2ˆÈ2]ˆÈ10] ]!!4&#"!33>32j˛œIP<P/˛œÈ)ER\0RÜ`4çyy0^äY˝Ú^è+>(/dõl     fˇÏds   6@!
-
-GW!_! GV 	MM ?È?ÈˆÈ]ˆÈ10]]]]32654&#"#".54>32û^ji^^ki]∆GÖøwo∫áLGÖæxo∫áL1ß©™¶ß••ßåÿîMMîÿåãÿìLLìÿ   †˛ws  0 8@ .GW2&FT1 M+M  ?È2???È2ˆÈ22ˆÈ10]]".'#!33>32"32654&Ï7WD4˛œ¯+6GZ7Wéf8:ië∂3G,,I6[UU(3#7˛;Jë"<-JíÿéèŸìJì%JqK!Q~U,≠•••    f˛=s  0 8@ 
-
-!&F#U2GV1$" M, M ?È2?È2??ˆÈˆÈ2210]]%2>754.#"".54>3237!!46767#Z7K./M:`Z[Wéf89iíX8ZI8˛œ6GZ€%JqK%Q~U,≠•®¶ÔJëÿéèŸìK-;#è˘∂’9 !"=,    †  Hs  @≥¿∏ˇ¿@!	HˇFFTEU  ?…3]??ˆÈ2]]3/+]102.#"!33>Á
-;cG'˛œÁ-8EWs˛‚CmO˝«^®+F1     bˇÏâs 7 c@
-!!'	HF W9œ909.∏ˇ¯@	H.F
-V8.+N(
-H($N∏ˇµ
-H ?3+·?3+·99ˆ2È+]]ˆÈ+310]]#".'532>54.'.54>32&&#"â@v®h7^TN(*]\W%):%.YKIkE"<nõ_d¥_\LäE>7*L=GrR,LXÑX,¸"%!%/"!APgGNuN'..ÿ$.,&!'=Nh   /ˇÏL  \∂
-	H∏ˇ¿@4
-HO_oüﬂF_oﬂÔˇN M ?È?33È2/]33/È2]3/]+310+%267#".5#5773!!f-Q*+KI~\5í®X√˛@ﬂ„"UèlÅfÏÓÂ˝ÂA>     öˇÏd^  ;@#J
-
-FU 0ÄFT 
- ?3?…2]/ˆÈ]ˆÈ210] ]!'##".5!32>5!{)ER\0RÜ`41IP<P/1è+=(/dölŸ˝syy0^äY˚¢       P^  ñ@6fv∂∆Êˆ	Ÿ	H÷∏ˇ@"	H	  9 i y π … È ˘ 	 †¿∏ˇ¿@	Hpê∞–∏ˇ@  ?2]]?3/83]]3/8+]393310]+]+]]!!3667!ã˛u?π∏@˛u^˝É9{15w9}˚¢      s^ 3∑÷3Ê3ˆ33∏ˇ@	H1	H’$Â$ı$$∏ˇË@	H⁄#Í#˙##	H∏ˇ¯@	HŸÈ˘	H’Âı∏ˇË@Q	H⁄ Í ˙  	Hò®óßó$ß$$ò#®##	ó3ß33ò ®  *&	**)**	12†2¿22∏ˇ¿@	H225Ä5ê55∏ˇ@1#			I		+F  ?33/]3?3]33/83]]38+]39]]3]3]3]3]3]3]10+]+]+]++]+]++]!.'&'#!!3>7!3>7!ˆV	Z˛∏˛”/q	
-	zPu	u+˛œá?OY,gwwh,ZO@˛}^˛'moc=FI@1
-˝Ë\icbqp'Ô˚¢    
-  X^  ˝@[
-
-
-ö ™ ∫ ⁄ Í i Z 9 I  ( 
- FVfñ¶∂÷Ê'7	 †¿∏ˇ¿@	H/Ø
-
-∏ˇ@	Hi	Z	9	I	*		
-	∏ˇ‡@ HfT6F$	
- ?3?399]]]]]]+]]]]]]+/83]32]]3/8+]3]9]]]]]]]]]33]10]]]]!!!!Ö˛òZ∫ΩZ˛ì}˛¶ÕÕ˛¶;#˛∞P˝›˝≈j˛ñ    ˛P^  ™@.8
-ˆ7 È⁄)9	†¿∏ˇ¿@,	H p ê ∞ –  Ê’®&6 ∏ˇ@ ‡  ?2?…33]]3/83]]]]]]3/]]3/8+]3]]]]]93]]]3]]10!3>7!#"&'532>77N¥
-∞P˛F>÷°4L@#0D1#^˝ã4v/8:9u˚±¨Ú/B)8  7  m^ 	 |@IYiH
-		∏ˇ¿@	H		†¿@HFVf∏ˇ@H†¿@HNN ?·2?·2/+]3]+]+]]3/+9/33]+]10!!5!5!!m¸ …˛V˛FÕ¥¡È∆˝Q     ˛º’∂ ( N@2(	H%	H!ÛÙ0''ˆÕoèI!ı"˘ı¯ ?È?È9/]]]È9/]Ó3È2Ï210++ &#52>'4>3".5É}>aB!&c™É(A-‰sz-A(É™c&oRÔ+D0>JiC ·6+˛’ª#n^˛’+6‚ CjJ;  «˛/¢  @™0@p   ?//]·103#«€€¯!    ˛º’∂ ( Rπ ˇÿ≥	H∏ˇË@)	H%ÙÛ(%ˆÕ$o$$è$I$$$ı¯ı˘ ?È?È9/]]]È9/Ì332ÓÈ210++#5>5&675&'4.'523"’&c™É(@-zr„-@(É™c& Ba>}É-JjC ‚6++^n#ª++6· CiJ˛¬0D+ÔRa     X'} $ \@,(H%∏ˇË@H&
-≠
-   ∏ˇ¿≥H ∏ˇ¿@H  ≠?_@H /+]È33/++]3È/Œ10 +]+].#"5663232>7#".%9/*><93N39F0&90*><9eõ39Fh!,Á67 -Ám         n¥Jj_<ı      ¡ö2Ù    ≈S	=˚˝®
-ç  	          m˛  
-˚˛y
-                `Õ ¡  J u« Ö+ -h b ?« R! Ö∂ R∂ =\ ?h XR ?ì =H uN h ?h \h Nh 9h h Vh Lh 7h Hh ?H uR ?h Xh Xh X¨ Ó f3  # ∏ wö ∏{ ∏d ∏À wÕ ∏ B¶ˇ9 ∏H ∏N ∏D ∏ w… ∏ w
- ∏1 ^d )∫ Æ·  j    ¨  P 1¶ èN ¶ 3B Jˇ¸ûLò V› †˛ f› f¶ f )j  †q ìqˇÆ∏ †q †â † †À f› †› fy †Ÿ bP / öP  s  b 
-P  ® 7È h«È h X   * * Ç ∞NÃà∞‡Dl∞ ˛"höÊd¨ñ¿|Ù	F	Æ	Ù
-"
-h
-ÿêÜ‡Zú¸:p¨(§f¨"ñ>~Ã≤b¥ÿ¸Rjöt¬&òÊƒN¨$ö‚.íˆB¬bÃ™H– & ä §!
-!p      ` †  y    / Z  ÕT     J        4         
- 4        >        B        M        \        h       N v        ƒ      
- g ÿ       .?       *m        M  	   hó  	  ˇ  	    	  4  	  1  	  ,O  	  {  	  úó  	  (3  	 
- Œ[  	  8)  	  \a  	  \Ω  	  TDigitized data copyright © 2007, Google Corporation.Droid SansBoldAscender - Droid Sans BoldVersion 1.00DroidSans-BoldDroid is a trademark of Google and may be registered in certain jurisdictions.Ascender CorporationDroid Sans is a humanist sans serif typeface designed for user interfaces and electronic communication.Licensed under the Apache License, Version 2.0http://www.apache.org/licenses/LICENSE-2.0 D i g i t i z e d   d a t a   c o p y r i g h t   ©   2 0 0 7 ,   G o o g l e   C o r p o r a t i o n . D r o i d   S a n s B o l d A s c e n d e r   -   D r o i d   S a n s   B o l d V e r s i o n   1 . 0 0   b u i l d   1 1 2 D r o i d S a n s - B o l d D r o i d   i s   a   t r a d e m a r k   o f   G o o g l e   a n d   m a y   b e   r e g i s t e r e d   i n   c e r t a i n   j u r i s d i c t i o n s . A s c e n d e r   C o r p o r a t i o n D r o i d   S a n s   i s   a   h u m a n i s t   s a n s   s e r i f   t y p e f a c e   d e s i g n e d   f o r   u s e r   i n t e r f a c e s   a n d   e l e c t r o n i c   c o m m u n i c a t i o n . h t t p : / / w w w . a s c e n d e r c o r p . c o m / h t t p : / / w w w . a s c e n d e r c o r p . c o m / t y p e d e s i g n e r s . h t m l L i c e n s e d   u n d e r   t h e   A p a c h e   L i c e n s e ,   V e r s i o n   2 . 0 h t t p : / / w w w . a p a c h e . o r g / l i c e n s e s / L I C E N S E - 2 . 0        ˇf f                    @3	¯ˇPÙüÛ0Ò7GW/ÔüÔ@ÌPÌ–Ì0Ï%Î5ÎUÎeÎW‰f·∏ˇ≥‡F∏ˇ@?‡F¸˚3ﬂ3›Uﬁ3‹U0˚@˚`˚_›œ› ›0›‹…»∆≈3˛¬0¿ª∫@∑`∑Ä∑∏ˇ¿≥∑F∏ˇË∂¥	F¿±∏ˇË@°Ø
-F/ú?úˇúèõÔõöô¿ó–óêçå/å?åOåøåœåªÇg˙ß˙Ft&n6nUˇˇˇøg fÄfêfèeüe d∞d'^7^&]\Z[Z&Z6Z3UU3U/üWW+WÎWV"V2V¢VØUƒT∏ˇ‡@!TF SSFO7OFN7N[ˇkˇ{ˇ ˇF∏ˇ∑H	FGF∏ˇ@1F	F3UU3U UG UØœ0o  Ø Ô  Ä∏ê±TS++K∏ˇRK∞	P[∞à∞%S∞à∞@QZ∞à∞ UZ[X±éYÖçç BK∞2SX∞`YK∞dSX∞@YK∞ÄSX∞± BYssss+++++++++s sssss+sss^s st+++s++ssssss ++++s sss st+s+ ss+s+ +s+s ++ ++sss+++++s sss ssssss +^  endstream
-
-endobj
-% 'fontDescriptor:AAAAAA+DroidSans-Bold': class PDFDictionary 
-63 0 obj
-<< /Ascent 765.1367
- /CapHeight 713.8672
- /Descent -240.2344
- /Flags 262148
- /FontBBox [ -619.1406
- -292.9688
- 1258.789
- 1068.848 ]
- /FontFile2 62 0 R
- /FontName /AAAAAA+DroidSans-Bold
- /ItalicAngle 0
- /StemV 165
- /Type /FontDescriptor >>
-endobj
-% 'F5+0': class PDFTrueTypeFont 
-64 0 obj
-% Font DroidSans-Bold subset 0
-<< /BaseFont /AAAAAA+DroidSans-Bold
- /FirstChar 0
- /FontDescriptor 63 0 R
- /LastChar 127
- /Name /F5+0
- /Subtype /TrueType
- /ToUnicode 61 0 R
- /Type /Font
- /Widths [ 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 600.0977
- 259.7656
- 286.1328
- 472.168
- 645.9961
- 550.7812
- 880.8594
- 722.168
- 266.1133
- 338.8672
- 338.8672
- 544.9219
- 550.7812
- 290.0391
- 321.7773
- 285.1562
- 413.0859
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 550.7812
- 285.1562
- 290.0391
- 550.7812
- 550.7812
- 550.7812
- 458.9844
- 866.2109
- 649.9023
- 642.0898
- 637.207
- 700.1953
- 560.0586
- 548.8281
- 724.1211
- 725.0977
- 389.1602
- 331.0547
- 633.7891
- 535.1562
- 913.0859
- 783.2031
- 755.8594
- 598.1445
- 755.8594
- 629.8828
- 523.9258
- 548.8281
- 715.8203
- 609.8633
- 926.7578
- 626.9531
- 583.9844
- 539.0625
- 331.0547
- 413.0859
- 331.0547
- 532.2266
- 411.1328
- 577.1484
- 574.2188
- 607.9102
- 499.0234
- 607.9102
- 581.0547
- 387.207
- 551.7578
- 626.9531
- 305.1758
- 305.1758
- 589.8438
- 305.1758
- 941.8945
- 626.9531
- 599.1211
- 607.9102
- 607.9102
- 434.082
- 480.957
- 414.0625
- 626.9531
- 539.0625
- 806.1523
- 547.8516
- 539.0625
- 457.0312
- 363.7695
- 550.7812
- 363.7695
- 550.7812
- 600.0977 ] >>
-endobj
-% 'R65': class PDFCatalog 
-65 0 obj
 % Document Root
-<< /Outlines 67 0 R
+<< /Outlines 63 0 R
  /PageMode /UseNone
- /Pages 76 0 R
+ /Pages 72 0 R
  /Type /Catalog >>
 endobj
-% 'R66': class PDFInfo 
-66 0 obj
+% 'R62': class PDFInfo 
+62 0 obj
 << /Author ()
- /CreationDate (D:20090916004052+03'00')
+ /CreationDate (D:20090916124653+03'00')
  /Keywords ()
  /Producer (ReportLab http://www.reportlab.com)
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-% 'R67': class PDFOutlines 
-67 0 obj
+% 'R63': class PDFOutlines 
+63 0 obj
 << /Count 8
- /First 68 0 R
- /Last 75 0 R
+ /First 64 0 R
+ /Last 71 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-68 0 obj
-<< /Dest [ 16 0 R
+64 0 obj
+<< /Dest [ 18 0 R
  /Fit ]
- /Next 69 0 R
- /Parent 67 0 R
+ /Next 65 0 R
+ /Parent 63 0 R
  /Title (Inline Markup) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-69 0 obj
-<< /Dest [ 16 0 R
+65 0 obj
+<< /Dest [ 18 0 R
  /Fit ]
- /Next 70 0 R
- /Parent 67 0 R
- /Prev 68 0 R
+ /Next 66 0 R
+ /Parent 63 0 R
+ /Prev 64 0 R
  /Title (Escaping with Backslashes) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-70 0 obj
-<< /Dest [ 16 0 R
+66 0 obj
+<< /Dest [ 18 0 R
  /Fit ]
- /Next 71 0 R
- /Parent 67 0 R
- /Prev 69 0 R
+ /Next 67 0 R
+ /Parent 63 0 R
+ /Prev 65 0 R
  /Title (Lists) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-71 0 obj
-<< /Dest [ 16 0 R
+67 0 obj
+<< /Dest [ 18 0 R
  /Fit ]
- /Next 72 0 R
- /Parent 67 0 R
- /Prev 70 0 R
+ /Next 68 0 R
+ /Parent 63 0 R
+ /Prev 66 0 R
  /Title (Section Structure) >>
 endobj
 % 'Outline.4': class OutlineEntryObject 
-72 0 obj
-<< /Dest [ 16 0 R
+68 0 obj
+<< /Dest [ 18 0 R
  /Fit ]
- /Next 73 0 R
- /Parent 67 0 R
- /Prev 71 0 R
+ /Next 69 0 R
+ /Parent 63 0 R
+ /Prev 67 0 R
  /Title (Blocks) >>
 endobj
 % 'Outline.5': class OutlineEntryObject 
-73 0 obj
-<< /Dest [ 52 0 R
+69 0 obj
+<< /Dest [ 54 0 R
  /Fit ]
- /Next 74 0 R
- /Parent 67 0 R
- /Prev 72 0 R
+ /Next 70 0 R
+ /Parent 63 0 R
+ /Prev 68 0 R
  /Title (Tables) >>
 endobj
 % 'Outline.6': class OutlineEntryObject 
-74 0 obj
-<< /Dest [ 52 0 R
+70 0 obj
+<< /Dest [ 54 0 R
  /Fit ]
- /Next 75 0 R
- /Parent 67 0 R
- /Prev 73 0 R
+ /Next 71 0 R
+ /Parent 63 0 R
+ /Prev 69 0 R
  /Title (Explicit Markup) >>
 endobj
 % 'Outline.7': class OutlineEntryObject 
-75 0 obj
-<< /Dest [ 52 0 R
+71 0 obj
+<< /Dest [ 54 0 R
  /Fit ]
- /Parent 67 0 R
- /Prev 74 0 R
+ /Parent 63 0 R
+ /Prev 70 0 R
  /Title (Credits) >>
 endobj
-% 'R76': class PDFPages 
-76 0 obj
+% 'R72': class PDFPages 
+72 0 obj
 % page tree
-<< /Count 2
- /Kids [ 16 0 R
- 52 0 R ]
+<< /Count 4
+ /Kids [ 18 0 R
+ 19 0 R
+ 54 0 R
+ 56 0 R ]
  /Type /Pages >>
 endobj
-% 'R77': class PDFStream 
-77 0 obj
+% 'R73': class PDFStream 
+73 0 obj
 % page stream
-<< /Length 26873 >>
+<< /Length 24621 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -2302,13 +1428,13 @@ q
 n 0 -1 400.526 12 re B*
 Q
 q
-BT 1 0 0 1 0 1.92 Tm 166.463 0 Td 8 TL 1 1 1 rg /F2+0 8 Tf 8 TL [  (Inline Markup) ] TJ T* -166.463 0 Td ET
+BT 1 0 0 1 0 2.256 Tm 174.479 0 Td 8 TL /F2 8 Tf 1 1 1 rg (Inline Markup) Tj T* -174.479 0 Td ET
 Q
 Q
 q
 1 0 0 1 6 556.2756 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Inline markup allows words and phrases within text to have character styles \(like italics and boldface\) and functionality \(like hyperlinks\).) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Inline markup allows words and phrases within text to have character styles \(like italics and boldface\) and functionality \(like hyperlinks\).) Tj T* ET
 Q
 Q
 q
@@ -2317,7 +1443,7 @@ Q
 q
 1 0 0 1 6 428.2756 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 117.8 cm
 q
@@ -2327,7 +1453,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (*emphasis*) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (*emphasis*) Tj T* ET
 Q
 Q
 Q
@@ -2336,7 +1462,7 @@ Q
 q
 1 0 0 1 206.263 117 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (emphasis) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F5 6 Tf 0 0 0 rg (emphasis) Tj T* ET
 Q
 Q
 q
@@ -2348,7 +1474,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (**strong emphasis**) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (**strong emphasis**) Tj T* ET
 Q
 Q
 Q
@@ -2357,7 +1483,7 @@ Q
 q
 1 0 0 1 206.263 107 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (strong emphasis) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F2 6 Tf 0 0 0 rg (strong emphasis) Tj T* ET
 Q
 Q
 q
@@ -2369,7 +1495,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (`interpreted text`) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (`interpreted text`) Tj T* ET
 Q
 Q
 Q
@@ -2378,7 +1504,7 @@ Q
 q
 1 0 0 1 206.263 89 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (The rendering and meaning of interpreted text is domain- or) ] TJ T* [  (application-dependent.) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (The rendering and meaning of interpreted text is domain- or) Tj T* (application-dependent.) Tj T* ET
 Q
 Q
 q
@@ -2390,7 +1516,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (``inline literal``) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (``inline literal``) Tj T* ET
 Q
 Q
 Q
@@ -2399,7 +1525,7 @@ Q
 q
 1 0 0 1 206.263 79 cm
 q
-BT 1 0 0 1 0 3.44 Tm 8 TL 0 0 0 rg /F2+0 6 Tf 8 TL [  (inline literal) ] TJ T* ET
+BT 1 0 0 1 0 3.44 Tm 8 TL 0 0 0 rg /F4+0 6 Tf 8 TL [  (inline literal) ] TJ T* ET
 Q
 Q
 q
@@ -2411,7 +1537,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (reference_) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (reference_) Tj T* ET
 Q
 Q
 Q
@@ -2420,7 +1546,7 @@ Q
 q
 1 0 0 1 206.263 69 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (phrase reference) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (phrase reference) Tj T* ET
 Q
 Q
 q
@@ -2432,7 +1558,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (`phrase reference`_) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (`phrase reference`_) Tj T* ET
 Q
 Q
 Q
@@ -2441,7 +1567,7 @@ Q
 q
 1 0 0 1 206.263 59 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (phrase reference) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (phrase reference) Tj T* ET
 Q
 Q
 q
@@ -2453,7 +1579,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (anonymous__) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (anonymous__) Tj T* ET
 Q
 Q
 Q
@@ -2462,7 +1588,7 @@ Q
 q
 1 0 0 1 206.263 49 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (anonymous) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (anonymous) Tj T* ET
 Q
 Q
 q
@@ -2474,7 +1600,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (_`inline internal target`) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (_`inline internal target`) Tj T* ET
 Q
 Q
 Q
@@ -2483,7 +1609,7 @@ Q
 q
 1 0 0 1 206.263 39 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (inline internal target) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (inline internal target) Tj T* ET
 Q
 Q
 q
@@ -2495,7 +1621,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (|substitution reference|) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (|substitution reference|) Tj T* ET
 Q
 Q
 Q
@@ -2504,7 +1630,7 @@ Q
 q
 1 0 0 1 206.263 29 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (The result is substituted in from the substitution definition.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (The result is substituted in from the substitution definition.) Tj T* ET
 Q
 Q
 q
@@ -2516,7 +1642,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (footnote reference [1]_) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (footnote reference [1]_) Tj T* ET
 Q
 Q
 Q
@@ -2525,7 +1651,7 @@ Q
 q
 1 0 0 1 206.263 19 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (footnote reference ) ] TJ 0 0 .501961 rg 3 Ts /F3+0 4 Tf 8 TL [  (1) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (footnote reference ) Tj /F1 4 Tf 0 0 .501961 rg 3 Ts (1) Tj T* ET
 Q
 Q
 q
@@ -2537,7 +1663,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (citation reference [CIT2002]_) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (citation reference [CIT2002]_) Tj T* ET
 Q
 Q
 Q
@@ -2546,7 +1672,7 @@ Q
 q
 1 0 0 1 206.263 9 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (citation reference ) ] TJ [  ([) ] TJ 0 0 .501961 rg [  (CIT2002) ] TJ 0 0 0 rg [  (]) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (citation reference ) Tj ([) Tj 0 0 .501961 rg (CIT2002) Tj 0 0 0 rg (]) Tj T* ET
 Q
 Q
 q
@@ -2558,7 +1684,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (http://docutils.sf.net/) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (http://docutils.sf.net/) Tj T* ET
 Q
 Q
 Q
@@ -2567,7 +1693,7 @@ Q
 q
 1 0 0 1 206.263 -1 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (http://docutils.sf.net/) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (http://docutils.sf.net/) Tj T* ET
 Q
 Q
 q
@@ -2611,13 +1737,13 @@ q
 n 0 -1 400.526 12 re B*
 Q
 q
-BT 1 0 0 1 0 1.92 Tm 135.263 0 Td 8 TL 1 1 1 rg /F2+0 8 Tf 8 TL [  (Escaping with Backslashes) ] TJ T* -135.263 0 Td ET
+BT 1 0 0 1 0 2.256 Tm 148.019 0 Td 8 TL /F2 8 Tf 1 1 1 rg (Escaping with Backslashes) Tj T* -148.019 0 Td ET
 Q
 Q
 q
 1 0 0 1 6 391.2756 cm
 q
-BT 1 0 0 1 0 11.40918 Tm .030116 Tw 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (reStructuredText uses backslashes \(""\) to override the special meaning given to markup characters and get the literal characters themselves. To get a) ] TJ T* 0 Tw [  (literal backslash, use an escaped backslash \("\\"\). For example:) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm .147809 Tw 8 TL /F1 6 Tf 0 0 0 rg (reStructuredText uses backslashes \(""\) to override the special meaning given to markup characters and get the literal characters themselves. To get a) Tj T* 0 Tw (literal backslash, use an escaped backslash \("\\"\). For example:) Tj T* ET
 Q
 Q
 q
@@ -2626,7 +1752,7 @@ Q
 q
 1 0 0 1 6 371.2756 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 9.8 cm
 q
@@ -2636,7 +1762,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (*escape* ``with`` "\\") Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (*escape* ``with`` "\\") Tj T* ET
 Q
 Q
 Q
@@ -2645,7 +1771,7 @@ Q
 q
 1 0 0 1 206.263 9 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (escape) ] TJ ( ) Tj /F2+0 6 Tf 8 TL [  (with) ] TJ /F3+0 6 Tf 8 TL [  ( "") ] TJ T* ET
+BT 1 0 0 1 0 3.44 Tm 8 TL /F5 6 Tf 0 0 0 rg (escape) Tj /F1 6 Tf ( ) Tj /F4+0 6 Tf 8 TL [  (with) ] TJ /F1 6 Tf ( "") Tj T* ET
 Q
 Q
 q
@@ -2657,7 +1783,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (\\*escape* \\``with`` "\\\\") Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (\\*escape* \\``with`` "\\\\") Tj T* ET
 Q
 Q
 Q
@@ -2666,7 +1792,7 @@ Q
 q
 1 0 0 1 206.263 -1 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (*escape* ``with`` "\\") ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (*escape* ``with`` "\\") Tj T* ET
 Q
 Q
 q
@@ -2690,18 +1816,18 @@ q
 n 0 -1 400.526 12 re B*
 Q
 q
-BT 1 0 0 1 0 1.92 Tm 187.263 0 Td 8 TL 1 1 1 rg /F2+0 8 Tf 8 TL [  (Lists) ] TJ T* -187.263 0 Td ET
+BT 1 0 0 1 0 2.256 Tm 190.927 0 Td 8 TL /F2 8 Tf 1 1 1 rg (Lists) Tj T* -190.927 0 Td ET
 Q
 Q
 q
 1 0 0 1 6 350.2756 cm
 Q
 q
-1 0 0 1 6 22.07559 cm
+1 0 0 1 6 88.87559 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
-1 0 0 1 6 269 cm
+1 0 0 1 6 202.2 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -2709,90 +1835,90 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 52.2 Tm /F2+0 5 Tf 7 TL (- This is item 1. A blank line before the first) Tj T* (  and last items is required.) Tj T* (- This is item 2) Tj T*  T* (- Item 3: blank lines between items are optional.) Tj T* (- Item 4: Bullets are "-", "*" or "+".) Tj T* (  Continuing text must be aligned after the bullet) Tj T* (  and whitespace.) Tj T* ET
+BT 1 0 0 1 0 52.2 Tm /F4+0 5 Tf 7 TL (- This is item 1. A blank line before the first) Tj T* (  and last items is required.) Tj T* (- This is item 2) Tj T*  T* (- Item 3: blank lines between items are optional.) Tj T* (- Item 4: Bullets are "-", "*" or "+".) Tj T* (  Continuing text must be aligned after the bullet) Tj T* (  and whitespace.) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 206.263 309.2 cm
+1 0 0 1 206.263 242.4 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 8 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 11.74414 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (\200) ] TJ T* -11.74414 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 11.9 0 Td 8 TL /F1 6 Tf 0 0 0 rg (\177) Tj T* -11.9 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 11.40918 Tm .417766 Tw 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (This is item 1. A blank line before the first and last items is) ] TJ T* 0 Tw [  (required.) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm .605461 Tw 8 TL /F1 6 Tf 0 0 0 rg (This is item 1. A blank line before the first and last items is) Tj T* 0 Tw (required.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 206.263 301.2 cm
+1 0 0 1 206.263 234.4 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 11.74414 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (\200) ] TJ T* -11.74414 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 11.9 0 Td 8 TL /F1 6 Tf 0 0 0 rg (\177) Tj T* -11.9 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (This is item 2) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (This is item 2) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 206.263 293.2 cm
+1 0 0 1 206.263 226.4 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 11.74414 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (\200) ] TJ T* -11.74414 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 11.9 0 Td 8 TL /F1 6 Tf 0 0 0 rg (\177) Tj T* -11.9 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Item 3: blank lines between items are optional.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Item 3: blank lines between items are optional.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 206.263 277.2 cm
+1 0 0 1 206.263 210.4 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 8 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 11.74414 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (\200) ] TJ T* -11.74414 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 11.9 0 Td 8 TL /F1 6 Tf 0 0 0 rg (\177) Tj T* -11.9 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 11.40918 Tm .760059 Tw 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Item 4: Bullets are "-", "*" or "+". Continuing text must be) ] TJ T* 0 Tw [  (aligned after the bullet and whitespace.) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 1.204817 Tw 8 TL /F1 6 Tf 0 0 0 rg (Item 4: Bullets are "-", "*" or "+". Continuing text must be) Tj T* 0 Tw (aligned after the bullet and whitespace.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 6 203.8 cm
+1 0 0 1 6 137 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -2800,160 +1926,109 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 59.2 Tm /F2+0 5 Tf 7 TL (3. This is the first item) Tj T* (4. This is the second item) Tj T* (5. Enumerators are arabic numbers,) Tj T* (   single letters, or roman numerals) Tj T* (6. List items should be sequentially) Tj T* (   numbered, but need not start at 1) Tj T* (   \(although not all formatters will) Tj T* (   honour the first index\).) Tj T* (#. This item is auto-enumerated) Tj T* ET
+BT 1 0 0 1 0 59.2 Tm /F4+0 5 Tf 7 TL (3. This is the first item) Tj T* (4. This is the second item) Tj T* (5. Enumerators are arabic numbers,) Tj T* (   single letters, or roman numerals) Tj T* (6. List items should be sequentially) Tj T* (   numbered, but need not start at 1) Tj T* (   \(although not all formatters will) Tj T* (   honour the first index\).) Tj T* (#. This item is auto-enumerated) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 206.263 259 cm
+1 0 0 1 206.263 192.2 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 9.086914 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (3.) ] TJ T* -9.086914 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 8.996 0 Td 8 TL /F1 6 Tf 0 0 0 rg (3.) Tj T* -8.996 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (This is the first item) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (This is the first item) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 206.263 251 cm
+1 0 0 1 206.263 184.2 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 9.086914 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (4.) ] TJ T* -9.086914 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 8.996 0 Td 8 TL /F1 6 Tf 0 0 0 rg (4.) Tj T* -8.996 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (This is the second item) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (This is the second item) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 206.263 235 cm
+1 0 0 1 206.263 168.2 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 8 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 9.086914 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (5.) ] TJ T* -9.086914 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 8.996 0 Td 8 TL /F1 6 Tf 0 0 0 rg (5.) Tj T* -8.996 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 1.011064 Tw 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Enumerators are arabic numbers, single letters, or roman) ] TJ T* 0 Tw [  (numerals) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 1.458713 Tw 8 TL /F1 6 Tf 0 0 0 rg (Enumerators are arabic numbers, single letters, or roman) Tj T* 0 Tw (numerals) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 206.263 211 cm
+1 0 0 1 206.263 144.2 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 16 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 9.086914 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (6.) ] TJ T* -9.086914 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 8.996 0 Td 8 TL /F1 6 Tf 0 0 0 rg (6.) Tj T* -8.996 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 19.40918 Tm .844031 Tw 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (List items should be sequentially numbered, but need not) ] TJ T* 0 Tw .747588 Tw [  (start at 1 \(although not all formatters will honour the first) ] TJ T* 0 Tw [  (index\).) ] TJ T* ET
+BT 1 0 0 1 0 19.692 Tm 1.314624 Tw 8 TL /F1 6 Tf 0 0 0 rg (List items should be sequentially numbered, but need not) Tj T* 0 Tw 1.420099 Tw (start at 1 \(although not all formatters will honour the first) Tj T* 0 Tw (index\).) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 206.263 203 cm
+1 0 0 1 206.263 136.2 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 9.086914 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (7.) ] TJ T* -9.086914 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 8.996 0 Td 8 TL /F1 6 Tf 0 0 0 rg (7.) Tj T* -8.996 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (This item is auto-enumerated) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (This item is auto-enumerated) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 6 130.8 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 .1 .1 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 66.2 Tm /F2+0 5 Tf 7 TL (what) Tj T* (  Definition lists associate a term with) Tj T* (  a definition.) Tj T*  T* (how) Tj T* (  The term is a one-line phrase, and the) Tj T* (  definition is one or more paragraphs or) Tj T* (  body elements, indented relative to the) Tj T* (  term. Blank lines are not allowed) Tj T* (  between term and definition.) Tj T* ET
-Q
-Q
-Q
-Q
-Q
-q
-1 0 0 1 206.263 193 cm
-q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F5+0 6 Tf 8 TL [  (what) ] TJ T* ET
-Q
-Q
-q
-1 0 0 1 206.263 193 cm
-Q
-q
-1 0 0 1 206.263 185 cm
-q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Definition lists associate a term with a definition.) ] TJ T* ET
-Q
-Q
-q
-1 0 0 1 206.263 185 cm
-Q
-q
-1 0 0 1 206.263 173 cm
-q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F5+0 6 Tf 8 TL [  (how) ] TJ T* ET
-Q
-Q
-q
-1 0 0 1 206.263 173 cm
-Q
-q
-1 0 0 1 206.263 149 cm
-q
-BT 1 0 0 1 0 19.40918 Tm 1.459335 Tw 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (The term is a one-line phrase, and the definition is one or more) ] TJ T* 0 Tw 1.101053 Tw [  (paragraphs or body elements, indented relative to the term. Blank) ] TJ T* 0 Tw [  (lines are not allowed between term and definition.) ] TJ T* ET
-Q
-Q
-q
-1 0 0 1 206.263 149 cm
-Q
-q
-1 0 0 1 6 72.6 cm
+1 0 0 1 6 64 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -2961,78 +2036,148 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 52.2 Tm /F2+0 5 Tf 7 TL (:Authors:) Tj T* (    Tony J. \(Tibs\) Ibbs,) Tj T* (    David Goodger) Tj T*  T* (    \(and sundry other good-natured folks\)) Tj T*  T* (:Version: 1.0 of 2001/08/08) Tj T* (:Dedication: To my father.) Tj T* ET
+BT 1 0 0 1 0 66.2 Tm /F4+0 5 Tf 7 TL (what) Tj T* (  Definition lists associate a term with) Tj T* (  a definition.) Tj T*  T* (how) Tj T* (  The term is a one-line phrase, and the) Tj T* (  definition is one or more paragraphs or) Tj T* (  body elements, indented relative to the) Tj T* (  term. Blank lines are not allowed) Tj T* (  between term and definition.) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 206.263 122.8 cm
+1 0 0 1 206.263 126.2 cm
+q
+BT 1 0 0 1 0 3.692 Tm 8 TL /F2 6 Tf 0 0 0 rg (what) Tj T* ET
+Q
 Q
 q
-1 0 0 1 206.263 95.8 cm
+1 0 0 1 206.263 126.2 cm
+Q
+q
+1 0 0 1 206.263 118.2 cm
+q
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Definition lists associate a term with a definition.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206.263 118.2 cm
+Q
+q
+1 0 0 1 206.263 106.2 cm
+q
+BT 1 0 0 1 0 3.692 Tm 8 TL /F2 6 Tf 0 0 0 rg (how) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206.263 106.2 cm
+Q
+q
+1 0 0 1 206.263 82.2 cm
+q
+BT 1 0 0 1 0 19.692 Tm 1.765583 Tw 8 TL /F1 6 Tf 0 0 0 rg (The term is a one-line phrase, and the definition is one or more) Tj T* 0 Tw .017499 Tw (paragraphs or body elements, indented relative to the term. Blank lines) Tj T* 0 Tw (are not allowed between term and definition.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206.263 82.2 cm
+Q
+q
+1 0 0 1 6 5.8 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 .1 .1 cm
+q
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT 1 0 0 1 0 52.2 Tm /F4+0 5 Tf 7 TL (:Authors:) Tj T* (    Tony J. \(Tibs\) Ibbs,) Tj T* (    David Goodger) Tj T*  T* (    \(and sundry other good-natured folks\)) Tj T*  T* (:Version: 1.0 of 2001/08/08) Tj T* (:Dedication: To my father.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
 q
-1 0 0 1 6 19 cm
+1 0 0 1 206.263 56 cm
+Q
 q
-BT 1 0 0 1 0 3.40918 Tm 48.33625 0 Td 8 TL 0 0 0 rg /F5+0 6 Tf 8 TL [  (Authors:) ] TJ T* -48.33625 0 Td ET
+1 0 0 1 206.263 21 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+BT 1 0 0 1 0 3.692 Tm 48.04337 0 Td 8 TL /F2 6 Tf 0 0 0 rg (Authors:) Tj T* -48.04337 0 Td ET
 Q
 Q
 q
 1 0 0 1 91.03937 19 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Tony J. \(Tibs\) Ibbs, David Goodger) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Tony J. \(Tibs\) Ibbs, David) Tj T* (Goodger) Tj T* ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (\(and sundry other good-natured) ] TJ T* [  (folks\)) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (\(and sundry other good-natured) Tj T* (folks\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 206.263 84.8 cm
+1 0 0 1 206.263 10 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 49.50519 0 Td 8 TL 0 0 0 rg /F5+0 6 Tf 8 TL [  (Version:) ] TJ T* -49.50519 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 49.03337 0 Td 8 TL /F2 6 Tf 0 0 0 rg (Version:) Tj T* -49.03337 0 Td ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (1.0 of 2001/08/08) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (1.0 of 2001/08/08) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 206.263 73.8 cm
+1 0 0 1 206.263 -1 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 40.05109 0 Td 8 TL 0 0 0 rg /F5+0 6 Tf 8 TL [  (Dedication:) ] TJ T* -40.05109 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 40.36937 0 Td 8 TL /F2 6 Tf 0 0 0 rg (Dedication:) Tj T* -40.36937 0 Td ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (To my father.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (To my father.) Tj T* ET
 Q
 Q
 q
 Q
 Q
+q
+1 J
+1 j
+.882353 .901961 .917647 RG
+.2 w
+n 0 203.2 m 400.526 203.2 l S
+n 0 137.2 m 400.526 137.2 l S
+n 0 65 m 400.526 65 l S
+n 0 0 m 400.526 0 l S
+n 0 203.2 m 400.526 203.2 l S
+n 0 137.2 m 400.526 137.2 l S
+n 0 65 m 400.526 65 l S
+n 0 0 m 400.526 0 l S
+Q
+Q
+q
+1 0 0 1 435.3638 504.6756 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 21.4 cm
 q
@@ -3042,7 +2187,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 45.2 Tm /F2+0 5 Tf 7 TL (-a            command-line option "a") Tj T* (-b file       options can have arguments) Tj T* (              and long descriptions) Tj T* (--long        options can be long also) Tj T* (--input=file  long options can also have) Tj T* (              arguments) Tj T* (/V            DOS/VMS-style options too) Tj T* ET
+BT 1 0 0 1 0 45.2 Tm /F4+0 5 Tf 7 TL (-a            command-line option "a") Tj T* (-b file       options can have arguments) Tj T* (              and long descriptions) Tj T* (--long        options can be long also) Tj T* (--input=file  long options can also have) Tj T* (              arguments) Tj T* (/V            DOS/VMS-style options too) Tj T* ET
 Q
 Q
 Q
@@ -3051,7 +2196,7 @@ Q
 q
 1 0 0 1 206.263 59.4 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
@@ -3061,7 +2206,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.44 Tm /F2+0 6 Tf 8 TL (-a) Tj T* ET
+BT 1 0 0 1 0 3.44 Tm /F4+0 6 Tf 8 TL (-a) Tj T* ET
 Q
 Q
 Q
@@ -3070,7 +2215,7 @@ Q
 q
 1 0 0 1 100.1315 3.2 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (command-line option "a") ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (command-line option "a") Tj T* ET
 Q
 Q
 q
@@ -3079,7 +2224,7 @@ Q
 q
 1 0 0 1 206.263 40.4 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 10.8 cm
 q
@@ -3089,7 +2234,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.44 Tm /F2+0 6 Tf 8 TL (-b file) Tj T* ET
+BT 1 0 0 1 0 3.44 Tm /F4+0 6 Tf 8 TL (-b file) Tj T* ET
 Q
 Q
 Q
@@ -3098,7 +2243,7 @@ Q
 q
 1 0 0 1 100.1315 3 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (options can have arguments) ] TJ T* [  (and long descriptions) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (options can have arguments) Tj T* (and long descriptions) Tj T* ET
 Q
 Q
 q
@@ -3107,7 +2252,7 @@ Q
 q
 1 0 0 1 206.263 29.2 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
@@ -3117,7 +2262,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.44 Tm /F2+0 6 Tf 8 TL (--long) Tj T* ET
+BT 1 0 0 1 0 3.44 Tm /F4+0 6 Tf 8 TL (--long) Tj T* ET
 Q
 Q
 Q
@@ -3126,7 +2271,7 @@ Q
 q
 1 0 0 1 100.1315 3.2 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (options can be long also) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (options can be long also) Tj T* ET
 Q
 Q
 q
@@ -3135,7 +2280,7 @@ Q
 q
 1 0 0 1 206.263 10.2 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 10.8 cm
 q
@@ -3145,7 +2290,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.44 Tm /F2+0 6 Tf 8 TL (--input=file) Tj T* ET
+BT 1 0 0 1 0 3.44 Tm /F4+0 6 Tf 8 TL (--input=file) Tj T* ET
 Q
 Q
 Q
@@ -3154,7 +2299,7 @@ Q
 q
 1 0 0 1 100.1315 3 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (long options can also have) ] TJ T* [  (arguments) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (long options can also have) Tj T* (arguments) Tj T* ET
 Q
 Q
 q
@@ -3163,7 +2308,7 @@ Q
 q
 1 0 0 1 206.263 -1 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
@@ -3173,7 +2318,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.44 Tm /F2+0 6 Tf 8 TL (/V) Tj T* ET
+BT 1 0 0 1 0 3.44 Tm /F4+0 6 Tf 8 TL (/V) Tj T* ET
 Q
 Q
 Q
@@ -3182,7 +2327,7 @@ Q
 q
 1 0 0 1 100.1315 3.2 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (DOS/VMS-style options too) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (DOS/VMS-style options too) Tj T* ET
 Q
 Q
 q
@@ -3193,21 +2338,15 @@ q
 1 j
 .882353 .901961 .917647 RG
 .2 w
-n 0 270 m 400.526 270 l S
-n 0 204 m 400.526 204 l S
-n 0 131.8 m 400.526 131.8 l S
 n 0 73.6 m 400.526 73.6 l S
-n 0 270 m 400.526 270 l S
-n 0 204 m 400.526 204 l S
-n 0 131.8 m 400.526 131.8 l S
 n 0 73.6 m 400.526 73.6 l S
 Q
 Q
 q
-1 0 0 1 6 19.07559 cm
+1 0 0 1 435.3638 501.6756 cm
 Q
 q
-1 0 0 1 435.3638 570.2756 cm
+1 0 0 1 435.3638 489.6756 cm
 q
 .266667 .407843 .521569 RG
 .2 w
@@ -3215,16 +2354,16 @@ q
 n 0 -1 400.526 12 re B*
 Q
 q
-BT 1 0 0 1 0 1.92 Tm 156.063 0 Td 8 TL 1 1 1 rg /F2+0 8 Tf 8 TL [  (Section Structure) ] TJ T* -156.063 0 Td ET
+BT 1 0 0 1 0 2.256 Tm 166.923 0 Td 8 TL /F2 8 Tf 1 1 1 rg (Section Structure) Tj T* -166.923 0 Td ET
 Q
 Q
 q
-1 0 0 1 435.3638 564.2756 cm
+1 0 0 1 435.3638 483.6756 cm
 Q
 q
-1 0 0 1 435.3638 499.0756 cm
+1 0 0 1 435.3638 418.4756 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 -1 cm
 q
@@ -3234,7 +2373,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 59.2 Tm /F2+0 5 Tf 7 TL (Title) Tj T* (=====) Tj T*  T* (Titles are underlined \(or over- and underlined\) with) Tj T* (a nonalphanumeric character at least as long as the) Tj T* (text.) Tj T*  T* (A lone top-level section is lifted up to be the) Tj T* (document's title) Tj T* ET
+BT 1 0 0 1 0 59.2 Tm /F4+0 5 Tf 7 TL (Title) Tj T* (=====) Tj T*  T* (Titles are underlined \(or over- and underlined\) with) Tj T* (a nonalphanumeric character at least as long as the) Tj T* (text.) Tj T*  T* (A lone top-level section is lifted up to be the) Tj T* (document's title) Tj T* ET
 Q
 Q
 Q
@@ -3243,19 +2382,19 @@ Q
 q
 1 0 0 1 206.263 52.6 cm
 q
-BT 1 0 0 1 0 3.52 Tm 9.6 TL 0 0 0 rg /F2+0 8 Tf 9.6 TL [  (Title) ] TJ T* ET
+BT 1 0 0 1 0 3.856 Tm 9.6 TL /F2 8 Tf 0 0 0 rg (Title) Tj T* ET
 Q
 Q
 q
 1 0 0 1 206.263 32.6 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Titles are underlined \(or over- and underlined\) with a) ] TJ T* [  (nonalphanumeric character at least as long as the text.) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Titles are underlined \(or over- and underlined\) with a nonalphanumeric) Tj T* (character at least as long as the text.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 206.263 21.6 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (A lone top-level section is lifted up to be the document's title) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (A lone top-level section is lifted up to be the document's title) Tj T* ET
 Q
 Q
 q
@@ -3264,10 +2403,10 @@ q
 Q
 Q
 q
-1 0 0 1 435.3638 496.0756 cm
+1 0 0 1 435.3638 415.4756 cm
 Q
 q
-1 0 0 1 435.3638 484.0756 cm
+1 0 0 1 435.3638 403.4756 cm
 q
 .266667 .407843 .521569 RG
 .2 w
@@ -3275,65 +2414,18 @@ q
 n 0 -1 400.526 12 re B*
 Q
 q
-BT 1 0 0 1 0 1.92 Tm 184.663 0 Td 8 TL 1 1 1 rg /F2+0 8 Tf 8 TL [  (Blocks) ] TJ T* -184.663 0 Td ET
+BT 1 0 0 1 0 2.256 Tm 187.147 0 Td 8 TL /F2 8 Tf 1 1 1 rg (Blocks) Tj T* -187.147 0 Td ET
 Q
 Q
 q
-1 0 0 1 435.3638 478.0756 cm
+1 0 0 1 435.3638 397.4756 cm
 Q
 q
-1 0 0 1 435.3638 92.07559 cm
+1 0 0 1 435.3638 76.67559 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
-1 0 0 1 6 354.8 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 .1 .1 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 24.2 Tm /F2+0 5 Tf 7 TL (This is a paragraph.) Tj T*  T* (Paragraphs line up at their left edges, and are) Tj T* (normally separated by blank lines.) Tj T* ET
-Q
-Q
-Q
-Q
-Q
-q
-1 0 0 1 206.263 375 cm
-q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (This is a paragraph.) ] TJ T* ET
-Q
-Q
-q
-1 0 0 1 206.263 356 cm
-q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Paragraphs line up at their left edges, and are normally separated by) ] TJ T* [  (blank lines.) ] TJ T* ET
-Q
-Q
-q
-1 0 0 1 6 219.6 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 .1 .1 cm
-q
-BT 1 0 0 1 0 129.2 Tm 7 TL 0 0 0 rg /F2+0 5 Tf 7 TL (A paragraph containing only two colons indicates) Tj T* (the following indented or quoted text is a literal) Tj T* (block or quoted text is a literal block.) Tj T*  T* (::) Tj T*  T* (  Whitespace, newlines, blank lines, and  all kinds of) Tj T* (  markup \(like *this* or \\this\) is preserved here.) Tj T*  T* (You can also tack the ``::`` at the end of a) Tj T* (paragraph::) Tj T*  T* (   It's very convenient to use this form.) Tj T*  T* (Per-line quoting can also be used for unindented) Tj T* (blocks::) Tj T*  T* (>) Tj ( Useful for quotes from email and) Tj T* (>) Tj ( for Haskell literate programming.) Tj T* ET
-Q
-Q
-Q
-Q
-Q
-q
-1 0 0 1 206.263 336.8 cm
-q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (A paragraph containing only two colons indicates that the following) ] TJ T* [  (indented or quoted text is a literal block.) ] TJ T* ET
-Q
-Q
-q
-1 0 0 1 206.263 312.6 cm
+1 0 0 1 6 289.6 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3341,20 +2433,46 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 17.2 Tm /F2+0 5 Tf 7 TL (Whitespace, newlines, blank lines, and) Tj T* (all kinds of markup \(like *this* or) Tj T* (\\this\) is preserved by literal blocks.) Tj T* ET
+BT 1 0 0 1 0 24.2 Tm /F4+0 5 Tf 7 TL (This is a paragraph.) Tj T*  T* (Paragraphs line up at their left edges, and are) Tj T* (normally separated by blank lines.) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 206.263 301.6 cm
+1 0 0 1 206.263 309.8 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (You can also tack the ) ] TJ /F2+0 6 Tf 8 TL [  (::) ] TJ /F3+0 6 Tf 8 TL [  ( at the end of a paragraph:) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (This is a paragraph.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 291.4 cm
+1 0 0 1 206.263 290.8 cm
+q
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Paragraphs line up at their left edges, and are normally separated by) Tj T* (blank lines.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 154.4 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 .1 .1 cm
+q
+BT 1 0 0 1 0 129.2 Tm 7 TL 0 0 0 rg /F4+0 5 Tf 7 TL (A paragraph containing only two colons indicates) Tj T* (the following indented or quoted text is a literal) Tj T* (block or quoted text is a literal block.) Tj T*  T* (::) Tj T*  T* (  Whitespace, newlines, blank lines, and  all kinds of) Tj T* (  markup \(like *this* or \\this\) is preserved here.) Tj T*  T* (You can also tack the ``::`` at the end of a) Tj T* (paragraph::) Tj T*  T* (   It's very convenient to use this form.) Tj T*  T* (Per-line quoting can also be used for unindented) Tj T* (blocks::) Tj T*  T* (>) Tj ( Useful for quotes from email and) Tj T* (>) Tj ( for Haskell literate programming.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 206.263 271.6 cm
+q
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (A paragraph containing only two colons indicates that the following) Tj T* (indented or quoted text is a literal block.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206.263 247.4 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3362,34 +2480,20 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3.2 Tm /F2+0 5 Tf 7 TL (It's very convenient to use this form.) Tj T* ET
+BT 1 0 0 1 0 17.2 Tm /F4+0 5 Tf 7 TL (Whitespace, newlines, blank lines, and) Tj T* (all kinds of markup \(like *this* or) Tj T* (\\this\) is preserved by literal blocks.) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 206.263 280.4 cm
+1 0 0 1 206.263 236.4 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Per-line quoting can also be used for unindented blocks:) ] TJ T* ET
+BT 1 0 0 1 0 3.44 Tm 8 TL /F1 6 Tf 0 0 0 rg (You can also tack the ) Tj /F4+0 6 Tf 8 TL [  (::) ] TJ /F1 6 Tf ( at the end of a paragraph:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 263.2 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 .1 .1 cm
-q
-BT 1 0 0 1 0 10.2 Tm 7 TL 0 0 0 rg /F2+0 5 Tf 7 TL (>) Tj ( Useful for quotes from email and) Tj T* (>) Tj ( for Haskell literate programming.) Tj T* ET
-Q
-Q
-Q
-Q
-Q
-q
-1 0 0 1 6 147.4 cm
+1 0 0 1 206.263 226.2 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3397,62 +2501,97 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 66.2 Tm /F2+0 5 Tf 7 TL (| Line blocks are useful for addresses,) Tj T* (| verse, and adornment-free lists.) Tj T* (|) Tj T* (| Each new line begins with a) Tj T* (| vertical bar \("|"\).) Tj T* (|     Line breaks and initial indents) Tj T* (|     are preserved.) Tj T* (| Continuation lines are wrapped) Tj T* (  portions of long lines; they begin) Tj T* (  with spaces in place of vertical bars.) Tj T* ET
+BT 1 0 0 1 0 3.2 Tm /F4+0 5 Tf 7 TL (It's very convenient to use this form.) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 206.263 209.6 cm
+1 0 0 1 206.263 215.2 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Line blocks are useful for addresses,) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Per-line quoting can also be used for unindented blocks:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 201.6 cm
+1 0 0 1 206.263 198 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (verse, and adornment-free lists.) ] TJ T* ET
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 .1 .1 cm
+q
+BT 1 0 0 1 0 10.2 Tm 7 TL 0 0 0 rg /F4+0 5 Tf 7 TL (>) Tj ( Useful for quotes from email and) Tj T* (>) Tj ( for Haskell literate programming.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 82.2 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 .1 .1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 66.2 Tm /F4+0 5 Tf 7 TL (| Line blocks are useful for addresses,) Tj T* (| verse, and adornment-free lists.) Tj T* (|) Tj T* (| Each new line begins with a) Tj T* (| vertical bar \("|"\).) Tj T* (|     Line breaks and initial indents) Tj T* (|     are preserved.) Tj T* (| Continuation lines are wrapped) Tj T* (  portions of long lines; they begin) Tj T* (  with spaces in place of vertical bars.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 206.263 144.4 cm
+q
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Line blocks are useful for addresses,) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 193.6 cm
+1 0 0 1 206.263 136.4 cm
+q
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (verse, and adornment-free lists.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206.263 128.4 cm
 q
 BT 1 0 0 1 0 8 Tm 8 TL ET
 Q
 Q
 q
-1 0 0 1 206.263 185.6 cm
+1 0 0 1 206.263 120.4 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Each new line begins with a) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Each new line begins with a) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 177.6 cm
+1 0 0 1 206.263 112.4 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (vertical bar \("|"\).) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (vertical bar \("|"\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 169.6 cm
+1 0 0 1 206.263 104.4 cm
 q
-BT 1 0 0 1 9 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Line breaks and initial indents) ] TJ T* ET
+BT 1 0 0 1 9 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Line breaks and initial indents) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 161.6 cm
+1 0 0 1 206.263 96.4 cm
 q
-BT 1 0 0 1 9 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (are preserved.) ] TJ T* ET
+BT 1 0 0 1 9 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (are preserved.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 145.6 cm
+1 0 0 1 206.263 80.4 cm
 q
-BT 1 0 0 1 0 11.40918 Tm .033819 Tw 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Continuation lines are wrapped portions of long lines; they begin with) ] TJ T* 0 Tw [  (spaces in place of vertical bars.) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm .550899 Tw 8 TL /F1 6 Tf 0 0 0 rg (Continuation lines are wrapped portions of long lines; they begin with) Tj T* 0 Tw (spaces in place of vertical bars.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 108.4 cm
+1 0 0 1 6 43.2 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3460,30 +2599,30 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 31.2 Tm /F2+0 5 Tf 7 TL (Block quotes are just:) Tj T*  T* (    Indented paragraphs,) Tj T*  T* (        and they may nest.) Tj T* ET
+BT 1 0 0 1 0 31.2 Tm /F4+0 5 Tf 7 TL (Block quotes are just:) Tj T*  T* (    Indented paragraphs,) Tj T*  T* (        and they may nest.) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 206.263 135.6 cm
+1 0 0 1 206.263 70.4 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Block quotes are just:) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Block quotes are just:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 132.6 cm
+1 0 0 1 206.263 67.4 cm
 Q
 q
-1 0 0 1 206.263 109.6 cm
+1 0 0 1 206.263 44.4 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 15 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Indented paragraphs,) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Indented paragraphs,) Tj T* ET
 Q
 Q
 q
@@ -3492,12 +2631,12 @@ Q
 q
 1 0 0 1 20 0 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (and they may nest.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (and they may nest.) Tj T* ET
 Q
 Q
 q
@@ -3510,41 +2649,7 @@ q
 Q
 Q
 q
-1 0 0 1 206.263 109.6 cm
-Q
-q
-1 0 0 1 6 64.2 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 .1 .1 cm
-q
-BT 1 0 0 1 0 38.2 Tm 7 TL 0 0 0 rg /F2+0 5 Tf 7 TL (Doctest blocks are interactive) Tj T* (Python sessions. They begin with) Tj T* ("``) Tj (>) Tj (>) Tj (>) Tj (``" and end with a blank line.) Tj T*  T* (>) Tj (>) Tj (>) Tj ( print "This is a doctest block.") Tj T* (This is a doctest block.) Tj T* ET
-Q
-Q
-Q
-Q
-Q
-q
-1 0 0 1 206.263 90.4 cm
-q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Doctest blocks are interactive Python sessions. They begin with ") ] TJ /F2+0 6 Tf 8 TL [  (>) ] TJ [  (>) ] TJ [  (>) ] TJ /F3+0 6 Tf 8 TL [  (") ] TJ T* [  (and end with a blank line.) ] TJ T* ET
-Q
-Q
-q
-1 0 0 1 206.263 73.2 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 .1 .1 cm
-q
-BT 1 0 0 1 0 10.2 Tm 7 TL 0 0 0 rg /F2+0 5 Tf 7 TL (>) Tj (>) Tj (>) Tj ( print "This is a doctest block.") Tj T* (This is a doctest block.) Tj T* ET
-Q
-Q
-Q
-Q
+1 0 0 1 206.263 44.4 cm
 Q
 q
 1 0 0 1 6 -1 cm
@@ -3554,41 +2659,30 @@ q
 q
 1 0 0 1 .1 .1 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 59.2 Tm /F2+0 5 Tf 7 TL (A transition marker is a horizontal line) Tj T* (of 4 or more repeated punctuation) Tj T* (characters.) Tj T*  T* (------------) Tj T*  T* (A transition should not begin or end a) Tj T* (section or document, nor should two) Tj T* (transitions be immediately adjacent.) Tj T* ET
+BT 1 0 0 1 0 38.2 Tm 7 TL 0 0 0 rg /F4+0 5 Tf 7 TL (Doctest blocks are interactive) Tj T* (Python sessions. They begin with) Tj T* ("``) Tj (>) Tj (>) Tj (>) Tj (``" and end with a blank line.) Tj T*  T* (>) Tj (>) Tj (>) Tj ( print "This is a doctest block.") Tj T* (This is a doctest block.) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 206.263 46.2 cm
+1 0 0 1 206.263 25.2 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (A transition marker is a horizontal line of 4 or more repeated) ] TJ T* [  (punctuation characters.) ] TJ T* ET
+BT 1 0 0 1 0 11.44 Tm 8 TL /F1 6 Tf 0 0 0 rg (Doctest blocks are interactive Python sessions. They begin with ") Tj /F4+0 6 Tf 8 TL [  (>) ] TJ [  (>) ] TJ [  (>) ] TJ /F1 6 Tf (") Tj T* (and end with a blank line.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 43.2 cm
-Q
+1 0 0 1 206.263 8 cm
 q
-1 0 0 1 206.263 41.2 cm
-0 0 0 rg
-BT /F4 10 Tf 12 TL ET
 q
-1 J
-1 j
-.266667 .407843 .521569 RG
-.8 w
-n 0 2 m 188.263 2 l S
+1 0 0 1 0 0 cm
+q
+1 0 0 1 .1 .1 cm
+q
+BT 1 0 0 1 0 10.2 Tm 7 TL 0 0 0 rg /F4+0 5 Tf 7 TL (>) Tj (>) Tj (>) Tj ( print "This is a doctest block.") Tj T* (This is a doctest block.) Tj T* ET
 Q
 Q
-q
-1 0 0 1 206.263 38.2 cm
 Q
-q
-1 0 0 1 206.263 22.2 cm
-q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (A transition should not begin or end a section or document, nor) ] TJ T* [  (should two transitions be immediately adjacent.) ] TJ T* ET
 Q
 Q
 q
@@ -3596,62 +2690,56 @@ q
 1 j
 .882353 .901961 .917647 RG
 .2 w
-n 0 355.8 m 400.526 355.8 l S
-n 0 220.6 m 400.526 220.6 l S
-n 0 146.6 m 400.526 146.6 l S
-n 0 109.4 m 400.526 109.4 l S
-n 0 65.2 m 400.526 65.2 l S
-n 0 355.8 m 400.526 355.8 l S
-n 0 220.6 m 400.526 220.6 l S
-n 0 146.6 m 400.526 146.6 l S
-n 0 109.4 m 400.526 109.4 l S
-n 0 65.2 m 400.526 65.2 l S
+n 0 290.6 m 400.526 290.6 l S
+n 0 155.4 m 400.526 155.4 l S
+n 0 81.4 m 400.526 81.4 l S
+n 0 44.2 m 400.526 44.2 l S
+n 0 0 m 400.526 0 l S
+n 0 290.6 m 400.526 290.6 l S
+n 0 155.4 m 400.526 155.4 l S
+n 0 81.4 m 400.526 81.4 l S
+n 0 44.2 m 400.526 44.2 l S
+n 0 0 m 400.526 0 l S
 Q
-Q
-q
-1 0 0 1 435.3638 89.07559 cm
-Q
-q
-1 0 0 1 435.3638 89.07559 cm
 Q
 q
 1 0 0 1 0 3 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 -3 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (\201 ) ] TJ [  (2009 Roberto Alsina ) ] TJ [  (<) ] TJ [  (ralsina@netmanagers.com.ar) ] TJ [  (>) ] TJ [  ( / Creative Commons Attribution-Noncommercial-Share Alike 2.5 Argentina License) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (\251 ) Tj (2009 Roberto Alsina ) Tj (<) Tj (ralsina@netmanagers.com.ar) Tj (>) Tj ( / Creative Commons Attribution-Noncommercial-Share Alike 2.5 Argentina License) Tj T* ET
 Q
 Q
 q
 1 0 0 1 443.7827 -3 cm
 q
 q
-8 0 0 8 0 1.80918 cm
+8 0 0 8 0 2.092 cm
 /FormXob.23ec01b5926120c2ac8f7d3203df8a61 Do
 Q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 8 0 Td 0 0 0 rg /F3+0 6 Tf 8 TL ( ) Tj [  (Based on quickref.txt from docutils) ] TJ T* -8 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Based on quickref.txt from docutils) Tj T* -8 0 Td ET
 Q
 Q
 q
 1 0 0 1 603.7417 -3 cm
 q
 q
-8 0 0 8 0 1.80918 cm
+8 0 0 8 0 2.092 cm
 /FormXob.dc18cc4d2a9c353a3afb5106eba8aaef Do
 Q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 8 0 Td 0 0 0 rg /F3+0 6 Tf 8 TL ( ) Tj [  (Non-Commercial) ] TJ T* -8 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Non-Commercial) Tj T* -8 0 Td ET
 Q
 Q
 q
 1 0 0 1 704.7685 -3 cm
 q
 q
-8 0 0 8 0 1.80918 cm
+8 0 0 8 0 2.092 cm
 /FormXob.11ef1b810312a287afd25554121e3b6a Do
 Q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 8 0 Td 0 0 0 rg /F3+0 6 Tf 8 TL ( ) Tj [  (Share Alike) ] TJ T* -8 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Share Alike) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3666,10 +2754,132 @@ Q
 endstream
 
 endobj
-% 'R78': class PDFStream 
-78 0 obj
+% 'R74': class PDFStream 
+74 0 obj
 % page stream
-<< /Length 25991 >>
+<< /Length 2285 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 513.0756 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 -1 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 .1 .1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 59.2 Tm /F4+0 5 Tf 7 TL (A transition marker is a horizontal line) Tj T* (of 4 or more repeated punctuation) Tj T* (characters.) Tj T*  T* (------------) Tj T*  T* (A transition should not begin or end a) Tj T* (section or document, nor should two) Tj T* (transitions be immediately adjacent.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 206.263 46.2 cm
+q
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (A transition marker is a horizontal line of 4 or more repeated) Tj T* (punctuation characters.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206.263 43.2 cm
+Q
+q
+1 0 0 1 206.263 41.2 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 J
+1 j
+.266667 .407843 .521569 RG
+.8 w
+n 0 2 m 188.263 2 l S
+Q
+Q
+q
+1 0 0 1 206.263 38.2 cm
+Q
+q
+1 0 0 1 206.263 22.2 cm
+q
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (A transition should not begin or end a section or document, nor should) Tj T* (two transitions be immediately adjacent.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.882353 .901961 .917647 RG
+.2 w
+n 0 65.2 m 400.526 65.2 l S
+n 0 65.2 m 400.526 65.2 l S
+Q
+Q
+q
+1 0 0 1 6 510.0756 cm
+Q
+q
+1 0 0 1 6 510.0756 cm
+Q
+q
+1 0 0 1 0 3 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (\251 ) Tj (2009 Roberto Alsina ) Tj (<) Tj (ralsina@netmanagers.com.ar) Tj (>) Tj ( / Creative Commons Attribution-Noncommercial-Share Alike 2.5 Argentina License) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.7827 -3 cm
+q
+q
+8 0 0 8 0 2.092 cm
+/FormXob.23ec01b5926120c2ac8f7d3203df8a61 Do
+Q
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Based on quickref.txt from docutils) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 603.7417 -3 cm
+q
+q
+8 0 0 8 0 2.092 cm
+/FormXob.dc18cc4d2a9c353a3afb5106eba8aaef Do
+Q
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Non-Commercial) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 704.7685 -3 cm
+q
+q
+8 0 0 8 0 2.092 cm
+/FormXob.11ef1b810312a287afd25554121e3b6a Do
+Q
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Share Alike) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.266667 .407843 .521569 RG
+.4 w
+n 0 8 m 841.8898 8 l S
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R75': class PDFStream 
+75 0 obj
+% page stream
+<< /Length 24036 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -3681,13 +2891,13 @@ q
 n 0 -1 400.526 12 re B*
 Q
 q
-BT 1 0 0 1 0 1.92 Tm 184.663 0 Td 8 TL 1 1 1 rg /F2+0 8 Tf 8 TL [  (Tables) ] TJ T* -184.663 0 Td ET
+BT 1 0 0 1 0 2.256 Tm 187.591 0 Td 8 TL /F2 8 Tf 1 1 1 rg (Tables) Tj T* -187.591 0 Td ET
 Q
 Q
 q
 1 0 0 1 6 548.2756 cm
 q
-BT 1 0 0 1 0 11.40918 Tm .701776 Tw 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (There are two syntaxes for tables in reStructuredText. Grid tables are complete but cumbersome to create. Simple tables are easy to create but) ] TJ T* 0 Tw [  (limited \(no row spans, etc.\).) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm .044695 Tw 8 TL /F1 6 Tf 0 0 0 rg (There are two syntaxes for tables in reStructuredText. Grid tables are complete but cumbersome to create. Simple tables are easy to create but limited) Tj T* 0 Tw (\(no row spans, etc.\).) Tj T* ET
 Q
 Q
 q
@@ -3696,7 +2906,7 @@ Q
 q
 1 0 0 1 6 396.8756 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 71.2 cm
 q
@@ -3706,7 +2916,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 73.2 Tm /F2+0 5 Tf 7 TL (+------------+------------+-----------+) Tj T* (| Header 1   | Header 2   | Header 3  |) Tj T* (+============+============+===========+) Tj T* (| body row 1 | column 2   | column 3  |) Tj T* (+------------+------------+-----------+) Tj T* (| body row 2 | Cells may span columns.|) Tj T* (+------------+------------+-----------+) Tj T* (| body row 3 | Cells may  | - Cells   |) Tj T* (+------------+ span rows. | - contain |) Tj T* (| body row 4 |            | - blocks. |) Tj T* (+------------+------------+-----------+) Tj T* ET
+BT 1 0 0 1 0 73.2 Tm /F4+0 5 Tf 7 TL (+------------+------------+-----------+) Tj T* (| Header 1   | Header 2   | Header 3  |) Tj T* (+============+============+===========+) Tj T* (| body row 1 | column 2   | column 3  |) Tj T* (+------------+------------+-----------+) Tj T* (| body row 2 | Cells may span columns.|) Tj T* (+------------+------------+-----------+) Tj T* (| body row 3 | Cells may  | - Cells   |) Tj T* (+------------+ span rows. | - contain |) Tj T* (| body row 4 |            | - blocks. |) Tj T* (+------------+------------+-----------+) Tj T* ET
 Q
 Q
 Q
@@ -3720,6 +2930,7 @@ q
 .960784 .960784 .862745 rg
 n 0 60 188.0747 -10 re f*
 0 0 0 rg
+BT /F1 6 Tf 8 TL ET
 q
 1 0 0 1 6 49 cm
 q
@@ -3727,7 +2938,7 @@ q
 n 0 0 50.69158 8 re f*
 Q
 q
-BT 1 0 0 1 0 3.40918 Tm 13.05282 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Header 1) ] TJ T* -13.05282 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 13.00679 0 Td 8 TL /F1 6 Tf 0 0 0 rg (Header 1) Tj T* -13.00679 0 Td ET
 Q
 Q
 q
@@ -3737,7 +2948,7 @@ q
 n 0 0 50.69158 8 re f*
 Q
 q
-BT 1 0 0 1 0 3.40918 Tm 13.05282 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Header 2) ] TJ T* -13.05282 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 13.00679 0 Td 8 TL /F1 6 Tf 0 0 0 rg (Header 2) Tj T* -13.00679 0 Td ET
 Q
 Q
 q
@@ -3747,66 +2958,66 @@ q
 n 0 0 50.69158 8 re f*
 Q
 q
-BT 1 0 0 1 0 3.40918 Tm 13.05282 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Header 3) ] TJ T* -13.05282 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 13.00679 0 Td 8 TL /F1 6 Tf 0 0 0 rg (Header 3) Tj T* -13.00679 0 Td ET
 Q
 Q
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 39 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (body row 1) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (body row 1) Tj T* ET
 Q
 Q
 q
 1 0 0 1 68.69158 39 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (column 2) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (column 2) Tj T* ET
 Q
 Q
 q
 1 0 0 1 131.3832 39 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (column 3) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (column 3) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 29 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (body row 2) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (body row 2) Tj T* ET
 Q
 Q
 q
 1 0 0 1 68.69158 29 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Cells may span columns.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Cells may span columns.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 15 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (body row 3) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (body row 3) Tj T* ET
 Q
 Q
 q
 1 0 0 1 68.69158 7 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Cells may span) ] TJ T* [  (rows.) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Cells may span) Tj T* (rows.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 131.3832 15 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 11.74414 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (\200) ] TJ T* -11.74414 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 11.9 0 Td 8 TL /F1 6 Tf 0 0 0 rg (\177) Tj T* -11.9 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Cells) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Cells) Tj T* ET
 Q
 Q
 q
@@ -3815,17 +3026,17 @@ Q
 q
 1 0 0 1 131.3832 7 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 11.74414 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (\200) ] TJ T* -11.74414 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 11.9 0 Td 8 TL /F1 6 Tf 0 0 0 rg (\177) Tj T* -11.9 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (contain) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (contain) Tj T* ET
 Q
 Q
 q
@@ -3834,17 +3045,17 @@ Q
 q
 1 0 0 1 131.3832 -1 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 11.74414 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (\200) ] TJ T* -11.74414 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 11.9 0 Td 8 TL /F1 6 Tf 0 0 0 rg (\177) Tj T* -11.9 0 Td ET
 Q
 Q
 q
 1 0 0 1 26 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (blocks.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (blocks.) Tj T* ET
 Q
 Q
 q
@@ -3853,7 +3064,7 @@ Q
 q
 1 0 0 1 6 2 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (body row 4) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (body row 4) Tj T* ET
 Q
 Q
 q
@@ -3895,7 +3106,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 66.2 Tm /F2+0 5 Tf 7 TL (=====  =====  ======) Tj T* (   Inputs     Output) Tj T* (------------  ------) Tj T* (  A      B    A or B) Tj T* (=====  =====  ======) Tj T* (False  False  False) Tj T* (True   False  True) Tj T* (False  True   True) Tj T* (True   True   True) Tj T* (=====  =====  ======) Tj T* ET
+BT 1 0 0 1 0 66.2 Tm /F4+0 5 Tf 7 TL (=====  =====  ======) Tj T* (   Inputs     Output) Tj T* (------------  ------) Tj T* (  A      B    A or B) Tj T* (=====  =====  ======) Tj T* (False  False  False) Tj T* (True   False  True) Tj T* (False  True   True) Tj T* (True   True   True) Tj T* (=====  =====  ======) Tj T* ET
 Q
 Q
 Q
@@ -3909,6 +3120,7 @@ q
 .960784 .960784 .862745 rg
 n 0 60 188.0747 -20 re f*
 0 0 0 rg
+BT /F1 6 Tf 8 TL ET
 q
 1 0 0 1 6 49 cm
 q
@@ -3916,7 +3128,7 @@ q
 n 0 0 113.3832 8 re f*
 Q
 q
-BT 1 0 0 1 0 3.40918 Tm 48.01384 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Inputs) ] TJ T* -48.01384 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 48.51958 0 Td 8 TL /F1 6 Tf 0 0 0 rg (Inputs) Tj T* -48.51958 0 Td ET
 Q
 Q
 q
@@ -3926,7 +3138,7 @@ q
 n 0 0 50.69158 8 re f*
 Q
 q
-BT 1 0 0 1 0 3.40918 Tm 15.79501 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Output) ] TJ T* -15.79501 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 16.33979 0 Td 8 TL /F1 6 Tf 0 0 0 rg (Output) Tj T* -16.33979 0 Td ET
 Q
 Q
 q
@@ -3936,7 +3148,7 @@ q
 n 0 0 50.69158 8 re f*
 Q
 q
-BT 1 0 0 1 0 3.40918 Tm 23.52206 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (A) ] TJ T* -23.52206 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 23.34479 0 Td 8 TL /F1 6 Tf 0 0 0 rg (A) Tj T* -23.34479 0 Td ET
 Q
 Q
 q
@@ -3946,7 +3158,7 @@ q
 n 0 0 50.69158 8 re f*
 Q
 q
-BT 1 0 0 1 0 3.40918 Tm 23.48251 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (B) ] TJ T* -23.48251 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 23.34479 0 Td 8 TL /F1 6 Tf 0 0 0 rg (B) Tj T* -23.34479 0 Td ET
 Q
 Q
 q
@@ -3956,80 +3168,80 @@ q
 n 0 0 50.69158 8 re f*
 Q
 q
-BT 1 0 0 1 0 3.40918 Tm 17.17196 0 Td 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (A or B) ] TJ T* -17.17196 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 17.00879 0 Td 8 TL /F1 6 Tf 0 0 0 rg (A or B) Tj T* -17.00879 0 Td ET
 Q
 Q
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 29 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (False) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (False) Tj T* ET
 Q
 Q
 q
 1 0 0 1 68.69158 29 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (False) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (False) Tj T* ET
 Q
 Q
 q
 1 0 0 1 131.3832 29 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (False) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (False) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 19 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (True) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (True) Tj T* ET
 Q
 Q
 q
 1 0 0 1 68.69158 19 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (False) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (False) Tj T* ET
 Q
 Q
 q
 1 0 0 1 131.3832 19 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (True) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (True) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 9 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (False) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (False) Tj T* ET
 Q
 Q
 q
 1 0 0 1 68.69158 9 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (True) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (True) Tj T* ET
 Q
 Q
 q
 1 0 0 1 131.3832 9 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (True) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (True) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 -1 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (True) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (True) Tj T* ET
 Q
 Q
 q
 1 0 0 1 68.69158 -1 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (True) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (True) Tj T* ET
 Q
 Q
 q
 1 0 0 1 131.3832 -1 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (True) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (True) Tj T* ET
 Q
 Q
 q
@@ -4084,13 +3296,13 @@ q
 n 0 -1 400.526 12 re B*
 Q
 q
-BT 1 0 0 1 0 1.92 Tm 161.263 0 Td 8 TL 1 1 1 rg /F2+0 8 Tf 8 TL [  (Explicit Markup) ] TJ T* -161.263 0 Td ET
+BT 1 0 0 1 0 2.256 Tm 170.699 0 Td 8 TL /F2 8 Tf 1 1 1 rg (Explicit Markup) Tj T* -170.699 0 Td ET
 Q
 Q
 q
 1 0 0 1 6 359.8756 cm
 q
-BT 1 0 0 1 0 11.40918 Tm .05185 Tw 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Explicit markup blocks are used for constructs which float \(footnotes\), have no direct paper-document representation \(hyperlink targets, comments\),) ] TJ T* 0 Tw [  (or require specialized processing \(directives\). They all begin with two periods and whitespace, the "explicit markup start".) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm .131777 Tw 8 TL /F1 6 Tf 0 0 0 rg (Explicit markup blocks are used for constructs which float \(footnotes\), have no direct paper-document representation \(hyperlink targets, comments\), or) Tj T* 0 Tw (require specialized processing \(directives\). They all begin with two periods and whitespace, the "explicit markup start".) Tj T* ET
 Q
 Q
 q
@@ -4099,7 +3311,7 @@ Q
 q
 1 0 0 1 6 24.67559 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 283 cm
 q
@@ -4109,7 +3321,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 45.2 Tm /F2+0 5 Tf 7 TL (Footnote references, like [5]_.) Tj T* (Note that footnotes may get) Tj T* (rearranged, e.g., to the bottom of) Tj T* (the "page".) Tj T*  T* (.. [5] A numerical footnote. Note) Tj T* (   there's no colon after the ``]``.) Tj T* ET
+BT 1 0 0 1 0 45.2 Tm /F4+0 5 Tf 7 TL (Footnote references, like [5]_.) Tj T* (Note that footnotes may get) Tj T* (rearranged, e.g., to the bottom of) Tj T* (the "page".) Tj T*  T* (.. [5] A numerical footnote. Note) Tj T* (   there's no colon after the ``]``.) Tj T* ET
 Q
 Q
 Q
@@ -4118,7 +3330,7 @@ Q
 q
 1 0 0 1 206.263 316.2 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Footnote references, like ) ] TJ 0 0 .501961 rg 3 Ts /F3+0 4 Tf 8 TL [  (5) ] TJ 0 0 0 rg 0 Ts /F3+0 6 Tf 8 TL [  (. Note that footnotes may get rearranged,) ] TJ T* [  (e.g., to the bottom of the "page".) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Footnote references, like ) Tj /F1 4 Tf 0 0 .501961 rg 3 Ts (5) Tj /F1 6 Tf 0 0 0 rg 0 Ts (. Note that footnotes may get rearranged,) Tj T* (e.g., to the bottom of the "page".) Tj T* ET
 Q
 Q
 q
@@ -4130,7 +3342,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 87.2 Tm /F2+0 5 Tf 7 TL (Autonumbered footnotes are) Tj T* (possible, like using [#]_ and [#]_.) Tj T*  T* (.. [#] This is the first one.) Tj T* (.. [#] This is the second one.) Tj T*  T* (They may be assigned 'autonumber) Tj T* (labels' - for instance,) Tj T* ([#fourth]_ and [#third]_.) Tj T*  T* (.. [#third] a.k.a. third_) Tj T*  T* (.. [#fourth] a.k.a. fourth_) Tj T* ET
+BT 1 0 0 1 0 87.2 Tm /F4+0 5 Tf 7 TL (Autonumbered footnotes are) Tj T* (possible, like using [#]_ and [#]_.) Tj T*  T* (.. [#] This is the first one.) Tj T* (.. [#] This is the second one.) Tj T*  T* (They may be assigned 'autonumber) Tj T* (labels' - for instance,) Tj T* ([#fourth]_ and [#third]_.) Tj T*  T* (.. [#third] a.k.a. third_) Tj T*  T* (.. [#fourth] a.k.a. fourth_) Tj T* ET
 Q
 Q
 Q
@@ -4139,13 +3351,13 @@ Q
 q
 1 0 0 1 206.263 273 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Autonumbered footnotes are possible, like using ) ] TJ 0 0 .501961 rg 3 Ts /F3+0 4 Tf 8 TL [  (1) ] TJ 0 0 0 rg 0 Ts /F3+0 6 Tf 8 TL [  ( and ) ] TJ 0 0 .501961 rg 3 Ts /F3+0 4 Tf 8 TL [  (2) ] TJ 0 0 0 rg 0 Ts /F3+0 6 Tf 8 TL [  (.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Autonumbered footnotes are possible, like using ) Tj /F1 4 Tf 0 0 .501961 rg 3 Ts (1) Tj /F1 6 Tf 0 0 0 rg 0 Ts ( and ) Tj /F1 4 Tf 0 0 .501961 rg 3 Ts (2) Tj /F1 6 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 206.263 262 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (They may be assigned 'autonumber labels' - for instance, ) ] TJ 0 0 .501961 rg 3 Ts /F3+0 4 Tf 8 TL [  (4) ] TJ 0 0 0 rg 0 Ts /F3+0 6 Tf 8 TL [  ( and ) ] TJ 0 0 .501961 rg 3 Ts /F3+0 4 Tf 8 TL [  (3) ] TJ 0 0 0 rg 0 Ts /F3+0 6 Tf 8 TL [  (.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (They may be assigned 'autonumber labels' - for instance, ) Tj /F1 4 Tf 0 0 .501961 rg 3 Ts (4) Tj /F1 6 Tf 0 0 0 rg 0 Ts ( and ) Tj /F1 4 Tf 0 0 .501961 rg 3 Ts (3) Tj /F1 6 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
 Q
 Q
 q
@@ -4157,7 +3369,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 31.2 Tm /F2+0 5 Tf 7 TL (Auto-symbol footnotes are also) Tj T* (possible, like this: [*]_ and [*]_.) Tj T*  T* (.. [*] This is the first one.) Tj T* (.. [*] This is the second one.) Tj T* ET
+BT 1 0 0 1 0 31.2 Tm /F4+0 5 Tf 7 TL (Auto-symbol footnotes are also) Tj T* (possible, like this: [*]_ and [*]_.) Tj T*  T* (.. [*] This is the first one.) Tj T* (.. [*] This is the second one.) Tj T* ET
 Q
 Q
 Q
@@ -4166,7 +3378,7 @@ Q
 q
 1 0 0 1 206.263 179.8 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Auto-symbol footnotes are also possible, like this: ) ] TJ 0 0 .501961 rg 3 Ts /F3+0 4 Tf 8 TL [  (*) ] TJ 0 0 0 rg 0 Ts /F3+0 6 Tf 8 TL [  ( and ) ] TJ 0 0 .501961 rg 3 Ts /F3+0 4 Tf 8 TL [  (\202) ] TJ 0 0 0 rg 0 Ts /F3+0 6 Tf 8 TL [  (.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Auto-symbol footnotes are also possible, like this: ) Tj /F1 4 Tf 0 0 .501961 rg 3 Ts (*) Tj /F1 6 Tf 0 0 0 rg 0 Ts ( and ) Tj /F1 4 Tf 0 0 .501961 rg 3 Ts (\206) Tj /F1 6 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
 Q
 Q
 q
@@ -4178,7 +3390,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 108.2 Tm /F2+0 5 Tf 7 TL (Citation references, like [CIT2002]_.) Tj T* (Note that citations may get) Tj T* (rearranged, e.g., to the bottom of) Tj T* (the "page".) Tj T*  T* (.. [CIT2002] A citation) Tj T* (   \(as often used in journals\).) Tj T*  T* (Citation labels contain alphanumerics,) Tj T* (underlines, hyphens and fullstops.) Tj T* (Case is not significant.) Tj T*  T* (Given a citation like [this]_, one) Tj T* (can also refer to it like this_.) Tj T*  T* (.. [this] here.) Tj T* ET
+BT 1 0 0 1 0 108.2 Tm /F4+0 5 Tf 7 TL (Citation references, like [CIT2002]_.) Tj T* (Note that citations may get) Tj T* (rearranged, e.g., to the bottom of) Tj T* (the "page".) Tj T*  T* (.. [CIT2002] A citation) Tj T* (   \(as often used in journals\).) Tj T*  T* (Citation labels contain alphanumerics,) Tj T* (underlines, hyphens and fullstops.) Tj T* (Case is not significant.) Tj T*  T* (Given a citation like [this]_, one) Tj T* (can also refer to it like this_.) Tj T*  T* (.. [this] here.) Tj T* ET
 Q
 Q
 Q
@@ -4187,19 +3399,19 @@ Q
 q
 1 0 0 1 206.263 134.6 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Citation references, like ) ] TJ [  ([) ] TJ 0 0 .501961 rg [  (CIT2002) ] TJ 0 0 0 rg [  (]. Note that citations may get) ] TJ T* [  (rearranged, e.g., to the bottom of the "page".) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Citation references, like ) Tj ([) Tj 0 0 .501961 rg (CIT2002) Tj 0 0 0 rg (]. Note that citations may get) Tj T* (rearranged, e.g., to the bottom of the "page".) Tj T* ET
 Q
 Q
 q
 1 0 0 1 206.263 115.6 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Citation labels contain alphanumerics, underlines, hyphens and) ] TJ T* [  (fullstops. Case is not significant.) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Citation labels contain alphanumerics, underlines, hyphens and) Tj T* (fullstops. Case is not significant.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 206.263 104.6 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Given a citation like ) ] TJ [  ([) ] TJ 0 0 .501961 rg [  (this) ] TJ 0 0 0 rg [  (], one can also refer to it like ) ] TJ 0 0 .501961 rg [  (this) ] TJ 0 0 0 rg [  (.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Given a citation like ) Tj ([) Tj 0 0 .501961 rg (this) Tj 0 0 0 rg (], one can also refer to it like ) Tj 0 0 .501961 rg (this) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -4211,7 +3423,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 17.2 Tm /F2+0 5 Tf 7 TL (External hyperlinks, like Python_.) Tj T*  T* (.. _Python: http://www.python.org/) Tj T* ET
+BT 1 0 0 1 0 17.2 Tm /F4+0 5 Tf 7 TL (External hyperlinks, like Python_.) Tj T*  T* (.. _Python: http://www.python.org/) Tj T* ET
 Q
 Q
 Q
@@ -4220,7 +3432,7 @@ Q
 q
 1 0 0 1 206.263 28.4 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (External hyperlinks, like ) ] TJ 0 0 .501961 rg [  (Python) ] TJ 0 0 0 rg [  (.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (External hyperlinks, like ) Tj 0 0 .501961 rg (Python) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -4231,7 +3443,7 @@ q
 q
 1 0 0 1 .1 .1 cm
 q
-BT 1 0 0 1 0 10.2 Tm 7 TL 0 0 0 rg /F2+0 5 Tf 7 TL (External hyperlinks, like `Python) Tj T* (<) Tj (http://www.python.org/) Tj (>) Tj (`_.) Tj T* ET
+BT 1 0 0 1 0 10.2 Tm 7 TL 0 0 0 rg /F4+0 5 Tf 7 TL (External hyperlinks, like `Python) Tj T* (<) Tj (http://www.python.org/) Tj (>) Tj (`_.) Tj T* ET
 Q
 Q
 Q
@@ -4240,7 +3452,7 @@ Q
 q
 1 0 0 1 206.263 5.2 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (External hyperlinks, like ) ] TJ 0 0 .501961 rg [  (Python) ] TJ 0 0 0 rg [  (.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (External hyperlinks, like ) Tj 0 0 .501961 rg (Python) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -4265,7 +3477,7 @@ Q
 q
 1 0 0 1 435.3638 245.0756 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 295 cm
 q
@@ -4275,7 +3487,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 31.2 Tm /F2+0 5 Tf 7 TL (Internal crossreferences, like example_.) Tj T*  T* (.. _example:) Tj T*  T* (This is an example crossreference target.) Tj T* ET
+BT 1 0 0 1 0 31.2 Tm /F4+0 5 Tf 7 TL (Internal crossreferences, like example_.) Tj T*  T* (.. _example:) Tj T*  T* (This is an example crossreference target.) Tj T* ET
 Q
 Q
 Q
@@ -4284,13 +3496,13 @@ Q
 q
 1 0 0 1 206.263 322.2 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Internal crossreferences, like ) ] TJ 0 0 .501961 rg [  (example) ] TJ 0 0 0 rg [  (.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Internal crossreferences, like ) Tj 0 0 .501961 rg (example) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 206.263 311.2 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (This is an example crossreference target.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (This is an example crossreference target.) Tj T* ET
 Q
 Q
 q
@@ -4302,7 +3514,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38.2 Tm /F2+0 5 Tf 7 TL (Python_ is `my favourite) Tj T* (programming language`__.) Tj T*  T* (.. _Python: http://www.python.org/) Tj T*  T* (__ Python_) Tj T* ET
+BT 1 0 0 1 0 38.2 Tm /F4+0 5 Tf 7 TL (Python_ is `my favourite) Tj T* (programming language`__.) Tj T*  T* (.. _Python: http://www.python.org/) Tj T*  T* (__ Python_) Tj T* ET
 Q
 Q
 Q
@@ -4311,7 +3523,7 @@ Q
 q
 1 0 0 1 206.263 285 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (Python) ] TJ 0 0 0 rg [  ( is ) ] TJ 0 0 .501961 rg [  (my favourite programming language) ] TJ 0 0 0 rg [  (.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (Python) Tj 0 0 0 rg ( is ) Tj 0 0 .501961 rg (my favourite programming language) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -4323,7 +3535,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 24.2 Tm /F2+0 5 Tf 7 TL (Titles are targets, too) Tj T* (=======================) Tj T*  T* (Implict references, like `Titles are targets, too`_.) Tj T* ET
+BT 1 0 0 1 0 24.2 Tm /F4+0 5 Tf 7 TL (Titles are targets, too) Tj T* (=======================) Tj T*  T* (Implict references, like `Titles are targets, too`_.) Tj T* ET
 Q
 Q
 Q
@@ -4332,19 +3544,19 @@ Q
 q
 1 0 0 1 206.263 239.2 cm
 q
-BT 1 0 0 1 0 3.52 Tm 9.6 TL 0 0 0 rg /F2+0 8 Tf 9.6 TL [  (Titles are targets, too) ] TJ T* ET
+BT 1 0 0 1 0 3.856 Tm 9.6 TL /F2 8 Tf 0 0 0 rg (Titles are targets, too) Tj T* ET
 Q
 Q
 q
 1 0 0 1 206.263 227.2 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Implict references, like ) ] TJ 0 0 .501961 rg [  (Titles are targets, too) ] TJ 0 0 0 rg [  (.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Implict references, like ) Tj 0 0 .501961 rg (Titles are targets, too) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 202.6 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Directives are a general-purpose extension mechanism, a way of adding support for new constructs without adding new syntax. For a) ] TJ T* [  (description of all standard directives, see reStructuredText Directives \() ] TJ 0 0 .501961 rg [  (http://is.gd/2Ecqh) ] TJ 0 0 0 rg [  (\).) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Directives are a general-purpose extension mechanism, a way of adding support for new constructs without adding new syntax. For a description) Tj T* (of all standard directives, see reStructuredText Directives \() Tj 0 0 .501961 rg (http://is.gd/2Ecqh) Tj 0 0 0 rg (\).) Tj T* ET
 Q
 Q
 q
@@ -4356,7 +3568,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 24.2 Tm /F2+0 5 Tf 7 TL (For instance:) Tj T*  T* (.. image:: magnetic-balls.jpg) Tj T* (   :width: 40pt) Tj T* ET
+BT 1 0 0 1 0 24.2 Tm /F4+0 5 Tf 7 TL (For instance:) Tj T*  T* (.. image:: magnetic-balls.jpg) Tj T* (   :width: 40pt) Tj T* ET
 Q
 Q
 Q
@@ -4365,7 +3577,7 @@ Q
 q
 1 0 0 1 206.263 192.6 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (For instance:) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (For instance:) Tj T* ET
 Q
 Q
 q
@@ -4378,7 +3590,7 @@ Q
 q
 1 0 0 1 6 149.6 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Substitutions are like inline directives, allowing graphics and arbitrary constructs within text.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Substitutions are like inline directives, allowing graphics and arbitrary constructs within text.) Tj T* ET
 Q
 Q
 q
@@ -4390,7 +3602,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38.2 Tm /F2+0 5 Tf 7 TL (The |biohazard| symbol must be used on containers used to) Tj T* (dispose of medical waste.) Tj T*  T* (.. |biohazard| image:: biohazard.png) Tj T* (   :align: middle) Tj T* (   :width: 12) Tj T* ET
+BT 1 0 0 1 0 38.2 Tm /F4+0 5 Tf 7 TL (The |biohazard| symbol must be used on containers used to) Tj T* (dispose of medical waste.) Tj T*  T* (.. |biohazard| image:: biohazard.png) Tj T* (   :align: middle) Tj T* (   :width: 12) Tj T* ET
 Q
 Q
 Q
@@ -4400,16 +3612,16 @@ q
 1 0 0 1 206.263 127.6 cm
 q
 q
-2.88 0 0 2.88 11.41699 12.36918 cm
+2.88 0 0 2.88 12.006 12.652 cm
 /FormXob.c8d097da4771654d12a9611e9af76669 Do
 Q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (The ) ] TJ 14.29699 0 Td [  ( symbol must be used on containers used to dispose of medical) ] TJ T* -14.29699 0 Td [  (waste.) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (The ) Tj 14.886 0 Td ( symbol must be used on containers used to dispose of medical) Tj T* -14.886 0 Td (waste.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 91.4 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Any text which begins with an explicit markup start but doesn't use the syntax of any of the constructs above, is a comment.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Any text which begins with an explicit markup start but doesn't use the syntax of any of the constructs above, is a comment.) Tj T* ET
 Q
 Q
 q
@@ -4421,7 +3633,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 17.2 Tm /F2+0 5 Tf 7 TL (.. This text will not be shown) Tj T* (   \(but, for instance, in HTML might be) Tj T* (   rendered as an HTML comment\)) Tj T* ET
+BT 1 0 0 1 0 17.2 Tm /F4+0 5 Tf 7 TL (.. This text will not be shown) Tj T* (   \(but, for instance, in HTML might be) Tj T* (   rendered as an HTML comment\)) Tj T* ET
 Q
 Q
 Q
@@ -4436,7 +3648,7 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 59.2 Tm /F2+0 5 Tf 7 TL (An "empty comment" does not) Tj T* (consume following blocks.) Tj T* (\(An empty comment is ".." with) Tj T* (blank lines before and after.\)) Tj T*  T* (..) Tj T*  T* (        So this block is not "lost",) Tj T* (        despite its indentation.) Tj T* ET
+BT 1 0 0 1 0 59.2 Tm /F4+0 5 Tf 7 TL (An "empty comment" does not) Tj T* (consume following blocks.) Tj T* (\(An empty comment is ".." with) Tj T* (blank lines before and after.\)) Tj T*  T* (..) Tj T*  T* (        So this block is not "lost",) Tj T* (        despite its indentation.) Tj T* ET
 Q
 Q
 Q
@@ -4445,7 +3657,7 @@ Q
 q
 1 0 0 1 206.263 46.2 cm
 q
-BT 1 0 0 1 0 11.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (An "empty comment" does not consume following blocks. \(An empty) ] TJ T* [  (comment is ".." with blank lines before and after.\)) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (An "empty comment" does not consume following blocks. \(An empty) Tj T* (comment is ".." with blank lines before and after.\)) Tj T* ET
 Q
 Q
 q
@@ -4454,12 +3666,12 @@ Q
 q
 1 0 0 1 206.263 31.2 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (So this block is not "lost", despite its indentation.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (So this block is not "lost", despite its indentation.) Tj T* ET
 Q
 Q
 q
@@ -4507,7 +3719,7 @@ q
 n 0 -1 400.526 12 re B*
 Q
 q
-BT 1 0 0 1 0 1.92 Tm 182.063 0 Td 8 TL 1 1 1 rg /F2+0 8 Tf 8 TL [  (Credits) ] TJ T* -182.063 0 Td ET
+BT 1 0 0 1 0 2.256 Tm 186.483 0 Td 8 TL /F2 8 Tf 1 1 1 rg (Credits) Tj T* -186.483 0 Td ET
 Q
 Q
 q
@@ -4516,53 +3728,53 @@ Q
 q
 1 0 0 1 435.3638 190.0756 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 21 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (CP Font from LiquiType:) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (CP Font from LiquiType:) Tj T* ET
 Q
 Q
 q
 1 0 0 1 206.263 21 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (http://www.liquitype.com/workshop/type_design/cp-mono) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (http://www.liquitype.com/workshop/type_design/cp-mono) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 13 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Magnetic Balls V2 image by fdecomite:) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Magnetic Balls V2 image by fdecomite:) Tj T* ET
 Q
 Q
 q
 1 0 0 1 206.263 13 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (http://www.flickr.com/photos/fdecomite/2926556794/) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (http://www.flickr.com/photos/fdecomite/2926556794/) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 5 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Sponsored by Net Managers) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Sponsored by Net Managers) Tj T* ET
 Q
 Q
 q
 1 0 0 1 206.263 5 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (http://www.netmanagers.com.ar) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (http://www.netmanagers.com.ar) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 -3 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (Typeset using rst2pdf) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (Typeset using rst2pdf) Tj T* ET
 Q
 Q
 q
 1 0 0 1 206.263 -3 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (http://rst2pdf.googlecode.com) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (http://rst2pdf.googlecode.com) Tj T* ET
 Q
 Q
 q
@@ -4588,17 +3800,17 @@ Q
 q
 1 0 0 1 435.3638 93.03622 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (5) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (5) Tj T* ET
 Q
 Q
 q
 1 0 0 1 54 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (A numerical footnote. Note there's no colon after the ) ] TJ /F2+0 6 Tf 8 TL [  (]) ] TJ /F3+0 6 Tf 8 TL [  (.) ] TJ T* ET
+BT 1 0 0 1 0 3.44 Tm 8 TL /F1 6 Tf 0 0 0 rg (A numerical footnote. Note there's no colon after the ) Tj /F4+0 6 Tf 8 TL [  (]) ] TJ /F1 6 Tf (.) Tj T* ET
 Q
 Q
 q
@@ -4612,17 +3824,17 @@ Q
 q
 1 0 0 1 435.3638 84.03622 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (1) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (1) Tj T* ET
 Q
 Q
 q
 1 0 0 1 54 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (This is the first one.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (This is the first one.) Tj T* ET
 Q
 Q
 q
@@ -4636,17 +3848,17 @@ Q
 q
 1 0 0 1 435.3638 75.03622 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (2) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (2) Tj T* ET
 Q
 Q
 q
 1 0 0 1 54 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (This is the second one.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (This is the second one.) Tj T* ET
 Q
 Q
 q
@@ -4660,17 +3872,17 @@ Q
 q
 1 0 0 1 435.3638 66.03622 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (3) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (3) Tj T* ET
 Q
 Q
 q
 1 0 0 1 54 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (a.k.a. ) ] TJ 0 0 .501961 rg [  (third) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (a.k.a. ) Tj 0 0 .501961 rg (third) Tj T* ET
 Q
 Q
 q
@@ -4684,17 +3896,17 @@ Q
 q
 1 0 0 1 435.3638 57.03622 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (4) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (4) Tj T* ET
 Q
 Q
 q
 1 0 0 1 54 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (a.k.a. ) ] TJ 0 0 .501961 rg [  (fourth) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (a.k.a. ) Tj 0 0 .501961 rg (fourth) Tj T* ET
 Q
 Q
 q
@@ -4708,17 +3920,17 @@ Q
 q
 1 0 0 1 435.3638 48.03622 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (*) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (*) Tj T* ET
 Q
 Q
 q
 1 0 0 1 54 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (This is the first one.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (This is the first one.) Tj T* ET
 Q
 Q
 q
@@ -4732,17 +3944,17 @@ Q
 q
 1 0 0 1 435.3638 39.03622 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (\202) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (\206) Tj T* ET
 Q
 Q
 q
 1 0 0 1 54 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (This is the second one.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (This is the second one.) Tj T* ET
 Q
 Q
 q
@@ -4754,19 +3966,19 @@ n 0 0 m 0 9 l S
 Q
 Q
 q
-1 0 0 1 435.3638 30.03622 cm
+1 0 0 1 435.3638 22.03622 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (CIT2002\() ] TJ 0 0 .501961 rg [  (1) ] TJ 0 0 0 rg [  (, ) ] TJ 0 0 .501961 rg [  (2) ] TJ 0 0 0 rg [  (\)) ] TJ T* ET
+BT 1 0 0 1 0 11.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (CIT2002\() Tj 0 0 .501961 rg (1) Tj 0 0 0 rg (,) Tj T* 0 0 .501961 rg (2) Tj 0 0 0 rg (\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 54 0 cm
+1 0 0 1 54 8 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (A citation \(as often used in journals\).) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (A citation \(as often used in journals\).) Tj T* ET
 Q
 Q
 q
@@ -4774,23 +3986,81 @@ q
 1 j
 .882353 .901961 .917647 RG
 1 w
-n 0 0 m 0 9 l S
+n 0 0 m 0 17 l S
 Q
 Q
 q
-1 0 0 1 435.3638 21.03622 cm
+1 0 0 1 0 3 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (\251 ) Tj (2009 Roberto Alsina ) Tj (<) Tj (ralsina@netmanagers.com.ar) Tj (>) Tj ( / Creative Commons Attribution-Noncommercial-Share Alike 2.5 Argentina License) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.7827 -3 cm
+q
+q
+8 0 0 8 0 2.092 cm
+/FormXob.23ec01b5926120c2ac8f7d3203df8a61 Do
+Q
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Based on quickref.txt from docutils) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 603.7417 -3 cm
+q
+q
+8 0 0 8 0 2.092 cm
+/FormXob.dc18cc4d2a9c353a3afb5106eba8aaef Do
+Q
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Non-Commercial) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 704.7685 -3 cm
+q
+q
+8 0 0 8 0 2.092 cm
+/FormXob.11ef1b810312a287afd25554121e3b6a Do
+Q
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Share Alike) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.266667 .407843 .521569 RG
+.4 w
+n 0 8 m 841.8898 8 l S
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R76': class PDFStream 
+76 0 obj
+% page stream
+<< /Length 1361 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 569.2756 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 .501961 rg /F3+0 6 Tf 8 TL [  (this) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 .501961 rg (this) Tj T* ET
 Q
 Q
 q
 1 0 0 1 54 0 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (here.) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (here.) Tj T* ET
 Q
 Q
 q
@@ -4804,41 +4074,41 @@ Q
 q
 1 0 0 1 0 3 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
 q
 1 0 0 1 6 -3 cm
 q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 0 0 0 rg /F3+0 6 Tf 8 TL [  (\201 ) ] TJ [  (2009 Roberto Alsina ) ] TJ [  (<) ] TJ [  (ralsina@netmanagers.com.ar) ] TJ [  (>) ] TJ [  ( / Creative Commons Attribution-Noncommercial-Share Alike 2.5 Argentina License) ] TJ T* ET
+BT 1 0 0 1 0 3.692 Tm 8 TL /F1 6 Tf 0 0 0 rg (\251 ) Tj (2009 Roberto Alsina ) Tj (<) Tj (ralsina@netmanagers.com.ar) Tj (>) Tj ( / Creative Commons Attribution-Noncommercial-Share Alike 2.5 Argentina License) Tj T* ET
 Q
 Q
 q
 1 0 0 1 443.7827 -3 cm
 q
 q
-8 0 0 8 0 1.80918 cm
+8 0 0 8 0 2.092 cm
 /FormXob.23ec01b5926120c2ac8f7d3203df8a61 Do
 Q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 8 0 Td 0 0 0 rg /F3+0 6 Tf 8 TL ( ) Tj [  (Based on quickref.txt from docutils) ] TJ T* -8 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Based on quickref.txt from docutils) Tj T* -8 0 Td ET
 Q
 Q
 q
 1 0 0 1 603.7417 -3 cm
 q
 q
-8 0 0 8 0 1.80918 cm
+8 0 0 8 0 2.092 cm
 /FormXob.dc18cc4d2a9c353a3afb5106eba8aaef Do
 Q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 8 0 Td 0 0 0 rg /F3+0 6 Tf 8 TL ( ) Tj [  (Non-Commercial) ] TJ T* -8 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Non-Commercial) Tj T* -8 0 Td ET
 Q
 Q
 q
 1 0 0 1 704.7685 -3 cm
 q
 q
-8 0 0 8 0 1.80918 cm
+8 0 0 8 0 2.092 cm
 /FormXob.11ef1b810312a287afd25554121e3b6a Do
 Q
-BT 1 0 0 1 0 3.40918 Tm 8 TL 8 0 Td 0 0 0 rg /F3+0 6 Tf 8 TL ( ) Tj [  (Share Alike) ] TJ T* -8 0 Td ET
+BT 1 0 0 1 0 3.692 Tm 8 TL 8 0 Td /F1 6 Tf 0 0 0 rg ( ) Tj (Share Alike) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4854,94 +4124,92 @@ endstream
 
 endobj
 xref
-0 79
+0 77
 0000000000 65535 f
 0000000113 00000 n
-0000000266 00000 n
-0000000431 00000 n
-0000000612 00000 n
-0000000906 00000 n
-0000001200 00000 n
-0000001495 00000 n
-0000001733 00000 n
-0000001972 00000 n
-0000002240 00000 n
-0000004688 00000 n
-0000009601 00000 n
-0000012325 00000 n
-0000018260 00000 n
-0000020962 00000 n
-0000026993 00000 n
-0000027516 00000 n
-0000027758 00000 n
-0000027999 00000 n
-0000028241 00000 n
-0000028483 00000 n
-0000028725 00000 n
-0000028967 00000 n
-0000029209 00000 n
-0000029451 00000 n
-0000029693 00000 n
-0000029934 00000 n
-0000030176 00000 n
-0000030419 00000 n
-0000030660 00000 n
-0000030902 00000 n
-0000031145 00000 n
-0000031386 00000 n
-0000031651 00000 n
-0000065500 00000 n
-0000065895 00000 n
-0000066168 00000 n
-0000066438 00000 n
-0000066687 00000 n
-0000066937 00000 n
-0000067179 00000 n
-0000067420 00000 n
-0000067661 00000 n
-0000067902 00000 n
-0000068142 00000 n
-0000068383 00000 n
-0000068623 00000 n
-0000068864 00000 n
-0000069105 00000 n
-0000069346 00000 n
-0000069587 00000 n
-0000069810 00000 n
-0000070702 00000 n
-0000072758 00000 n
-0000082306 00000 n
-0000082570 00000 n
-0000083622 00000 n
-0000085681 00000 n
-0000108709 00000 n
-0000109002 00000 n
-0000110702 00000 n
-0000112750 00000 n
-0000135995 00000 n
-0000136299 00000 n
-0000137956 00000 n
-0000138094 00000 n
-0000138306 00000 n
-0000138431 00000 n
-0000138579 00000 n
-0000138754 00000 n
-0000138909 00000 n
-0000139076 00000 n
-0000139232 00000 n
-0000139388 00000 n
-0000139553 00000 n
-0000139679 00000 n
-0000139796 00000 n
-0000166771 00000 n
+0000000260 00000 n
+0000000425 00000 n
+0000000600 00000 n
+0000000769 00000 n
+0000000962 00000 n
+0000001255 00000 n
+0000001548 00000 n
+0000001842 00000 n
+0000002081 00000 n
+0000002320 00000 n
+0000002589 00000 n
+0000005037 00000 n
+0000009950 00000 n
+0000012674 00000 n
+0000018609 00000 n
+0000021311 00000 n
+0000027342 00000 n
+0000027852 00000 n
+0000028315 00000 n
+0000028555 00000 n
+0000028795 00000 n
+0000029036 00000 n
+0000029277 00000 n
+0000029518 00000 n
+0000029759 00000 n
+0000030000 00000 n
+0000030241 00000 n
+0000030476 00000 n
+0000030710 00000 n
+0000030950 00000 n
+0000031191 00000 n
+0000031433 00000 n
+0000031675 00000 n
+0000031918 00000 n
+0000032160 00000 n
+0000032426 00000 n
+0000066275 00000 n
+0000066670 00000 n
+0000066943 00000 n
+0000067213 00000 n
+0000067462 00000 n
+0000067712 00000 n
+0000067954 00000 n
+0000068196 00000 n
+0000068438 00000 n
+0000068680 00000 n
+0000068923 00000 n
+0000069165 00000 n
+0000069408 00000 n
+0000069650 00000 n
+0000069892 00000 n
+0000070134 00000 n
+0000070360 00000 n
+0000071226 00000 n
+0000071444 00000 n
+0000071946 00000 n
+0000074002 00000 n
+0000083550 00000 n
+0000083814 00000 n
+0000084840 00000 n
+0000084978 00000 n
+0000085190 00000 n
+0000085315 00000 n
+0000085463 00000 n
+0000085638 00000 n
+0000085793 00000 n
+0000085960 00000 n
+0000086116 00000 n
+0000086272 00000 n
+0000086437 00000 n
+0000086563 00000 n
+0000086698 00000 n
+0000111421 00000 n
+0000113807 00000 n
+0000137945 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(n\223<\036\374!\236m\353f\\\035\240\016\235.) (n\223<\036\374!\236m\353f\\\035\240\016\235.)] 
+ [(\261\2008\306\376Z\253\351y\275\3411\233\366\007\030) (\261\2008\306\376Z\253\351y\275\3411\233\366\007\030)] 
 
- /Info 66 0 R
- /Root 65 0 R
- /Size 79 >>
+ /Info 62 0 R
+ /Root 61 0 R
+ /Size 77 >>
 startxref
-192837
+139380
 %%EOF
