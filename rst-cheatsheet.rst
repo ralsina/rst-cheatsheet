@@ -436,3 +436,24 @@ Credits
 +---------------------------------------+-------------------------------------------------------+
 | Magnetic Balls V2 image by fdecomite: | http://www.flickr.com/photos/fdecomite/2926556794/    |
 +---------------------------------------+-------------------------------------------------------+
+
+
+.. footer::
+
+    .. class:: tablapie
+
+    +-------------------------------------------------------------------------------------------------+----------------------------------------------------------------------+----------------------------------+----------------------------------+
+    | :small:`Creative Commons Attribution-Noncommercial-Share Alike 2.5 Argentina License`           | |attrib| :small:`Based on quickref.txt from docutils `               | |noncomm| :small:`Non-Commercial`| |sharealike| :small:`Share Alike`|
+    +-------------------------------------------------------------------------------------------------+----------------------------------------------------------------------+----------------------------------+----------------------------------+
+
+.. |attrib| image:: attrib.png
+   :width: 8pt
+   :align: middle
+
+.. |noncomm| image:: noncomm.png
+   :width: 8pt
+   :align: middle
+
+.. |sharealike| image:: sharealike.png
+   :width: 8pt
+   :align: middle
