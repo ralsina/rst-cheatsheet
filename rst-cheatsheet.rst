@@ -139,6 +139,10 @@ Lists
 |    /V            DOS/VMS-style options too               |    /V            DOS/VMS-style options too           |
 +----------------------------------------------------------+------------------------------------------------------+
 
+.. raw:: pdf
+
+   Spacer 0 4
+
 Section Structure
 -----------------
 
