@@ -4,5 +4,12 @@ http://github.com/ralsina/rst-cheatsheet/raw/master/rst-cheatsheet.pdf
 
 This project uses:
 
-CP Font from LiquiType: http://www.liquitype.com/workshop/type_design/cp-mono
+CP Font from LiquiType: http://www.liquitype.com/ which you can download from
+http://www.fontspace.com/liquitype/cp-mono (converted to TTF and included, license
+is CC, you can read it in README-cp.txt
+
 Magnetic Balls V2 by fdecomite: http://www.flickr.com/photos/fdecomite/2926556794/
+
+To build:
+
+rst2pdf rst-cheatsheet.rst -s cheatsheet
