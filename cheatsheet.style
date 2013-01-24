@@ -53,7 +53,7 @@
         "borderColor": "#446885",
         "borderWidth": 0.2,
         "textColor": "#FFFFFF",
-        "leading": 8,
+        "leading": 10,
         "alignment": "TA_CENTER",
         "spaceBefore": 4,
         "borderPadding": [3,0,1,0],
@@ -80,7 +80,8 @@
       "colWidths": ["50%","50%"],
       "commands": [
         [ "VALIGN", [0, 0], [-1, -1], "TOP" ],
-        [ "BOTTOMPADDING", [0, 0], [-1, -1], -1 ],
+        [ "BOTTOMPADDING", [0, 0], [-1, -1], 0 ],
+        [ "TOPPADDING", [0, 0], [-1, -1], 1 ],
         [ "LINEBELOW", [0, 0], [-1, -2], 0.2, "#E1E6EA" ]
       ]
     }],
