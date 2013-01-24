@@ -1,0 +1,160 @@
+{
+    "pageSetup": {"margin-left": 0,
+                   "margin-right": 0,
+                   "margin-top": 0,
+                   "margin-bottom": 3,
+                   "spacing-header": 0,
+                   "spacing-footer": 10,
+                   "firstTemplate": "twoColumn",
+                   "width": "29.7cm",
+                   "height": "21cm"
+        },
+    "pageTemplates" : {
+        "threeColumn": {
+            "frames": [
+                ["2%", "0cm", "29.333%", "100%"],
+                ["35.333%", "0cm", "29.333%", "100%"],
+                ["68.666%", "0cm", "29.333%", "100%"]
+            ]
+      }
+    },
+    "fontsAlias" : {
+        "stdMono": "CPMono_v07 Plain"
+    },
+ "styles" : [
+  [ "base", {
+    "kerning" : true,
+    "fontSize": 6,
+    "leading": 7.5,
+    "spaceAfter": 0
+    }
+  ],
+  ["code" , {
+      "parent": "literal",
+      "leftIndent": 0,
+      "spaceBefore": 0,
+      "spaceAfter": 3,
+      "backColor": null,
+      "borderColor": null,
+      "borderWidth": 0,
+      "leading":7,
+      "borderPadding": 0,
+      "fontSize": 5
+    }],
+  ["bodytext" , {
+      "spaceBefore":0
+    }],
+  ["small" , {
+      "parent": "base",
+      "fontSize": 6
+    }],
+    ["heading1", {
+        "backColor": "#446885",
+        "borderColor": "#446885",
+        "borderWidth": 0.2,
+        "textColor": "#FFFFFF",
+        "leading": 8,
+        "alignment": "TA_CENTER",
+        "spaceBefore": 4,
+        "borderPadding": [3,0,1,0],
+        "leftIndent": 0,
+        "fontSize": 8,
+        "fontName": "stdSansBold"
+    }],
+    ["faketitle" , {
+      "borderPadding": [3,0,1,0],
+      "fontSize": 8,
+      "spaceBefore": 4,
+      "spaceAfter": 4,
+      "fontName": "stdSansBold"
+    }],
+    ["nota", { "parent": "heading",
+               "fontSize": 6,
+               "fontName": "stdSansBold",
+               "textColor": "#FFFFFF",
+               "alignment": "TA_RIGHT" 
+    }],
+    ["table" , {
+      "spaceBefore":0,
+      "spaceAfter":3,
+      "colWidths": ["50%","50%"],
+      "commands": [
+        [ "VALIGN", [0, 0], [-1, -1], "TOP" ],
+        [ "BOTTOMPADDING", [0, 0], [-1, -1], -1 ],
+        [ "LINEBELOW", [0, 0], [-1, -2], 0.2, "#E1E6EA" ]
+      ]
+    }],
+    ["exampletable1" , {
+      "spaceBefore":0,
+      "spaceAfter":3,
+      "colWidths": ["33.3%","33.3%","33.3%"],
+      "commands": [
+        [ "VALIGN", [0, 0], [-1, -1], "TOP" ],
+        [ "BOTTOMPADDING", [0, 0], [-1, -1], -1 ],
+        [ "GRID", [0, 0], [-1, -1], 0.2, "#446885" ],
+        [ "BOX", [0, 0], [-1, -1], 0.2, "#446885" ]
+      ]
+    }],
+    ["faketrans" , {
+      "spaceBefore":3,
+      "spaceAfter":3,
+      "colWidths": ["100%"],
+      "commands": [
+        [ "LINEABOVE", [0, 0], [-1, -1], 0.8, "#446885" ]
+      ]
+    }],
+    ["tablapie" , {
+      "spaceBefore":0,
+      "spaceAfter":0,
+      "colWidths": ["52%","19%","12%","17%"],
+      "commands": [
+        [ "VALIGN", [0, 0], [-1, -1], "TOP" ],
+        [ "BOTTOMPADDING", [0, 0], [-1, -1], -3 ],
+        [ "LINEABOVE", [0, 0], [-1, -1], 0.4, "#446885" ]
+      ]
+    }],
+    ["izqfina" , {
+      "spaceBefore":0,
+      "spaceAfter":6,
+      "colWidths": ["10%",null],
+      "commands": [
+        [ "VALIGN", [0, 0], [-1, -1], "MIDDLE" ],
+        [ "BOTTOMPADDING", [0, 0], [-1, -1], -3 ],
+        [ "LINEBELOW", [0, 0], [-1, -2], 0.2, "#E1E6EA" ]
+      ]
+    }],
+    ["tablacreditos", {
+      "parent": "bodytext",
+      "spaceBefore":-1,
+      "spaceAfter":0,
+      "colWidths": ["50%","50%"],
+      "commands": [
+        [ "VALIGN", [0, 0], [-1, -1], "MIDDLE" ],
+        [ "BOTTOMPADDING", [0, 0], [-1, -1], -1 ],
+        [ "TOPPADDING", [0, 0], [1, 0], 3 ]
+      ]
+    }],
+     [ "endnote", {
+         "parent": "bodytext",
+         "colWidths": [52,null],
+         "spaceAfter": 4,
+         "commands": [
+            [ "VALIGN", [ 0, 0 ], [ -1, -1 ], "TOP" ],
+            [ "BOTTOMPADDING", [0, 0], [-1, -1], 0 ],
+            [ "TOPPADDING", [0, 0], [-1, -1], 1 ],
+            [ "LINEBEFORE", [0, 0], [0,-1], 1, "#E1E6EA" ]
+        ]
+    }],
+    ["extranote" , {
+      "spaceBefore":0,
+      "spaceAfter":0,
+      "colWidths": [27,null],
+      "commands": [
+        [ "VALIGN", [0, 0], [-1, -1], "MIDDLE" ],
+        [ "BOTTOMPADDING", [0, 0], [-1, -1], -3 ],
+        [ "BOX", [0, 0], [-1, -1], 0.2, "#446885" ],
+        [ "COLBACKGROUNDS", [0,0], [-1,-1], ["#446885", null]]
+      ]
+    }]
+ ]
+}
