@@ -24,7 +24,7 @@ Inline markup allows words and phrases within text to have character styles (lik
 +----------------------------------------------------------+------------------------------------------------+
 | ::                                                       |                                                |
 |                                                          |                                                |
-|    reference_                                            | `phrase reference`_                            |
+|    reference_                                            | reference_                                     |
 +----------------------------------------------------------+------------------------------------------------+
 | ::                                                       |                                                |
 |                                                          |                                                |
@@ -64,7 +64,7 @@ __ http://docutils.sourceforge.net/docs/user/rst/quickref.html#hyperlink-targets
 Escaping with Backslashes
 -------------------------
 
-reStructuredText uses backslashes ("\") to override the special meaning given to markup characters and get 
+reStructuredText uses backslashes ("\") to override the special meaning given to markup characters and get
 the literal characters themselves. To get a literal backslash, use an escaped backslash ("\\"). For example:
 
 +----------------------------------------------------------+------------------------------------------------+
@@ -94,7 +94,7 @@ Lists
 +----------------------------------------------------------+------------------------------------------------------+
 | ::                                                       |                                                      |
 |                                                          |                                                      |
-|    3. This is the first item                             |    3. This is the first item                         | 
+|    3. This is the first item                             |    3. This is the first item                         |
 |    4. This is the second item                            |    4. This is the second item                        |
 |    5. Enumerators are arabic numbers,                    |    5. Enumerators are arabic numbers,                |
 |       single letters, or roman numerals                  |       single letters, or roman numerals              |
@@ -157,7 +157,7 @@ Section Structure
 |    text.                                                 |   text.                                                |
 |                                                          |                                                        |
 |    A lone top-level section is lifted up to be the       |   A lone top-level section is lifted up to be the      |
-|    document's title                                      |   document's title                                     | 
+|    document's title                                      |   document's title                                     |
 |                                                          |                                                        |
 +----------------------------------------------------------+--------------------------------------------------------+
 
@@ -251,7 +251,7 @@ Blocks
 Tables
 ------
 
-There are two syntaxes for tables in reStructuredText. Grid tables are complete but cumbersome to create. Simple 
+There are two syntaxes for tables in reStructuredText. Grid tables are complete but cumbersome to create. Simple
 tables are easy to create but limited (no row spans, etc.).
 
 +---------------------------------------------------------------+------------------------------------------------------+
@@ -259,7 +259,7 @@ tables are easy to create but limited (no row spans, etc.).
 |                                                               |   .. class:: exampletable1                           |
 |                                                               |                                                      |
 |   +------------+------------+-----------+                     |   +------------+------------+-----------+            |
-|   | Header 1   | Header 2   | Header 3  |                     |   | Header 1   | Header 2   | Header 3  |            | 
+|   | Header 1   | Header 2   | Header 3  |                     |   | Header 1   | Header 2   | Header 3  |            |
 |   +============+============+===========+                     |   +============+============+===========+            |
 |   | body row 1 | column 2   | column 3  |                     |   | body row 1 | column 2   | column 3  |            |
 |   +------------+------------+-----------+                     |   +------------+------------+-----------+            |
@@ -288,8 +288,8 @@ tables are easy to create but limited (no row spans, etc.).
 Explicit Markup
 ---------------
 
-Explicit markup blocks are used for constructs which float (footnotes), have no direct paper-document representation 
-(hyperlink targets, comments), or require specialized processing (directives). 
+Explicit markup blocks are used for constructs which float (footnotes), have no direct paper-document representation
+(hyperlink targets, comments), or require specialized processing (directives).
 They all begin with two periods and whitespace, the "explicit markup start".
 
 +---------------------------------------------------------------+-------------------------------------------------------------+
@@ -316,7 +316,7 @@ They all begin with two periods and whitespace, the "explicit markup start".
 |   [#fourth]_ and [#third]_.                                   |   [#fourth]_ and [#third]_.                                 |
 |                                                               |                                                             |
 |   .. [#third] a.k.a. third_                                   |   .. [#third] a.k.a. third_                                 |
-|                                                               |                                                             |                    
+|                                                               |                                                             |
 |   .. [#fourth] a.k.a. fourth_                                 |   .. [#fourth] a.k.a. fourth_                               |
 +---------------------------------------------------------------+-------------------------------------------------------------+
 | ::                                                            |                                                             |
@@ -371,7 +371,7 @@ They all begin with two periods and whitespace, the "explicit markup start".
 |   programming language`__.                                    |   programming language`__.                                  |
 |                                                               |                                                             |
 |   .. _Python: http://www.python.org/                          |   .. _Python: http://www.python.org/                        |
-|                                                               |                                                             |                
+|                                                               |                                                             |
 |   __ Python_                                                  |   __ Python_                                                |
 +---------------------------------------------------------------+-------------------------------------------------------------+
 | ::                                                            |   .. _titles are targets, too:                              |
@@ -382,10 +382,10 @@ They all begin with two periods and whitespace, the "explicit markup start".
 |   Implict references, like `Titles are targets, too`_.        |   Implict references, like                                  |
 |                                                               |   `Titles are targets, too`_.                               |
 +---------------------------------------------------------------+-------------------------------------------------------------+
-|                                                                                                                             |                                                                
+|                                                                                                                             |
 |Directives are a general-purpose extension mechanism, a way of adding support for new constructs without adding              |
 |new syntax. For a description of all standard directives, see reStructuredText Directives (http://is.gd/2Ecqh).              |
-|                                                                                                                             |                                                                
+|                                                                                                                             |
 +---------------------------------------------------------------+-------------------------------------------------------------+
 | ::                                                            |                                                             |
 |                                                               |                                                             |
@@ -395,8 +395,8 @@ They all begin with two periods and whitespace, the "explicit markup start".
 |      :width: 40pt                                             |      :width: 40pt                                           |
 |                                                               |                                                             |
 +---------------------------------------------------------------+-------------------------------------------------------------+
-|                                                                                                                             |                                                                
-|                                                                                                                             |                                                                
+|                                                                                                                             |
+|                                                                                                                             |
 | Substitutions are like inline directives, allowing graphics and arbitrary constructs within text.                           |
 |                                                                                                                             |
 +---------------------------------------------------------------+-------------------------------------------------------------+
