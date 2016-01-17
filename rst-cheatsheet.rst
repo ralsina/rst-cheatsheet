@@ -1,5 +1,8 @@
 .. role:: small
 
+.. contents:: Table of Contents
+   :local:
+
 Inline Markup
 -------------
 
