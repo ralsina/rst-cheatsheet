@@ -64,8 +64,8 @@ __ http://docutils.sourceforge.net/docs/user/rst/quickref.html#hyperlink-targets
 Escaping with Backslashes
 -------------------------
 
-reStructuredText uses backslashes ("\") to override the special meaning given to markup characters and get
-the literal characters themselves. To get a literal backslash, use an escaped backslash ("\\"). For example:
+reStructuredText uses backslashes ("\\") to override the special meaning given to markup characters and get
+the literal characters themselves. To get a literal backslash, use an escaped backslash ("\\\\"). For example:
 
 +----------------------------------------------------------+------------------------------------------------+
 | ::                                                       |                                                |
