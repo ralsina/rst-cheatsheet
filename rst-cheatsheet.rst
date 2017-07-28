@@ -141,7 +141,7 @@ Lists
 
 .. raw:: pdf
 
-   Spacer 0 4
+   Spacer 0 72
 
 Section Structure
 -----------------
@@ -157,8 +157,17 @@ Section Structure
 |    text.                                                 |   text.                                                |
 |                                                          |                                                        |
 |    A lone top-level section is lifted up to be the       |   A lone top-level section is lifted up to be the      |
-|    document's title                                      |   document's title                                     |
+|    document's title.                                     |   document's title.                                    |
+|                                                          |                                                        |    
+|    Any non-alphanumeric character can be used, but       |   Any non-alphanumeric character can be used, but      |
+|    Python convention is:                                 |   Python convention is:                                |
 |                                                          |                                                        |
+|    * ``#`` with overline, for parts                      |   * ``#`` with overline, for parts                     |
+|    * ``*`` with overline, for chapters                   |   * ``*`` with overline, for chapters                  |
+|    * ``=``, for sections                                 |   * ``=``, for sections                                |
+|    * ``-``, for subsections                              |   * ``-``, for subsections                             |
+|    * ``^``, for subsubsections                           |   * ``^``, for subsubsections                          |
+|    * ``"``, for paragraphs                               |   * ``"``, for paragraphs                              |
 +----------------------------------------------------------+--------------------------------------------------------+
 
 Blocks
