@@ -91,6 +91,12 @@ Lists
 |    - Item 4: Bullets are "-", "*" or "+".                |    - Item 4: Bullets are "-", "*" or "+".            |
 |      Continuing text must be aligned after the bullet    |      Continuing text must be aligned after the bullet|
 |      and whitespace.                                     |      and whitespace.                                 |
+|    - This list item contains nested items                |    - This list item contains nested items            |
+|                                                          |                                                      |
+|      - Nested items must be indented to the same         |      - Nested items must be indented to the same     |
+|        level                                             |        level                                         |
+|      - as text of parent list, or                        |      - as text of parent list, or                    |
+|      - three characters whichever is greater             |      - three characters whichever is greater         |
 +----------------------------------------------------------+------------------------------------------------------+
 | ::                                                       |                                                      |
 |                                                          |                                                      |
