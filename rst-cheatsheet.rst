@@ -95,8 +95,6 @@ Lists
 |                                                          |                                                      |
 |      - Nested items must be indented to the same         |      - Nested items must be indented to the same     |
 |        level                                             |        level                                         |
-|      - as text of parent list, or                        |      - as text of parent list, or                    |
-|      - three characters whichever is greater             |      - three characters whichever is greater         |
 +----------------------------------------------------------+------------------------------------------------------+
 | ::                                                       |                                                      |
 |                                                          |                                                      |
@@ -128,8 +126,6 @@ Lists
 |    :Authors:                                             |    :Authors:                                         |
 |        Tony J. (Tibs) Ibbs,                              |        Tony J. (Tibs) Ibbs,                          |
 |        David Goodger                                     |        David Goodger                                 |
-|                                                          |                                                      |
-|        (and sundry other good-natured folks)             |        (and sundry other good-natured folks)         |
 |                                                          |                                                      |
 |    :Version: 1.0 of 2001/08/08                           |    :Version: 1.0 of 2001/08/08                       |
 |    :Dedication: To my father.                            |    :Dedication: To my father.                        |

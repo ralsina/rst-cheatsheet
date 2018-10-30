@@ -327,7 +327,7 @@ endobj
   41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 
   51 0 R 52 0 R ] /Contents 71 0 R /MediaBox [ 0 0 841.8898 595.2756 ] /Parent 69 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.11ef1b810312a287afd25554121e3b6a 15 0 R /FormXob.23ec01b5926120c2ac8f7d3203df8a61 11 0 R /FormXob.4afb2edf7d2506d7a99dd1a3ec07592d 36 0 R /FormXob.a2501ff5ecbd8000d66147efe5db6c77 35 0 R /FormXob.dc18cc4d2a9c353a3afb5106eba8aaef 13 0 R
+/FormXob.11ef1b810312a287afd25554121e3b6a 15 0 R /FormXob.23ec01b5926120c2ac8f7d3203df8a61 11 0 R /FormXob.33f588a35747e70748ddb362192e6c1f 35 0 R /FormXob.4afb2edf7d2506d7a99dd1a3ec07592d 36 0 R /FormXob.dc18cc4d2a9c353a3afb5106eba8aaef 13 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -546,7 +546,7 @@ endobj
 endobj
 59 0 obj
 <<
-/Author () /CreationDate (D:20181029200955+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20181029200955+03'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20181030075440+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20181030075440+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
@@ -602,7 +602,7 @@ endobj
 endobj
 70 0 obj
 <<
-/Length 26639
+/Length 27231
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1009,11 +1009,11 @@ q
 1 0 0 1 6 378.2756 cm
 Q
 q
-1 0 0 1 6 55.57559 cm
+1 0 0 1 6 42.57559 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 265.5 cm
+1 0 0 1 6 250.5 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1021,20 +1021,20 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 51 Tm /F3+0 5 Tf 7 TL (- This is item 1. A blank line before the first) Tj T* (  and last items is required.) Tj T* (- This is item 2) Tj T*  T* (- Item 3: blank lines between items are optional.) Tj T* (- Item 4: Bullets are "-", "*" or "+".) Tj T* (  Continuing text must be aligned after the bullet) Tj T* (  and whitespace.) Tj T* ET
+BT 1 0 0 1 0 79 Tm /F3+0 5 Tf 7 TL (- This is item 1. A blank line before the first) Tj T* (  and last items is required.) Tj T* (- This is item 2) Tj T*  T* (- Item 3: blank lines between items are optional.) Tj T* (- Item 4: Bullets are "-", "*" or "+".) Tj T* (  Continuing text must be aligned after the bullet) Tj T* (  and whitespace.) Tj T* (- This list item contains nested items) Tj T*  T* (  - Nested items must be indented to the same) Tj T* (    level) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 206.263 321.7 cm
+1 0 0 1 206.263 334.7 cm
 Q
 q
-1 0 0 1 206.263 321.7 cm
+1 0 0 1 206.263 334.7 cm
 Q
 q
-1 0 0 1 206.263 306.7 cm
+1 0 0 1 206.263 319.7 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1055,10 +1055,10 @@ q
 Q
 Q
 q
-1 0 0 1 206.263 306.7 cm
+1 0 0 1 206.263 319.7 cm
 Q
 q
-1 0 0 1 206.263 299.2 cm
+1 0 0 1 206.263 312.2 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1079,10 +1079,10 @@ q
 Q
 Q
 q
-1 0 0 1 206.263 299.2 cm
+1 0 0 1 206.263 312.2 cm
 Q
 q
-1 0 0 1 206.263 291.7 cm
+1 0 0 1 206.263 304.7 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1103,10 +1103,10 @@ q
 Q
 Q
 q
-1 0 0 1 206.263 291.7 cm
+1 0 0 1 206.263 304.7 cm
 Q
 q
-1 0 0 1 206.263 276.7 cm
+1 0 0 1 206.263 289.7 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1127,10 +1127,64 @@ q
 Q
 Q
 q
-1 0 0 1 206.263 276.7 cm
+1 0 0 1 206.263 289.7 cm
 Q
 q
-1 0 0 1 6 201.3 cm
+1 0 0 1 206.263 274.7 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 4.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F1 6 Tf 7.5 TL 11.9 0 Td (\177) Tj T* -11.9 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 4.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F1 6 Tf 7.5 TL (This list item contains nested items) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 4.5 cm
+Q
+q
+1 0 0 1 23 4.5 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F1 6 Tf 7.5 TL 11.9 0 Td (\177) Tj T* -11.9 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F1 6 Tf 7.5 TL (Nested items must be indented to the same level) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 206.263 274.7 cm
+Q
+q
+1 0 0 1 6 186.3 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1145,13 +1199,13 @@ Q
 Q
 Q
 q
-1 0 0 1 206.263 264.5 cm
+1 0 0 1 206.263 249.5 cm
 Q
 q
-1 0 0 1 206.263 264.5 cm
+1 0 0 1 206.263 249.5 cm
 Q
 q
-1 0 0 1 206.263 257 cm
+1 0 0 1 206.263 242 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1172,10 +1226,10 @@ q
 Q
 Q
 q
-1 0 0 1 206.263 257 cm
+1 0 0 1 206.263 242 cm
 Q
 q
-1 0 0 1 206.263 249.5 cm
+1 0 0 1 206.263 234.5 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1196,10 +1250,10 @@ q
 Q
 Q
 q
-1 0 0 1 206.263 249.5 cm
+1 0 0 1 206.263 234.5 cm
 Q
 q
-1 0 0 1 206.263 234.5 cm
+1 0 0 1 206.263 219.5 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1220,10 +1274,10 @@ q
 Q
 Q
 q
-1 0 0 1 206.263 234.5 cm
+1 0 0 1 206.263 219.5 cm
 Q
 q
-1 0 0 1 206.263 219.5 cm
+1 0 0 1 206.263 204.5 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1244,10 +1298,10 @@ q
 Q
 Q
 q
-1 0 0 1 206.263 219.5 cm
+1 0 0 1 206.263 204.5 cm
 Q
 q
-1 0 0 1 206.263 212 cm
+1 0 0 1 206.263 197 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1268,10 +1322,10 @@ q
 Q
 Q
 q
-1 0 0 1 206.263 212 cm
+1 0 0 1 206.263 197 cm
 Q
 q
-1 0 0 1 6 130.1 cm
+1 0 0 1 6 115.1 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1286,14 +1340,14 @@ Q
 Q
 Q
 q
-1 0 0 1 206.263 192.8 cm
+1 0 0 1 206.263 177.8 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.5 Tm /F2 6 Tf 7.5 TL (what) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 177.8 cm
+1 0 0 1 206.263 162.8 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1308,14 +1362,14 @@ q
 Q
 Q
 q
-1 0 0 1 206.263 166.3 cm
+1 0 0 1 206.263 151.3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.5 Tm /F2 6 Tf 7.5 TL (how) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.263 140.8 cm
+1 0 0 1 206.263 125.8 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 12.5 Tm  T* ET
@@ -1330,7 +1384,7 @@ q
 Q
 Q
 q
-1 0 0 1 6 72.9 cm
+1 0 0 1 6 71.9 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1338,38 +1392,31 @@ q
 1 0 0 1 .1 .1 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 51 Tm /F3+0 5 Tf 7 TL (:Authors:) Tj T* (    Tony J. \(Tibs\) Ibbs,) Tj T* (    David Goodger) Tj T*  T* (    \(and sundry other good-natured folks\)) Tj T*  T* (:Version: 1.0 of 2001/08/08) Tj T* (:Dedication: To my father.) Tj T* ET
+BT 1 0 0 1 0 37 Tm /F3+0 5 Tf 7 TL (:Authors:) Tj T* (    Tony J. \(Tibs\) Ibbs,) Tj T* (    David Goodger) Tj T*  T* (:Version: 1.0 of 2001/08/08) Tj T* (:Dedication: To my father.) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 206.263 123.1 cm
+1 0 0 1 206.263 108.1 cm
 Q
 q
 1 0 0 1 206.263 90.1 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 25.5 cm
+1 0 0 1 6 10.5 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.5 Tm /F2 6 Tf 7.5 TL 48.04337 0 Td (Authors:) Tj T* -48.04337 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 18 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 9 Tm /F1 6 Tf 7.5 TL 5.717906 Tw (Tony J. \(Tibs\) Ibbs, David) Tj T* 0 Tw (Goodger) Tj T* ET
-Q
-Q
-q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 9 Tm /F1 6 Tf 7.5 TL 2.281874 Tw (\(and sundry other good-natured) Tj T* 0 Tw (folks\)) Tj T* ET
+BT 1 0 0 1 0 9 Tm /F1 6 Tf 7.5 TL 5.717906 Tw (Tony J. \(Tibs\) Ibbs, David) Tj T* 0 Tw (Goodger) Tj T* ET
 Q
 Q
 q
@@ -1582,14 +1629,14 @@ q
 1 j
 .882353 .901961 .917647 RG
 .2 w
-n 0 265.5 m 400.526 265.5 l S
-n 0 201.3 m 400.526 201.3 l S
-n 0 130.1 m 400.526 130.1 l S
+n 0 250.5 m 400.526 250.5 l S
+n 0 186.3 m 400.526 186.3 l S
+n 0 115.1 m 400.526 115.1 l S
 n 0 69.1 m 400.526 69.1 l S
 Q
 Q
 q
-1 0 0 1 6 52.57559 cm
+1 0 0 1 6 39.57559 cm
 Q
 q
 1 0 0 1 6 26.5 cm
@@ -2972,7 +3019,7 @@ q
 1 0 0 1 206.263 146.6 cm
 q
 40 0 0 30 0 0 cm
-/FormXob.a2501ff5ecbd8000d66147efe5db6c77 Do
+/FormXob.33f588a35747e70748ddb362192e6c1f Do
 Q
 Q
 q
@@ -3541,14 +3588,14 @@ xref
 0000080539 00000 n 
 0000080648 00000 n 
 0000080716 00000 n 
-0000107408 00000 n 
-0000130064 00000 n 
-0000130114 00000 n 
-0000130148 00000 n 
+0000108000 00000 n 
+0000130656 00000 n 
+0000130706 00000 n 
+0000130740 00000 n 
 trailer
 <<
 /ID 
-[<3a35034200dd05d37dd345b7beee2e26><3a35034200dd05d37dd345b7beee2e26>]
+[<9413f83be02df09402f83544328e6496><9413f83be02df09402f83544328e6496>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 59 0 R
@@ -3556,5 +3603,5 @@ trailer
 /Size 75
 >>
 startxref
-130182
+130774
 %%EOF
