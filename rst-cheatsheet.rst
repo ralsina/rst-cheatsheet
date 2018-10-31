@@ -91,6 +91,10 @@ Lists
 |    - Item 4: Bullets are "-", "*" or "+".                |    - Item 4: Bullets are "-", "*" or "+".            |
 |      Continuing text must be aligned after the bullet    |      Continuing text must be aligned after the bullet|
 |      and whitespace.                                     |      and whitespace.                                 |
+|    - This list item contains nested items                |    - This list item contains nested items            |
+|                                                          |                                                      |
+|      - Nested items must be indented to the same         |      - Nested items must be indented to the same     |
+|        level                                             |        level                                         |
 +----------------------------------------------------------+------------------------------------------------------+
 | ::                                                       |                                                      |
 |                                                          |                                                      |
@@ -122,8 +126,6 @@ Lists
 |    :Authors:                                             |    :Authors:                                         |
 |        Tony J. (Tibs) Ibbs,                              |        Tony J. (Tibs) Ibbs,                          |
 |        David Goodger                                     |        David Goodger                                 |
-|                                                          |                                                      |
-|        (and sundry other good-natured folks)             |        (and sundry other good-natured folks)         |
 |                                                          |                                                      |
 |    :Version: 1.0 of 2001/08/08                           |    :Version: 1.0 of 2001/08/08                       |
 |    :Dedication: To my father.                            |    :Dedication: To my father.                        |
