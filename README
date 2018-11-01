@@ -1,4 +1,4 @@
-If you just want the PDF, click here: 
+If you just want the PDF, click here:
 
 http://github.com/ralsina/rst-cheatsheet/raw/master/rst-cheatsheet.pdf
 
@@ -12,4 +12,6 @@ Magnetic Balls V2 by fdecomite: http://www.flickr.com/photos/fdecomite/292655679
 
 To build:
 
-rst2pdf rst-cheatsheet.rst -s cheatsheet
+rst2pdf rst-cheatsheet.rst --stylesheets=cheatsheet
+# or
+make build
