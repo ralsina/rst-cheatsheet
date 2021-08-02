@@ -1,6 +1,6 @@
 docutils==0.14
 pdfrw==0.4
-Pillow==8.1.0
+Pillow==8.1.1
 Pygments==2.7.4
 reportlab==3.5.34
 rst2pdf==0.93
